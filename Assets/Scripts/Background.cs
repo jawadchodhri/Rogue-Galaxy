@@ -18,6 +18,11 @@ public class Background : MonoBehaviour
 
     private void Update()
     {
+        BackGroundMovement();
+    }
+
+    private void BackGroundMovement()
+    {
         float moveAmount = scrollSpeed * Time.deltaTime;
 
         farGround.position += Vector3.down * moveAmount;
