@@ -676,13 +676,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1263bf6b8be728b4abaf7d21abc9a486, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyWaveSpawner
-  enemyPrefabs:
-  - {fileID: 2439568327012844183, guid: 33527a56a795138408756c0f89ee2d18, type: 3}
-  - {fileID: 2439568327012844183, guid: f28bc279995ab8d4b97d4710055918d2, type: 3}
-  - {fileID: 2439568327012844183, guid: ac1556331fb97f94c8e32feefa0d25bc, type: 3}
-  enemyCount: 18
+  waves:
+  - waveName: First
+    batches:
+    - batchName: 
+      enemyPrefab: {fileID: 0}
+      count: 0
+      spawnDelay: 0
+    - batchName: 
+      enemyPrefab: {fileID: 0}
+      count: 0
+      spawnDelay: 0
+    - batchName: 
+      enemyPrefab: {fileID: 0}
+      count: 0
+      spawnDelay: 0
+    delayBeforeWave: 0
+  - waveName: 
+    batches: []
+    delayBeforeWave: 0
+  - waveName: 
+    batches: []
+    delayBeforeWave: 0
   spawnY: 6
   horizontalPadding: 0.5
+  delayBetweenBatches: 1
 --- !u!1 &1475219575
 GameObject:
   m_ObjectHideFlags: 0
