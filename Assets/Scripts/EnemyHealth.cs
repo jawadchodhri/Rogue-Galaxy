@@ -2,9 +2,9 @@ using UnityEngine;
 
 public class EnemyHealth : MonoBehaviour
 {
-    [SerializeField] private int maxHealth = 1;
+    [SerializeField] private float maxHealth = 1;
 
-    private int currentHealth;
+    private float currentHealth;
     private EnemyWaveMember waveMember;
 
     private void Awake()
@@ -22,7 +22,7 @@ public class EnemyHealth : MonoBehaviour
         currentHealth = maxHealth;
     }
 
-    public void TakeDamage(int damage)
+    public void TakeDamage(float damage)
     {
         currentHealth -= damage;
 
