@@ -6,9 +6,11 @@ public class Bullet : MonoBehaviour
     [SerializeField] private float lifeTime = 3f;
     [SerializeField] private int damage = 1;
 
+    private bool hasHit;
+
     private void OnEnable()
     {
-        // Auto destroy to avoid leaks
+        hasHit = false;
         Invoke(nameof(Disable), lifeTime);
     }
 
@@ -19,9 +21,17 @@ public class Bullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        if (hasHit) return;
+
         EnemyHealth enemy = other.GetComponent<EnemyHealth>();
 
+        // important fallback
+        if (enemy == null)
+            enemy = other.GetComponentInParent<EnemyHealth>();
+
         if (enemy == null) return;
+
+        hasHit = true;
 
         enemy.TakeDamage(damage);
         Destroy(gameObject);
