@@ -24,7 +24,7 @@ public class EnemyZigZagMovement : MonoBehaviour
     private void Start()
     {
         SetupCameraBounds();
-        // RandomizeDirection();
+        RandomizeDirection();
     }
 
     public void Initialize(EnemyWaveSpawner owner)
@@ -76,13 +76,13 @@ public class EnemyZigZagMovement : MonoBehaviour
             if (spawner == null) return;
 
             transform.position = spawner.GetRandomSpawnPosition();
-            // RandomizeDirection();
+            RandomizeDirection();
             Debug.Log("ZigZag Enemy reappeared at top: " + transform.position);
         }
     }
 
-    // private void RandomizeDirection()
-    // {
-    //     direction = Random.value < 0.5f ? -1f : 1f;
-    // }
+    private void RandomizeDirection()
+    {
+        direction = Random.value < 0.5f ? -1f : 1f;
+    }
 }
