@@ -7,13 +7,17 @@ public class EnemyWaveMember : MonoBehaviour
     public void Initialize(EnemyWaveSpawner owner)
     {
         spawner = owner;
+
+        EnemyStraightMovement straightMovement = GetComponent<EnemyStraightMovement>();
+        if (straightMovement != null)
+            straightMovement.Initialize(owner);
     }
 
-    public void Die()
+    public void DieByPlayer()
     {
         if (spawner != null)
             spawner.OnEnemyKilled();
 
-        Destroy(gameObject);
+        gameObject.SetActive(false);
     }
 }

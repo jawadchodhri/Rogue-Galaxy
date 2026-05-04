@@ -9,12 +9,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2864599306988744779}
-  - component: {fileID: 8927210245516820533}
   - component: {fileID: -6299118785047287}
   - component: {fileID: 47684539763905399}
+  - component: {fileID: 5369698194008752534}
   - component: {fileID: -817390067751233519}
   - component: {fileID: 5708883036089443510}
-  - component: {fileID: 2007823884461096634}
+  - component: {fileID: 8927210245516820533}
   m_Layer: 0
   m_Name: LadyBug
   m_TagString: Untagged
@@ -37,19 +37,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8927210245516820533
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2439568327012844183}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 22af46a68f64a2546bd9a65d0a990c40, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
-  maxHealth: 1
 --- !u!212 &-6299118785047287
 SpriteRenderer:
   serializedVersion: 2
@@ -139,7 +126,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -155,6 +142,33 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.6841053, y: 0.7253681}
   m_EdgeRadius: 0
+--- !u!50 &5369698194008752534
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2439568327012844183}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!114 &-817390067751233519
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -169,6 +183,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyStraightMovement
   moveSpeed: 2
   horizontalPadding: 0.4
+  bottomPadding: 1
 --- !u!114 &5708883036089443510
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -181,7 +196,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58fd248d2a91fa544838e571eb6901b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyWaveMember
---- !u!114 &2007823884461096634
+--- !u!114 &8927210245516820533
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -190,7 +205,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2439568327012844183}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5c07df5ae26857540905b6c5e126652a, type: 3}
+  m_Script: {fileID: 11500000, guid: 22af46a68f64a2546bd9a65d0a990c40, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyBottomRespawn
-  bottomPadding: 1
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
+  maxHealth: 1

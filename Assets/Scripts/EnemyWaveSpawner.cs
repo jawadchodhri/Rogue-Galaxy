@@ -159,7 +159,7 @@ public class EnemyWaveSpawner : MonoBehaviour
         maxX = mainCamera.transform.position.x + halfWidth - horizontalPadding;
     }
 
-    private Vector3 GetRandomSpawnPosition()
+    public Vector3 GetRandomSpawnPosition()
     {
         return new Vector3(
             Random.Range(minX, maxX),

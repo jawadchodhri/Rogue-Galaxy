@@ -30,7 +30,7 @@ public class EnemyHealth : MonoBehaviour
         {
             if (waveMember != null)
             {
-                waveMember.Die();
+                waveMember.DieByPlayer();
             }
             else
                 Destroy(gameObject);
