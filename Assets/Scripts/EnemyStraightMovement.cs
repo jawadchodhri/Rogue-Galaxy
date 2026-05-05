@@ -61,7 +61,6 @@ public class EnemyStraightMovement : MonoBehaviour
             if (spawner != null)
             {
                 transform.position = spawner.GetRandomSpawnPosition();
-                Debug.Log("Bugs Enemy reappeared at top: " + transform.position);
             }
         }
     }

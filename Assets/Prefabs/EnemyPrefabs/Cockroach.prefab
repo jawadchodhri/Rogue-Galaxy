@@ -9,10 +9,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2864599306988744779}
-  - component: {fileID: 8927210245516820533}
   - component: {fileID: 680938402073485032}
   - component: {fileID: 1260122497281645762}
   - component: {fileID: 6331325029428951669}
+  - component: {fileID: 8927210245516820533}
   - component: {fileID: -5479655422308364052}
   - component: {fileID: -5971483626154171961}
   m_Layer: 0
@@ -37,19 +37,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8927210245516820533
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2439568327012844183}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 22af46a68f64a2546bd9a65d0a990c40, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
-  maxHealth: 1
 --- !u!212 &680938402073485032
 SpriteRenderer:
   serializedVersion: 2
@@ -182,6 +169,19 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &8927210245516820533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2439568327012844183}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22af46a68f64a2546bd9a65d0a990c40, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
+  maxHealth: 1
 --- !u!114 &-5479655422308364052
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -209,3 +209,4 @@ MonoBehaviour:
   downSpeed: 2
   sideSpeed: 2
   horizontalPadding: 0.4
+  bottomPadding: 1

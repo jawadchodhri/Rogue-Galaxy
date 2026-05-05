@@ -73,11 +73,15 @@ public class EnemyZigZagMovement : MonoBehaviour
     {
         if (transform.position.y < bottomY)
         {
-            if (spawner == null) return;
-
-            transform.position = spawner.GetRandomSpawnPosition();
-            RandomizeDirection();
-            Debug.Log("ZigZag Enemy reappeared at top: " + transform.position);
+            if (spawner == null)
+            {
+                return;
+            }
+            else
+            {
+                transform.position = spawner.GetRandomSpawnPosition();
+                RandomizeDirection();
+            }
         }
     }
 

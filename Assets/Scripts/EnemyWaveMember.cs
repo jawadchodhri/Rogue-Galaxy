@@ -9,8 +9,12 @@ public class EnemyWaveMember : MonoBehaviour
         spawner = owner;
 
         EnemyStraightMovement straightMovement = GetComponent<EnemyStraightMovement>();
-        if (straightMovement != null)
-            straightMovement.Initialize(owner);
+            if (straightMovement != null)
+                straightMovement.Initialize(owner);
+
+        EnemyZigZagMovement zigZagMovement = GetComponent<EnemyZigZagMovement>();
+            if (zigZagMovement != null)
+                zigZagMovement.Initialize(owner);
     }
 
     public void DieByPlayer()
@@ -18,6 +22,6 @@ public class EnemyWaveMember : MonoBehaviour
         if (spawner != null)
             spawner.OnEnemyKilled();
 
-        gameObject.SetActive(false);
+        Destroy(gameObject);
     }
 }

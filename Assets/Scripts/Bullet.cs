@@ -4,7 +4,7 @@ public class Bullet : MonoBehaviour
 {
     [SerializeField] private float speed = 10f;
     [SerializeField] private float lifeTime = 3f;
-    [SerializeField] private float damage = 1;
+    [SerializeField] private float damage;
 
     private bool hasHit;
 
@@ -26,8 +26,8 @@ public class Bullet : MonoBehaviour
         EnemyHealth enemy = other.GetComponent<EnemyHealth>();
 
         // important fallback
-        if (enemy == null)
-            enemy = other.GetComponentInParent<EnemyHealth>();
+        // if (enemy == null)
+        //     enemy = other.GetComponentInParent<EnemyHealth>();
 
         if (enemy == null) return;
 
