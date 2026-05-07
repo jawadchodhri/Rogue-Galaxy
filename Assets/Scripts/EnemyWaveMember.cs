@@ -15,6 +15,10 @@ public class EnemyWaveMember : MonoBehaviour
         EnemyZigZagMovement zigZagMovement = GetComponent<EnemyZigZagMovement>();
             if (zigZagMovement != null)
                 zigZagMovement.Initialize(owner);
+
+        // EnemyStraightMovement straightMovement = GetComponent<EnemyStraightMovement>();
+        //     if (straightMovement != null)
+        //         straightMovement.Initialize(owner);
     }
 
     public void DieByPlayer()

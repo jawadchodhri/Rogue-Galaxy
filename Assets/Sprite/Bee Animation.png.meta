@@ -1,0 +1,3380 @@
+fileFormatVersion: 2
+guid: 200bb17129d6443b7a104957300aebd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7113438816380542146
+    second: Bee Animation_0
+  - first:
+      213: -5617615171888796821
+    second: Bee Animation_1
+  - first:
+      213: -169378402093997168
+    second: Bee Animation_2
+  - first:
+      213: -3746880590638909118
+    second: Bee Animation_3
+  - first:
+      213: -2990207499545359527
+    second: Bee Animation_4
+  - first:
+      213: -7442369418472392129
+    second: Bee Animation_5
+  - first:
+      213: 2776205804524607030
+    second: Bee Animation_6
+  - first:
+      213: 5735972662869067569
+    second: Bee Animation_7
+  - first:
+      213: -702039964853689783
+    second: Bee Animation_8
+  - first:
+      213: 7057288590030271491
+    second: Bee Animation_9
+  - first:
+      213: -3198976587127709977
+    second: Bee Animation_10
+  - first:
+      213: -1086518423934405883
+    second: Bee Animation_11
+  - first:
+      213: -4726929070812581015
+    second: Bee Animation_12
+  - first:
+      213: 7774985140699366321
+    second: Bee Animation_13
+  - first:
+      213: -291178142972549099
+    second: Bee Animation_14
+  - first:
+      213: -2785923373750371705
+    second: Bee Animation_15
+  - first:
+      213: -4479199720107854539
+    second: Bee Animation_16
+  - first:
+      213: 2330995745364008609
+    second: Bee Animation_17
+  - first:
+      213: -708725373558750789
+    second: Bee Animation_18
+  - first:
+      213: -6347347280718865237
+    second: Bee Animation_19
+  - first:
+      213: 3924619425902638325
+    second: Bee Animation_20
+  - first:
+      213: 466243801938937963
+    second: Bee Animation_21
+  - first:
+      213: -3871536774845299964
+    second: Bee Animation_22
+  - first:
+      213: 8503905007288004687
+    second: Bee Animation_23
+  - first:
+      213: 58375677821698208
+    second: Bee Animation_24
+  - first:
+      213: -364536561025016374
+    second: Bee Animation_25
+  - first:
+      213: -2020576181758936292
+    second: Bee Animation_26
+  - first:
+      213: 1410432282197888943
+    second: Bee Animation_27
+  - first:
+      213: -6412400552183437129
+    second: Bee Animation_28
+  - first:
+      213: 7220314881343430128
+    second: Bee Animation_29
+  - first:
+      213: -4165890484113572893
+    second: Bee Animation_30
+  - first:
+      213: 8597593442119090463
+    second: Bee Animation_31
+  - first:
+      213: 5504609777907593563
+    second: Bee Animation_32
+  - first:
+      213: -2390914052322291061
+    second: Bee Animation_33
+  - first:
+      213: 617698011663760274
+    second: Bee Animation_34
+  - first:
+      213: -3771519821387018305
+    second: Bee Animation_35
+  - first:
+      213: -2063853651874585294
+    second: Bee Animation_36
+  - first:
+      213: -2268223119922113292
+    second: Bee Animation_37
+  - first:
+      213: 2238330906815950107
+    second: Bee Animation_38
+  - first:
+      213: -2492648402648762113
+    second: Bee Animation_39
+  - first:
+      213: 5068814202734990919
+    second: Bee Animation_40
+  - first:
+      213: 3704775570682414537
+    second: Bee Animation_41
+  - first:
+      213: 7129276359250218702
+    second: Bee Animation_42
+  - first:
+      213: 4840784337534628160
+    second: Bee Animation_43
+  - first:
+      213: -7940503491102334799
+    second: Bee Animation_44
+  - first:
+      213: 331832407789894359
+    second: Bee Animation_45
+  - first:
+      213: -1570324525416393467
+    second: Bee Animation_46
+  - first:
+      213: 5389875327235501432
+    second: Bee Animation_47
+  - first:
+      213: 6494836918939031577
+    second: Bee Animation_48
+  - first:
+      213: 4341154613307951713
+    second: Bee Animation_49
+  - first:
+      213: -4182245522680402460
+    second: Bee Animation_50
+  - first:
+      213: -7472976153085524819
+    second: Bee Animation_51
+  - first:
+      213: 878687613384980676
+    second: Bee Animation_52
+  - first:
+      213: -3069431516792780166
+    second: Bee Animation_53
+  - first:
+      213: -5074041377658128160
+    second: Bee Animation_54
+  - first:
+      213: -5004562117690405525
+    second: Bee Animation_55
+  - first:
+      213: 4177612378494693369
+    second: Bee Animation_56
+  - first:
+      213: 8698513381753540615
+    second: Bee Animation_57
+  - first:
+      213: 7053683373141674341
+    second: Bee Animation_58
+  - first:
+      213: 4949807775378412779
+    second: Bee Animation_59
+  - first:
+      213: -2491220075303335647
+    second: Bee Animation_60
+  - first:
+      213: 4203496532502609040
+    second: Bee Animation_61
+  - first:
+      213: -5954445959229262863
+    second: Bee Animation_62
+  - first:
+      213: 3257394570607405002
+    second: Bee Animation_63
+  - first:
+      213: -902931534872120389
+    second: Bee Animation_64
+  - first:
+      213: -2094879198993666574
+    second: Bee Animation_65
+  - first:
+      213: 4958205189934692525
+    second: Bee Animation_66
+  - first:
+      213: 737851472961124603
+    second: Bee Animation_67
+  - first:
+      213: 5217976090886112889
+    second: Bee Animation_68
+  - first:
+      213: 4589605166163405852
+    second: Bee Animation_69
+  - first:
+      213: -1643061806388731140
+    second: Bee Animation_70
+  - first:
+      213: -3075330418241661760
+    second: Bee Animation_71
+  - first:
+      213: -8512874207075803826
+    second: Bee Animation_72
+  - first:
+      213: 472454103847089736
+    second: Bee Animation_73
+  - first:
+      213: 4776805079537134437
+    second: Bee Animation_74
+  - first:
+      213: 4181471458921258006
+    second: Bee Animation_75
+  - first:
+      213: -3225490629867924231
+    second: Bee Animation_76
+  - first:
+      213: -8886778413074335254
+    second: Bee Animation_77
+  - first:
+      213: 4034750614758985385
+    second: Bee Animation_78
+  - first:
+      213: 5380035925931481699
+    second: Bee Animation_79
+  - first:
+      213: 3788437259705779579
+    second: Bee Animation_80
+  - first:
+      213: -8276428535862315556
+    second: Bee Animation_81
+  - first:
+      213: -7868904959825273994
+    second: Bee Animation_82
+  - first:
+      213: 7614301483472906629
+    second: Bee Animation_83
+  - first:
+      213: -503878837954957119
+    second: Bee Animation_84
+  - first:
+      213: -5688549200475125901
+    second: Bee Animation_85
+  - first:
+      213: 3351901613312132111
+    second: Bee Animation_86
+  - first:
+      213: -5683325021793164363
+    second: Bee Animation_87
+  - first:
+      213: 420485824384243128
+    second: Bee Animation_88
+  - first:
+      213: -4799577990779117977
+    second: Bee Animation_89
+  - first:
+      213: 9124275611107214842
+    second: Bee Animation_90
+  - first:
+      213: 3359303033637532887
+    second: Bee Animation_91
+  - first:
+      213: 8070955737671826534
+    second: Bee Animation_92
+  - first:
+      213: -4675476083366077385
+    second: Bee Animation_93
+  - first:
+      213: 6577541317662333133
+    second: Bee Animation_94
+  - first:
+      213: 8431538357278611132
+    second: Bee Animation_95
+  - first:
+      213: 5007801502653932781
+    second: Bee Animation_96
+  - first:
+      213: 1244529835855393836
+    second: Bee Animation_97
+  - first:
+      213: 2600078734339771272
+    second: Bee Animation_98
+  - first:
+      213: 6262906860044467553
+    second: Bee Animation_99
+  - first:
+      213: 3431278167146681422
+    second: Bee Animation_100
+  - first:
+      213: 1810567458184803031
+    second: Bee Animation_101
+  - first:
+      213: 9060899997285171394
+    second: Bee Animation_102
+  - first:
+      213: 2068769409260151684
+    second: Bee Animation_103
+  - first:
+      213: 882770929898574125
+    second: Bee Animation_104
+  - first:
+      213: -8786389354663150321
+    second: Bee Animation_105
+  - first:
+      213: 7798697996867978075
+    second: Bee Animation_106
+  - first:
+      213: -789414508246413618
+    second: Bee Animation_107
+  - first:
+      213: -3485022161675718404
+    second: Bee Animation_108
+  - first:
+      213: 2390621624876764231
+    second: Bee Animation_109
+  - first:
+      213: -571311889746909652
+    second: Bee Animation_110
+  - first:
+      213: -2228758570157226681
+    second: Bee Animation_111
+  - first:
+      213: -8336439175711515409
+    second: Bee Animation_112
+  - first:
+      213: 5527401261908316051
+    second: Bee Animation_113
+  - first:
+      213: -3451022522537777446
+    second: Bee Animation_114
+  - first:
+      213: 142893782202034728
+    second: Bee Animation_115
+  - first:
+      213: 7764474315081786763
+    second: Bee Animation_116
+  - first:
+      213: 720167768566505120
+    second: Bee Animation_117
+  - first:
+      213: -7189605779724898247
+    second: Bee Animation_118
+  - first:
+      213: 5804394792806173272
+    second: Bee Animation_119
+  - first:
+      213: -4050166672335265587
+    second: Bee Animation_120
+  - first:
+      213: -2054717484222743476
+    second: Bee Animation_121
+  - first:
+      213: -1824221309233333637
+    second: Bee Animation_122
+  - first:
+      213: 3991033929595334609
+    second: Bee Animation_123
+  - first:
+      213: 4603502921704918677
+    second: Bee Animation_124
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bee Animation_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3650
+        width: 176
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc56d53ae208b260800000000000000
+      internalID: 7113438816380542146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 3650
+        width: 176
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b29bab3c83a02b0800000000000000
+      internalID: -5617615171888796821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_2
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 3650
+        width: 176
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093609e9d3f36adf0800000000000000
+      internalID: -169378402093997168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_3
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 3650
+        width: 149
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249792364f7600cc0800000000000000
+      internalID: -3746880590638909118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_4
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 3780
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bc3e83f16a086d0800000000000000
+      internalID: -2990207499545359527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_5
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 3779
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3af8bcf17467b890800000000000000
+      internalID: -7442369418472392129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_6
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 3650
+        width: 181
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63611126870178620800000000000000
+      internalID: 2776205804524607030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 3410
+        width: 179
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13789a31fb44a9f40800000000000000
+      internalID: 5735972662869067569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_8
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3409
+        width: 181
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942a4cc1f5ad146f0800000000000000
+      internalID: -702039964853689783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_9
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 3408
+        width: 173
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304fb2ed49680f160800000000000000
+      internalID: 7057288590030271491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_10
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 3405
+        width: 177
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee167f2eb3fa93d0800000000000000
+      internalID: -3198976587127709977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_11
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 3404
+        width: 181
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503f8730049ebe0f0800000000000000
+      internalID: -1086518423934405883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3162
+        width: 170
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963bfbfed03966eb0800000000000000
+      internalID: -4726929070812581015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_13
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3160
+        width: 182
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b38355bacb46eb60800000000000000
+      internalID: 7774985140699366321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_14
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 3284
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51863cd850785fbf0800000000000000
+      internalID: -291178142972549099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_15
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3284
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ab628b3796659d0800000000000000
+      internalID: -2785923373750371705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_16
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 3158
+        width: 177
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53531fc169fa6d1c0800000000000000
+      internalID: -4479199720107854539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_17
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 3283
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae5e5fb74c595020800000000000000
+      internalID: 2330995745364008609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_18
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3157
+        width: 182
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb189b9170a1a26f0800000000000000
+      internalID: -708725373558750789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_19
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 3156
+        width: 168
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacd5b22741b9e7a0800000000000000
+      internalID: -6347347280718865237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_20
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2917
+        width: 182
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f43687039c077630800000000000000
+      internalID: 3924619425902638325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_21
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2918
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b684c41844e687600800000000000000
+      internalID: 466243801938937963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_22
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 2920
+        width: 183
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4030c78c0d9854ac0800000000000000
+      internalID: -3871536774845299964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_23
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 2924
+        width: 172
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40311b6c80f30670800000000000000
+      internalID: 8503905007288004687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_24
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 2926
+        width: 182
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0c514ae546fc000800000000000000
+      internalID: 58375677821698208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2823
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd167cdde7e0faf0800000000000000
+      internalID: -364536561025016374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_26
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2821
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bb4ac0ba875f3e0800000000000000
+      internalID: -2020576181758936292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_27
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2693
+        width: 183
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf062810bcd29310800000000000000
+      internalID: 1410432282197888943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_28
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 2695
+        width: 172
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b866911ca39207a0800000000000000
+      internalID: -6412400552183437129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_29
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2825
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd11f43126b33460800000000000000
+      internalID: 7220314881343430128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_30
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 2826
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebfa313da8cf26c0800000000000000
+      internalID: -4165890484113572893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_31
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2699
+        width: 181
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f118cb00fa9c05770800000000000000
+      internalID: 8597593442119090463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_32
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 2701
+        width: 178
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51f257ad6d446c40800000000000000
+      internalID: 5504609777907593563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2690
+        width: 182
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8217d64654c1ded0800000000000000
+      internalID: -2390914052322291061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_34
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2462
+        width: 182
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bfea3a111829800800000000000000
+      internalID: 617698011663760274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_35
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2462
+        width: 170
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfc1ee64bed8abc0800000000000000
+      internalID: -3771519821387018305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_36
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 2462
+        width: 184
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2356f93d908bb53e0800000000000000
+      internalID: -2063853651874585294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_37
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 2462
+        width: 179
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4d6b90717a580e0800000000000000
+      internalID: -2268223119922113292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_38
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 2462
+        width: 183
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dea8eb916201f10800000000000000
+      internalID: 2238330906815950107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_39
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2222
+        width: 179
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8fc220c75586dd0800000000000000
+      internalID: -2492648402648762113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_40
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2222
+        width: 181
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746597269ab085640800000000000000
+      internalID: 5068814202734990919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_41
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 2222
+        width: 179
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c50217b0c10a6330800000000000000
+      internalID: 3704775570682414537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_42
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 2222
+        width: 174
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece03b2831740f260800000000000000
+      internalID: 7129276359250218702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_43
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 2222
+        width: 177
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041b60915bbed2340800000000000000
+      internalID: 4840784337534628160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_44
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1982
+        width: 176
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0a81b352aadc190800000000000000
+      internalID: -7940503491102334799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_45
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1982
+        width: 183
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da774711d7ea9400800000000000000
+      internalID: 331832407789894359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_46
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1983
+        width: 174
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505d8700a26153ae0800000000000000
+      internalID: -1570324525416393467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_47
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1983
+        width: 181
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87da387ad0facca40800000000000000
+      internalID: 5389875327235501432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_48
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1984
+        width: 177
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918147344cb422a50800000000000000
+      internalID: 6494836918939031577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_49
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2115
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ac441de11ee3c30800000000000000
+      internalID: 4341154613307951713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_50
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1744
+        width: 181
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edaa290bdda5f5c0800000000000000
+      internalID: -4182245522680402460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_51
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1745
+        width: 174
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da44f5448c7aa4890800000000000000
+      internalID: -7472976153085524819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_52
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1745
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8f8589ab9b13c00800000000000000
+      internalID: 878687613384980676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_53
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1746
+        width: 181
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a8d2b4c403765d0800000000000000
+      internalID: -3069431516792780166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_54
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1746
+        width: 180
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8bd0d10426599b0800000000000000
+      internalID: -5074041377658128160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_55
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1506
+        width: 182
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dcfaee4493c8ab0800000000000000
+      internalID: -5004562117690405525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_56
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1503
+        width: 177
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff6375035cd9f930800000000000000
+      internalID: 4177612378494693369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_57
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1500
+        width: 182
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700d66185d357b870800000000000000
+      internalID: 8698513381753540615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_58
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1494
+        width: 173
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5694036e7a7b3e160800000000000000
+      internalID: 7053683373141674341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_59
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1489
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be495ed42ff31b440800000000000000
+      internalID: 4949807775378412779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_60
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1616
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12909326a886d6dd0800000000000000
+      internalID: -2491220075303335647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_61
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1615
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c776243d1d55a30800000000000000
+      internalID: 4203496532502609040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_62
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1241
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f331e5b2fe8d5da0800000000000000
+      internalID: -5954445959229262863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_63
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1367
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac727528a17943d20800000000000000
+      internalID: 3257394570607405002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_64
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1367
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3f27f8d842873f0800000000000000
+      internalID: -902931534872120389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_65
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1237
+        width: 180
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fda0a8b77e7de2e0800000000000000
+      internalID: -2094879198993666574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_66
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1363
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da83e8db9551fc440800000000000000
+      internalID: 4958205189934692525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_67
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1233
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8b8de51006d3a00800000000000000
+      internalID: 737851472961124603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_68
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1359
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9768fbfcb99f96840800000000000000
+      internalID: 5217976090886112889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_69
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1359
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ca774f49d81bf30800000000000000
+      internalID: 4589605166163405852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_70
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1355
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2203e0efba239e0800000000000000
+      internalID: -1643061806388731140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_71
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1354
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c490c5474b3255d0800000000000000
+      internalID: -3075330418241661760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_72
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1355
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d59a503023cd980800000000000000
+      internalID: -8512874207075803826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_73
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1354
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8463b78118e7e8600800000000000000
+      internalID: 472454103847089736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_74
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1228
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ba71749ee9a4240800000000000000
+      internalID: 4776805079537134437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_75
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1228
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c9f633322970a30800000000000000
+      internalID: 4181471458921258006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_76
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 992
+        width: 167
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f41f5c8c51cc33d0800000000000000
+      internalID: -3225490629867924231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_77
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1118
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae938131e12dba480800000000000000
+      internalID: -8886778413074335254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_78
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1117
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae8ffd9e405ef730800000000000000
+      internalID: 4034750614758985385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_79
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 995
+        width: 177
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a5cf38b2ab9aa40800000000000000
+      internalID: 5380035925931481699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_80
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 998
+        width: 179
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b750e9e9d9b339430800000000000000
+      internalID: 3788437259705779579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_81
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1004
+        width: 185
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd53507d818342d80800000000000000
+      internalID: -8276428535862315556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_82
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1007
+        width: 179
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b1e4a51a80cc290800000000000000
+      internalID: -7868904959825273994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_83
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 772
+        width: 178
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589e12f5bde6ba960800000000000000
+      internalID: 7614301483472906629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_84
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 896
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0bbd5dddcd109f0800000000000000
+      internalID: -503878837954957119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_85
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 896
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377095234a63e01b0800000000000000
+      internalID: -5688549200475125901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_86
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 773
+        width: 182
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04478712c8548e20800000000000000
+      internalID: 3351901613312132111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_87
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 896
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3ede41106c021b0800000000000000
+      internalID: -5683325021793164363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_88
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 896
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5928321add5d500800000000000000
+      internalID: 420485824384243128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_89
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 772
+        width: 175
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ed3d32f39746db0800000000000000
+      internalID: -4799577990779117977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_90
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 895
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af54ec86350ff9e70800000000000000
+      internalID: 9124275611107214842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_91
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 895
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d47bdc8f44ae9e20800000000000000
+      internalID: 3359303033637532887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_92
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 892
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c74dd4b7bc10070800000000000000
+      internalID: 8070955737671826534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_93
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 892
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c512f164f5d1fb0800000000000000
+      internalID: -4675476083366077385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_94
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 767
+        width: 169
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8d7b6aafe184b50800000000000000
+      internalID: 6577541317662333133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_95
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 769
+        width: 184
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb61ca7b677d20570800000000000000
+      internalID: 8431538357278611132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_96
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 522
+        width: 182
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4ea572fe84f7540800000000000000
+      internalID: 5007801502653932781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_97
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 646
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24398aba45754110800000000000000
+      internalID: 1244529835855393836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_98
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 646
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b8e5445d5551420800000000000000
+      internalID: 2600078734339771272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_99
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 643
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dbe4e5b905ae650800000000000000
+      internalID: 6262906860044467553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_100
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 643
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44d45630595e9f20800000000000000
+      internalID: 3431278167146681422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_101
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 642
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2bcfaa28d602910800000000000000
+      internalID: 1810567458184803031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_102
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 641
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c045837a88cebd70800000000000000
+      internalID: 9060899997285171394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_103
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 640
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483652121deb5bc10800000000000000
+      internalID: 2068769409260151684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_104
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 640
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2155aecb7b304c00800000000000000
+      internalID: 882770929898574125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_105
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 640
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d77092f69701680800000000000000
+      internalID: -8786389354663150321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_106
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 640
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53cdd5428a8a3c60800000000000000
+      internalID: 7798697996867978075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_107
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 519
+        width: 179
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecece6fefaf6b05f0800000000000000
+      internalID: -789414508246413618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_108
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 516
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf074f2fec6b2afc0800000000000000
+      internalID: -3485022161675718404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_109
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 513
+        width: 172
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c8527a3b13d2120800000000000000
+      internalID: 2390621624876764231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_110
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 512
+        width: 176
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26adabfcda4218f0800000000000000
+      internalID: -571311889746909652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_111
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 273
+        width: 176
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745cbaf83ebd111e0800000000000000
+      internalID: -2228758570157226681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_112
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 274
+        width: 184
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec9010fcb40f4c80800000000000000
+      internalID: -8336439175711515409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_113
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 276
+        width: 176
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f471b892645bc40800000000000000
+      internalID: 5527401261908316051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_114
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 410
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad66340dc418b10d0800000000000000
+      internalID: -3451022522537777446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_115
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 408
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82aa3c84329abf100800000000000000
+      internalID: 142893782202034728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_116
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 281
+        width: 180
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85281a6044f0cb60800000000000000
+      internalID: 7764474315081786763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_117
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 279
+        width: 178
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae971815cc8ef900800000000000000
+      internalID: 720167768566505120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_118
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 45
+        width: 184
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930f660b2a3693c90800000000000000
+      internalID: -7189605779724898247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_119
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 47
+        width: 176
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ac651af4a5d8050800000000000000
+      internalID: 5804394792806173272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_120
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 50
+        width: 176
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0a456cedaeac7c0800000000000000
+      internalID: -4050166672335265587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_121
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 53
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c7e1f955d2c73e0800000000000000
+      internalID: -2054717484222743476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_122
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 55
+        width: 180
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7af27762601fa6e0800000000000000
+      internalID: -1824221309233333637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_123
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 184
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfaf0ca630036730800000000000000
+      internalID: 3991033929595334609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee Animation_124
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 184
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ec1b2548de2ef30800000000000000
+      internalID: 4603502921704918677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bee Animation_0: 7113438816380542146
+      Bee Animation_1: -5617615171888796821
+      Bee Animation_10: -3198976587127709977
+      Bee Animation_100: 3431278167146681422
+      Bee Animation_101: 1810567458184803031
+      Bee Animation_102: 9060899997285171394
+      Bee Animation_103: 2068769409260151684
+      Bee Animation_104: 882770929898574125
+      Bee Animation_105: -8786389354663150321
+      Bee Animation_106: 7798697996867978075
+      Bee Animation_107: -789414508246413618
+      Bee Animation_108: -3485022161675718404
+      Bee Animation_109: 2390621624876764231
+      Bee Animation_11: -1086518423934405883
+      Bee Animation_110: -571311889746909652
+      Bee Animation_111: -2228758570157226681
+      Bee Animation_112: -8336439175711515409
+      Bee Animation_113: 5527401261908316051
+      Bee Animation_114: -3451022522537777446
+      Bee Animation_115: 142893782202034728
+      Bee Animation_116: 7764474315081786763
+      Bee Animation_117: 720167768566505120
+      Bee Animation_118: -7189605779724898247
+      Bee Animation_119: 5804394792806173272
+      Bee Animation_12: -4726929070812581015
+      Bee Animation_120: -4050166672335265587
+      Bee Animation_121: -2054717484222743476
+      Bee Animation_122: -1824221309233333637
+      Bee Animation_123: 3991033929595334609
+      Bee Animation_124: 4603502921704918677
+      Bee Animation_13: 7774985140699366321
+      Bee Animation_14: -291178142972549099
+      Bee Animation_15: -2785923373750371705
+      Bee Animation_16: -4479199720107854539
+      Bee Animation_17: 2330995745364008609
+      Bee Animation_18: -708725373558750789
+      Bee Animation_19: -6347347280718865237
+      Bee Animation_2: -169378402093997168
+      Bee Animation_20: 3924619425902638325
+      Bee Animation_21: 466243801938937963
+      Bee Animation_22: -3871536774845299964
+      Bee Animation_23: 8503905007288004687
+      Bee Animation_24: 58375677821698208
+      Bee Animation_25: -364536561025016374
+      Bee Animation_26: -2020576181758936292
+      Bee Animation_27: 1410432282197888943
+      Bee Animation_28: -6412400552183437129
+      Bee Animation_29: 7220314881343430128
+      Bee Animation_3: -3746880590638909118
+      Bee Animation_30: -4165890484113572893
+      Bee Animation_31: 8597593442119090463
+      Bee Animation_32: 5504609777907593563
+      Bee Animation_33: -2390914052322291061
+      Bee Animation_34: 617698011663760274
+      Bee Animation_35: -3771519821387018305
+      Bee Animation_36: -2063853651874585294
+      Bee Animation_37: -2268223119922113292
+      Bee Animation_38: 2238330906815950107
+      Bee Animation_39: -2492648402648762113
+      Bee Animation_4: -2990207499545359527
+      Bee Animation_40: 5068814202734990919
+      Bee Animation_41: 3704775570682414537
+      Bee Animation_42: 7129276359250218702
+      Bee Animation_43: 4840784337534628160
+      Bee Animation_44: -7940503491102334799
+      Bee Animation_45: 331832407789894359
+      Bee Animation_46: -1570324525416393467
+      Bee Animation_47: 5389875327235501432
+      Bee Animation_48: 6494836918939031577
+      Bee Animation_49: 4341154613307951713
+      Bee Animation_5: -7442369418472392129
+      Bee Animation_50: -4182245522680402460
+      Bee Animation_51: -7472976153085524819
+      Bee Animation_52: 878687613384980676
+      Bee Animation_53: -3069431516792780166
+      Bee Animation_54: -5074041377658128160
+      Bee Animation_55: -5004562117690405525
+      Bee Animation_56: 4177612378494693369
+      Bee Animation_57: 8698513381753540615
+      Bee Animation_58: 7053683373141674341
+      Bee Animation_59: 4949807775378412779
+      Bee Animation_6: 2776205804524607030
+      Bee Animation_60: -2491220075303335647
+      Bee Animation_61: 4203496532502609040
+      Bee Animation_62: -5954445959229262863
+      Bee Animation_63: 3257394570607405002
+      Bee Animation_64: -902931534872120389
+      Bee Animation_65: -2094879198993666574
+      Bee Animation_66: 4958205189934692525
+      Bee Animation_67: 737851472961124603
+      Bee Animation_68: 5217976090886112889
+      Bee Animation_69: 4589605166163405852
+      Bee Animation_7: 5735972662869067569
+      Bee Animation_70: -1643061806388731140
+      Bee Animation_71: -3075330418241661760
+      Bee Animation_72: -8512874207075803826
+      Bee Animation_73: 472454103847089736
+      Bee Animation_74: 4776805079537134437
+      Bee Animation_75: 4181471458921258006
+      Bee Animation_76: -3225490629867924231
+      Bee Animation_77: -8886778413074335254
+      Bee Animation_78: 4034750614758985385
+      Bee Animation_79: 5380035925931481699
+      Bee Animation_8: -702039964853689783
+      Bee Animation_80: 3788437259705779579
+      Bee Animation_81: -8276428535862315556
+      Bee Animation_82: -7868904959825273994
+      Bee Animation_83: 7614301483472906629
+      Bee Animation_84: -503878837954957119
+      Bee Animation_85: -5688549200475125901
+      Bee Animation_86: 3351901613312132111
+      Bee Animation_87: -5683325021793164363
+      Bee Animation_88: 420485824384243128
+      Bee Animation_89: -4799577990779117977
+      Bee Animation_9: 7057288590030271491
+      Bee Animation_90: 9124275611107214842
+      Bee Animation_91: 3359303033637532887
+      Bee Animation_92: 8070955737671826534
+      Bee Animation_93: -4675476083366077385
+      Bee Animation_94: 6577541317662333133
+      Bee Animation_95: 8431538357278611132
+      Bee Animation_96: 5007801502653932781
+      Bee Animation_97: 1244529835855393836
+      Bee Animation_98: 2600078734339771272
+      Bee Animation_99: 6262906860044467553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

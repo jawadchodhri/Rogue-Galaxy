@@ -6,6 +6,8 @@ public class PlayerHealth : MonoBehaviour
     [Header("Health")]
     [SerializeField] private float maxHealth = 100f;
     [SerializeField] private float collisionDamage = 20f;
+    [SerializeField] private float damageCooldown = 0.5f;
+    private float nextDamageTime;
 
     [Header("UI")]
     [SerializeField] private Image healthFill;
@@ -56,16 +58,18 @@ public class PlayerHealth : MonoBehaviour
         if (enemy == null) return;
 
         TakeDamage(collisionDamage);
+        nextDamageTime = Time.time + damageCooldown;
 
-        EnemyWaveMember waveMember = other.GetComponent<EnemyWaveMember>();
 
-        if (waveMember == null)
-            waveMember = other.GetComponentInParent<EnemyWaveMember>();
+        // EnemyWaveMember waveMember = other.GetComponent<EnemyWaveMember>();
 
-        if (waveMember != null)
-            waveMember.DieByPlayer();
-        else
-            Destroy(other.gameObject);
+        // if (waveMember == null)
+        //     waveMember = other.GetComponentInParent<EnemyWaveMember>();
+
+        // if (waveMember != null)
+        //     waveMember.DieByPlayer();
+        // else
+        //     TakeDamage(collisionDamage);
     }
 
 }

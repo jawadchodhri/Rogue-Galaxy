@@ -14,6 +14,7 @@ public class Bullet : MonoBehaviour
         Invoke(nameof(Disable), lifeTime);
     }
 
+
     private void Update()
     {
         transform.position += Vector3.up * speed * Time.deltaTime;
