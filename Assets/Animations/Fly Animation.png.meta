@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: aea29e3ad0caa48239f18f2bd8aec118
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7564174857142347250
+    second: Fly Animation_0
+  - first:
+      213: -701244565001170899
+    second: Fly Animation_1
+  - first:
+      213: -5860367467127525362
+    second: Fly Animation_2
+  - first:
+      213: -3316663802074724944
+    second: Fly Animation_3
+  - first:
+      213: 3603187359649387581
+    second: Fly Animation_4
+  - first:
+      213: 8331248811853230888
+    second: Fly Animation_5
+  - first:
+      213: -6397476178234154072
+    second: Fly Animation_6
+  - first:
+      213: 1596050516509657392
+    second: Fly Animation_7
+  - first:
+      213: 2768240710457289759
+    second: Fly Animation_8
+  - first:
+      213: 3826735090029928540
+    second: Fly Animation_9
+  - first:
+      213: -5002921831545425957
+    second: Fly Animation_10
+  - first:
+      213: -8542002793756453171
+    second: Fly Animation_11
+  - first:
+      213: 6473986706619606710
+    second: Fly Animation_12
+  - first:
+      213: -1532545477658655437
+    second: Fly Animation_13
+  - first:
+      213: 9197169648441533457
+    second: Fly Animation_14
+  - first:
+      213: 7625988743241571632
+    second: Fly Animation_15
+  - first:
+      213: 839594140591532665
+    second: Fly Animation_16
+  - first:
+      213: -8334821930308951917
+    second: Fly Animation_17
+  - first:
+      213: 513231832657590137
+    second: Fly Animation_18
+  - first:
+      213: 8482151014784412882
+    second: Fly Animation_19
+  - first:
+      213: 8910980444985283480
+    second: Fly Animation_20
+  - first:
+      213: -3416947286713801057
+    second: Fly Animation_21
+  - first:
+      213: -8253597882804377672
+    second: Fly Animation_22
+  - first:
+      213: -1230328623626309474
+    second: Fly Animation_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fly Animation_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1007
+        width: 244
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f529e2b4f859f860800000000000000
+      internalID: 7564174857142347250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_1
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1007
+        width: 233
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d209e6298cda446f0800000000000000
+      internalID: -701244565001170899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_2
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1007
+        width: 240
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00bb9496dacbaea0800000000000000
+      internalID: -5860367467127525362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_3
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1007
+        width: 207
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b580fd28d7d8f1d0800000000000000
+      internalID: -3316663802074724944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_4
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1007
+        width: 245
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34541720d7110230800000000000000
+      internalID: 3603187359649387581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 767
+        width: 207
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82338ed47aa8e9370800000000000000
+      internalID: 8331248811853230888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_6
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 767
+        width: 245
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a36459af499737a0800000000000000
+      internalID: -6397476178234154072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_7
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 767
+        width: 237
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03903201d7f462610800000000000000
+      internalID: 1596050516509657392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_8
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 767
+        width: 205
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ce4976244ca6620800000000000000
+      internalID: 2768240710457289759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_9
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 767
+        width: 240
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50a1ca1a4b4b1530800000000000000
+      internalID: 3826735090029928540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 527
+        width: 234
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf20bfc91d029ab0800000000000000
+      internalID: -5002921831545425957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_11
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 527
+        width: 234
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc690cf67b5b47980800000000000000
+      internalID: -8542002793756453171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_12
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 527
+        width: 206
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6a9a8eb9838d950800000000000000
+      internalID: 6473986706619606710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_13
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 527
+        width: 233
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3354602020e4bbae0800000000000000
+      internalID: -1532545477658655437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_14
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 527
+        width: 242
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114ac5a0119e2af70800000000000000
+      internalID: 9197169648441533457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 287
+        width: 240
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d9a069b54f4d960800000000000000
+      internalID: 7625988743241571632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_16
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 287
+        width: 219
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a25792c66d6ab00800000000000000
+      internalID: 839594140591532665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_17
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 287
+        width: 244
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390acc93d93c45c80800000000000000
+      internalID: -8334821930308951917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_18
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 287
+        width: 240
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9777af0f1ad5f1700800000000000000
+      internalID: 513231832657590137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 287
+        width: 235
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dca1775867a6b570800000000000000
+      internalID: 8482151014784412882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 47
+        width: 232
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893dcc790892aab70800000000000000
+      internalID: 8910980444985283480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_21
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 47
+        width: 229
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f966037eb809490d0800000000000000
+      internalID: -3416947286713801057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_22
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 47
+        width: 233
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7678c7474557d80800000000000000
+      internalID: -8253597882804377672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly Animation_23
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 47
+        width: 235
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9032c7a2aefceee0800000000000000
+      internalID: -1230328623626309474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fly Animation_0: 7564174857142347250
+      Fly Animation_1: -701244565001170899
+      Fly Animation_10: -5002921831545425957
+      Fly Animation_11: -8542002793756453171
+      Fly Animation_12: 6473986706619606710
+      Fly Animation_13: -1532545477658655437
+      Fly Animation_14: 9197169648441533457
+      Fly Animation_15: 7625988743241571632
+      Fly Animation_16: 839594140591532665
+      Fly Animation_17: -8334821930308951917
+      Fly Animation_18: 513231832657590137
+      Fly Animation_19: 8482151014784412882
+      Fly Animation_2: -5860367467127525362
+      Fly Animation_20: 8910980444985283480
+      Fly Animation_21: -3416947286713801057
+      Fly Animation_22: -8253597882804377672
+      Fly Animation_23: -1230328623626309474
+      Fly Animation_3: -3316663802074724944
+      Fly Animation_4: 3603187359649387581
+      Fly Animation_5: 8331248811853230888
+      Fly Animation_6: -6397476178234154072
+      Fly Animation_7: 1596050516509657392
+      Fly Animation_8: 2768240710457289759
+      Fly Animation_9: 3826735090029928540
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

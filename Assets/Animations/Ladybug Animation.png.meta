@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: fd58ebb42ffab466f962e6beac03bcf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6641231026138723622
+    second: Ladybug Animation_0
+  - first:
+      213: -6570193114813133849
+    second: Ladybug Animation_1
+  - first:
+      213: 7524654895874895543
+    second: Ladybug Animation_2
+  - first:
+      213: 5325019108512125421
+    second: Ladybug Animation_3
+  - first:
+      213: -2557082383526784704
+    second: Ladybug Animation_4
+  - first:
+      213: 5751052365674366820
+    second: Ladybug Animation_5
+  - first:
+      213: 2940954806854030438
+    second: Ladybug Animation_6
+  - first:
+      213: 7986894257233736142
+    second: Ladybug Animation_7
+  - first:
+      213: -7382458421682008101
+    second: Ladybug Animation_8
+  - first:
+      213: 7295612891182800134
+    second: Ladybug Animation_9
+  - first:
+      213: 9191246934359977450
+    second: Ladybug Animation_10
+  - first:
+      213: -7481479194029747103
+    second: Ladybug Animation_11
+  - first:
+      213: 965446912455240094
+    second: Ladybug Animation_12
+  - first:
+      213: -4315436605575555409
+    second: Ladybug Animation_13
+  - first:
+      213: 1804577245235256375
+    second: Ladybug Animation_14
+  - first:
+      213: 7812926295255240296
+    second: Ladybug Animation_15
+  - first:
+      213: -5820272033928485539
+    second: Ladybug Animation_16
+  - first:
+      213: -1591533565619368029
+    second: Ladybug Animation_17
+  - first:
+      213: 1637328576515406331
+    second: Ladybug Animation_18
+  - first:
+      213: 4228337572842688594
+    second: Ladybug Animation_19
+  - first:
+      213: -7780527716305630980
+    second: Ladybug Animation_20
+  - first:
+      213: -1196256864613884793
+    second: Ladybug Animation_21
+  - first:
+      213: -6862103380155047611
+    second: Ladybug Animation_22
+  - first:
+      213: 8091496581024490238
+    second: Ladybug Animation_23
+  - first:
+      213: -3574811553824817962
+    second: Ladybug Animation_24
+  - first:
+      213: -3717723113939827012
+    second: Ladybug Animation_25
+  - first:
+      213: 4057668175376532586
+    second: Ladybug Animation_26
+  - first:
+      213: 4996281012971262251
+    second: Ladybug Animation_27
+  - first:
+      213: 6375135145875744268
+    second: Ladybug Animation_28
+  - first:
+      213: 2980872826540426158
+    second: Ladybug Animation_29
+  - first:
+      213: -4208900367867086257
+    second: Ladybug Animation_30
+  - first:
+      213: 2755908107180149560
+    second: Ladybug Animation_31
+  - first:
+      213: -2765178652470143066
+    second: Ladybug Animation_32
+  - first:
+      213: -5322567958392453375
+    second: Ladybug Animation_33
+  - first:
+      213: 4619661403049262896
+    second: Ladybug Animation_34
+  - first:
+      213: 2645158136518604708
+    second: Ladybug Animation_35
+  - first:
+      213: -5070906184879874295
+    second: Ladybug Animation_36
+  - first:
+      213: 2042416517615703597
+    second: Ladybug Animation_37
+  - first:
+      213: -264269327741132266
+    second: Ladybug Animation_38
+  - first:
+      213: -2837748759395593662
+    second: Ladybug Animation_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ladybug Animation_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1721
+        width: 156
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6253d487e646a2c50800000000000000
+      internalID: 6641231026138723622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_1
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1721
+        width: 156
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb88d52c2cf1d4a0800000000000000
+      internalID: -6570193114813133849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_2
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1721
+        width: 156
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bee60ea2c1fc6860800000000000000
+      internalID: 7524654895874895543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_3
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1720
+        width: 156
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de158018aa446e940800000000000000
+      internalID: 5325019108512125421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_4
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1718
+        width: 161
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0411a74ce1b638cd0800000000000000
+      internalID: -2557082383526784704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1482
+        width: 165
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467c0bcf7a7dfcf40800000000000000
+      internalID: 5751052365674366820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_6
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1483
+        width: 165
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6641303a0de50d820800000000000000
+      internalID: 2940954806854030438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_7
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1480
+        width: 176
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec13605b20627de60800000000000000
+      internalID: 7986894257233736142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_8
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1462
+        width: 183
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf8d8eed2d3c8990800000000000000
+      internalID: -7382458421682008101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_9
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1468
+        width: 180
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d16bd45493f3560800000000000000
+      internalID: 7295612891182800134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1220
+        width: 170
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedac65b36edd8f70800000000000000
+      internalID: 9191246934359977450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_11
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1214
+        width: 164
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1649165cf427c2890800000000000000
+      internalID: -7481479194029747103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_12
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1214
+        width: 162
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99646a0ad4f56d00800000000000000
+      internalID: 965446912455240094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_13
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1231
+        width: 161
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa693f9754d7c14c0800000000000000
+      internalID: -4315436605575555409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_14
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1242
+        width: 161
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c100881752b0910800000000000000
+      internalID: 1804577245235256375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 997
+        width: 178
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e4ff422171d6c60800000000000000
+      internalID: 7812926295255240296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_16
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 983
+        width: 183
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d556d891c6d3a3fa0800000000000000
+      internalID: -5820272033928485539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_17
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 983
+        width: 181
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af852587acb9e9e0800000000000000
+      internalID: -1591533565619368029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_18
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 985
+        width: 172
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9fbc75aa5f8b610800000000000000
+      internalID: 1637328576515406331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_19
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 977
+        width: 166
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250d9bbae921eaa30800000000000000
+      internalID: 4228337572842688594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 739
+        width: 162
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf88588d343060490800000000000000
+      internalID: -7780527716305630980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_21
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 749
+        width: 163
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c119c38ba066fe0800000000000000
+      internalID: -1196256864613884793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_22
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 761
+        width: 162
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541e9dd2559e4c0a0800000000000000
+      internalID: -6862103380155047611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_23
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 760
+        width: 178
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2a0451545ca4070800000000000000
+      internalID: 8091496581024490238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_24
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 747
+        width: 183
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc3f4bf4d7b36ec0800000000000000
+      internalID: -3574811553824817962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 507
+        width: 177
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb68b54768ef76cc0800000000000000
+      internalID: -3717723113939827012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_26
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 505
+        width: 170
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64c9b105bbbf4830800000000000000
+      internalID: 4057668175376532586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_27
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 497
+        width: 165
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b215e202c1b565540800000000000000
+      internalID: 4996281012971262251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_28
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 494
+        width: 167
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06280563a7097850800000000000000
+      internalID: 6375135145875744268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_29
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 505
+        width: 166
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea38e8ada003e5920800000000000000
+      internalID: 2980872826540426158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 282
+        width: 169
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a75464a6bf695c0800000000000000
+      internalID: -4208900367867086257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_31
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 281
+        width: 181
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b871272d3fe3620800000000000000
+      internalID: 2755908107180149560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_32
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 270
+        width: 183
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a716078aac10a9d0800000000000000
+      internalID: -2765178652470143066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_33
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 264
+        width: 176
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107442b54a07226b0800000000000000
+      internalID: -5322567958392453375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_34
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 267
+        width: 172
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f755fe1955c1040800000000000000
+      internalID: 4619661403049262896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 15
+        width: 162
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7fced7f4d75b420800000000000000
+      internalID: 2645158136518604708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_36
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 12
+        width: 158
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f57e011b580a9b0800000000000000
+      internalID: -5070906184879874295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_37
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 40
+        width: 156
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26dfd7600f185c10800000000000000
+      internalID: 2042416517615703597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_38
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 37
+        width: 166
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61265f25270255cf0800000000000000
+      internalID: -264269327741132266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladybug Animation_39
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 40
+        width: 176
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2429b62d98a4e98d0800000000000000
+      internalID: -2837748759395593662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ladybug Animation_0: 6641231026138723622
+      Ladybug Animation_1: -6570193114813133849
+      Ladybug Animation_10: 9191246934359977450
+      Ladybug Animation_11: -7481479194029747103
+      Ladybug Animation_12: 965446912455240094
+      Ladybug Animation_13: -4315436605575555409
+      Ladybug Animation_14: 1804577245235256375
+      Ladybug Animation_15: 7812926295255240296
+      Ladybug Animation_16: -5820272033928485539
+      Ladybug Animation_17: -1591533565619368029
+      Ladybug Animation_18: 1637328576515406331
+      Ladybug Animation_19: 4228337572842688594
+      Ladybug Animation_2: 7524654895874895543
+      Ladybug Animation_20: -7780527716305630980
+      Ladybug Animation_21: -1196256864613884793
+      Ladybug Animation_22: -6862103380155047611
+      Ladybug Animation_23: 8091496581024490238
+      Ladybug Animation_24: -3574811553824817962
+      Ladybug Animation_25: -3717723113939827012
+      Ladybug Animation_26: 4057668175376532586
+      Ladybug Animation_27: 4996281012971262251
+      Ladybug Animation_28: 6375135145875744268
+      Ladybug Animation_29: 2980872826540426158
+      Ladybug Animation_3: 5325019108512125421
+      Ladybug Animation_30: -4208900367867086257
+      Ladybug Animation_31: 2755908107180149560
+      Ladybug Animation_32: -2765178652470143066
+      Ladybug Animation_33: -5322567958392453375
+      Ladybug Animation_34: 4619661403049262896
+      Ladybug Animation_35: 2645158136518604708
+      Ladybug Animation_36: -5070906184879874295
+      Ladybug Animation_37: 2042416517615703597
+      Ladybug Animation_38: -264269327741132266
+      Ladybug Animation_39: -2837748759395593662
+      Ladybug Animation_4: -2557082383526784704
+      Ladybug Animation_5: 5751052365674366820
+      Ladybug Animation_6: 2940954806854030438
+      Ladybug Animation_7: 7986894257233736142
+      Ladybug Animation_8: -7382458421682008101
+      Ladybug Animation_9: 7295612891182800134
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
