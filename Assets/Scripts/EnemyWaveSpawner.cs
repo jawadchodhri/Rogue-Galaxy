@@ -1,8 +1,10 @@
 using System.Collections;
 using UnityEngine;
+using System;
 
 public class EnemyWaveSpawner : MonoBehaviour
 {
+    public event Action OnAllWavesCompleted;
     [System.Serializable]
     public class EnemyBatch
     {
@@ -144,6 +146,7 @@ public class EnemyWaveSpawner : MonoBehaviour
         if (currentWaveIndex >= waves.Length)
         {
             Debug.Log("All waves completed.");
+            OnAllWavesCompleted?.Invoke();
             return;
         }
 
@@ -162,7 +165,7 @@ public class EnemyWaveSpawner : MonoBehaviour
     public Vector3 GetRandomSpawnPosition()
     {
         return new Vector3(
-            Random.Range(minX, maxX),
+            UnityEngine.Random.Range(minX, maxX),
             spawnY,
             0f
         );

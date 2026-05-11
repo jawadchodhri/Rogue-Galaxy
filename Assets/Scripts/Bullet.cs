@@ -30,12 +30,30 @@ public class Bullet : MonoBehaviour
         // if (enemy == null)
         //     enemy = other.GetComponentInParent<EnemyHealth>();
 
-        if (enemy == null) return;
+        if (enemy == null)
+        {
+            return;
+        }
+        else
+        {
+            hasHit = true;
 
-        hasHit = true;
+            enemy.TakeDamage(damage);
+            Destroy(gameObject);
+        }
 
-        enemy.TakeDamage(damage);
-        Destroy(gameObject);
+        BossHealth boss = other.GetComponent<BossHealth>();
+        // if (boss == null)
+        // {
+        //     boss = other.GetComponentInParent<BossHealth>();
+        // }
+
+        if (boss != null)
+        {
+            hasHit = true;
+            boss.TakeDamage(damage);
+            Destroy(gameObject);
+        }
     }
 
     private void Disable()
