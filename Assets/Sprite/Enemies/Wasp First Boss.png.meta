@@ -116,12 +116,12 @@ TextureImporter:
       name: Wasp First Boss_0
       rect:
         serializedVersion: 2
-        x: 43
-        y: 0
-        width: 979
-        height: 1019
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 86
+        y: 218
+        width: 852
+        height: 620
+      alignment: 9
+      pivot: {x: 0.49817768, y: 0.53314346}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f36640183994d4d5dbff6619a3c88c45
     internalID: 0
     vertices: []
     indices: 

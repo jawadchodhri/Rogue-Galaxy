@@ -25,7 +25,7 @@ Transform:
   m_GameObject: {fileID: 2408043001964801183}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.82, y: 0, z: 0}
+  m_LocalPosition: {x: -0.4, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -56,7 +56,7 @@ Transform:
   m_GameObject: {fileID: 3221636586122251728}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.32, y: 0.14, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -87,7 +87,7 @@ Transform:
   m_GameObject: {fileID: 3506479668471487699}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.16, y: 0, z: 0}
+  m_LocalPosition: {x: 0.4, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -107,8 +107,9 @@ GameObject:
   - component: {fileID: 6192832569156075206}
   - component: {fileID: 3756873615947043103}
   - component: {fileID: 1387785219158675455}
-  - component: {fileID: 4182933506208280740}
+  - component: {fileID: 7449522470200702597}
   - component: {fileID: 1144938724958849729}
+  - component: {fileID: 5541991593276493699}
   m_Layer: 0
   m_Name: FirstBoss
   m_TagString: Untagged
@@ -125,7 +126,7 @@ Transform:
   m_GameObject: {fileID: 6990406676971805814}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.01893, y: -1.97669, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -170,7 +171,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.33, y: -0.02}
+  m_Offset: {x: 0, y: -0.02}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -216,7 +217,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.36, y: 0.96}
+  m_Offset: {x: 0, y: 0.96}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -262,7 +263,7 @@ PolygonCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.64, y: 0.3}
+  m_Offset: {x: -0.33, y: 0.3}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -297,7 +298,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -322,8 +323,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BossHealth
   maxHealth: 100
+  phase2HealthPercent: 0.5
   healthFill: {fileID: 6556770153712694162}
---- !u!114 &4182933506208280740
+--- !u!114 &7449522470200702597
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -335,8 +337,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 870e3c5c4ac434efc8c7ad2e0500c308, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BossEntryMovement
-  entrySpeed: 0.5
-  stopY: 0
+  entrySpeed: 0.8
+  topScreenOffset: 2
 --- !u!114 &1144938724958849729
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -349,13 +351,37 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbc43eb3f8b0340ca8f8f36088b8ce2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BossAttack
-  entryMovement: {fileID: 0}
   projectilePrefab: {fileID: 0}
   firePoints:
   - {fileID: 2247853412857028217}
   - {fileID: 7047007175695664940}
   - {fileID: 1299846619297689657}
   attackDelay: 1.2
+  phase2AttackDelay: 0.65
+--- !u!114 &5541991593276493699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6990406676971805814}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 080f13eb3e7b34d248d009102c2ec831, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BossHoverMovement
+  entryMovement: {fileID: 7449522470200702597}
+  bossHealth: {fileID: 1387785219158675455}
+  horizontalAmount: 1.5
+  horizontalSpeed: 1
+  verticalAmount: 0.15
+  verticalSpeed: 2
+  phase2HorizontalAmount: 1.8
+  phase2HorizontalSpeed: 1.2
+  phase2VerticalAmount: 0.2
+  phase2VerticalSpeed: 2.5
+  leftOffset: 1.5
+  rightOffset: 1.5
 --- !u!1 &9170053916674306067
 GameObject:
   m_ObjectHideFlags: 0
@@ -382,7 +408,7 @@ Transform:
   m_GameObject: {fileID: 9170053916674306067}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.24, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -461,11 +487,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335027790745891376, guid: c6d96e6fb815647f0b78fea885b16e4b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -0.08
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3335027790745891376, guid: c6d96e6fb815647f0b78fea885b16e4b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 1.38
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3865298883250928681, guid: c6d96e6fb815647f0b78fea885b16e4b, type: 3}
       propertyPath: m_Pivot.x
@@ -529,11 +555,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3865298883250928681, guid: c6d96e6fb815647f0b78fea885b16e4b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -0.24000025
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3865298883250928681, guid: c6d96e6fb815647f0b78fea885b16e4b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: 1.2
       objectReference: {fileID: 0}
     - target: {fileID: 3865298883250928681, guid: c6d96e6fb815647f0b78fea885b16e4b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x

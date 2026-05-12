@@ -1505,14 +1505,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2c46e59b82e84c7db1ce6bc15b3436e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CoinPatternSpawner
-  coinPrefab: {fileID: 8321412989085427820, guid: df05ce22a607e43e686daf252d732b8d, type: 3}
-  allowedPatterns: 0000000001000000020000000300000001000000
+  coinPrefab: {fileID: 4377081390402387143, guid: df05ce22a607e43e686daf252d732b8d, type: 3}
+  allowedPatterns: 0400000001000000020000000300000002000000
   coinsPerPattern: 10
-  spacing: 0.45
+  spacing: 0.5
   radius: 1
   spawnY: 6
-  patternSpawnDelay: 1.2
-  horizontalPadding: 0.6
+  patternSpawnDelay: 2.2
+  horizontalPadding: 1.8
 --- !u!4 &2112415564
 Transform:
   m_ObjectHideFlags: 0

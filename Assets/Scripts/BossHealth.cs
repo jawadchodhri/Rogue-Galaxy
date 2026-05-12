@@ -3,10 +3,19 @@ using UnityEngine.UI;
 
 public class BossHealth : MonoBehaviour
 {
+    [Header("Health")]
     [SerializeField] private float maxHealth = 100f;
+
+    [Header("Phase")]
+    [SerializeField] private float phase2HealthPercent = 0.5f;
+
+    [Header("UI")]
     [SerializeField] private Image healthFill;
 
     private float currentHealth;
+    private bool isPhase2;
+
+    public bool IsPhase2 => isPhase2;
 
     private void Awake()
     {
@@ -18,6 +27,12 @@ public class BossHealth : MonoBehaviour
     {
         currentHealth -= damage;
         currentHealth = Mathf.Clamp(currentHealth, 0f, maxHealth);
+
+        if (!isPhase2 && currentHealth <= maxHealth * phase2HealthPercent)
+        {
+            isPhase2 = true;
+            Debug.Log("Boss Phase 2 Started");
+        }
 
         UpdateUI();
 
@@ -33,7 +48,7 @@ public class BossHealth : MonoBehaviour
 
     private void Die()
     {
-        Debug.Log("Boss defeated. Set complete.");
+        Debug.Log("Boss defeated");
         Destroy(gameObject);
     }
 }

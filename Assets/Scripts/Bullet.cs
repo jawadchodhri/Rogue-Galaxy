@@ -43,10 +43,10 @@ public class Bullet : MonoBehaviour
         }
 
         BossHealth boss = other.GetComponent<BossHealth>();
-        // if (boss == null)
-        // {
-        //     boss = other.GetComponentInParent<BossHealth>();
-        // }
+        if (boss == null)
+        {
+            boss = other.GetComponentInParent<BossHealth>();
+        }
 
         if (boss != null)
         {

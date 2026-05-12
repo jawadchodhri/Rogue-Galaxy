@@ -34,6 +34,11 @@ public class SetFlowController : MonoBehaviour
 
         coinPatternSpawner.StopPatterns();
 
+        while (coinPatternSpawner.HasActiveCoins)
+        {
+            yield return null;
+        }
+
         bossSpawner.SpawnBoss();
     }
 }

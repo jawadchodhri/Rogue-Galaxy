@@ -13,23 +13,27 @@ public class CoinPatternSpawner : MonoBehaviour
     }
 
     [Header("Coin")]
-    [SerializeField] private GameObject coinPrefab;
+    [SerializeField] private CoinCollectible coinPrefab;
 
-    [Header("Pattern Settings")]
+    [Header("Pattern")]
     [SerializeField] private PatternType[] allowedPatterns;
-    [SerializeField] private int coinsPerPattern = 8;
-    [SerializeField] private float spacing = 0.45f;
-    [SerializeField] private float radius = 1f;
+    [SerializeField] private int coinsPerPattern = 6;
+    [SerializeField] private float spacing = 1f;
+    [SerializeField] private float radius = 1.8f;
 
     [Header("Spawn")]
     [SerializeField] private float spawnY = 6f;
-    [SerializeField] private float patternSpawnDelay = 1.2f;
-    [SerializeField] private float horizontalPadding = 1f;
+    [SerializeField] private float patternSpawnDelay = 2.2f;
+    [SerializeField] private float horizontalPadding = 1.8f;
 
     private Camera cam;
     private float minX;
     private float maxX;
+
     private Coroutine routine;
+    private int activeCoins;
+
+    public bool HasActiveCoins => activeCoins > 0;
 
     private void Awake()
     {
@@ -40,6 +44,7 @@ public class CoinPatternSpawner : MonoBehaviour
     public void StartPatterns()
     {
         if (routine != null) return;
+
         routine = StartCoroutine(PatternRoutine());
     }
 
@@ -49,6 +54,12 @@ public class CoinPatternSpawner : MonoBehaviour
 
         StopCoroutine(routine);
         routine = null;
+    }
+
+    public void OnCoinRemoved()
+    {
+        activeCoins--;
+        if (activeCoins < 0) activeCoins = 0;
     }
 
     private IEnumerator PatternRoutine()
@@ -108,8 +119,7 @@ public class CoinPatternSpawner : MonoBehaviour
     {
         for (int i = 0; i < coinsPerPattern; i++)
         {
-            Vector3 pos = center + new Vector3(0f, i * spacing, 0f);
-            SpawnCoin(pos);
+            SpawnCoin(center + new Vector3(0f, i * spacing, 0f));
         }
     }
 
@@ -117,7 +127,7 @@ public class CoinPatternSpawner : MonoBehaviour
     {
         for (int i = 0; i < coinsPerPattern; i++)
         {
-            float x = (i % 2 == 0) ? -spacing : spacing;
+            float x = i % 2 == 0 ? -spacing : spacing;
             float y = i * spacing;
 
             SpawnCoin(center + new Vector3(x, y, 0f));
@@ -126,7 +136,7 @@ public class CoinPatternSpawner : MonoBehaviour
 
     private void SpawnTriangle(Vector3 center)
     {
-        int rows = 4;
+        int rows = 3;
 
         for (int row = 0; row < rows; row++)
         {
@@ -135,10 +145,7 @@ public class CoinPatternSpawner : MonoBehaviour
 
             for (int col = 0; col < coinsInRow; col++)
             {
-                float x = startX + col * spacing;
-                float y = row * spacing;
-
-                SpawnCoin(center + new Vector3(x, y, 0f));
+                SpawnCoin(center + new Vector3(startX + col * spacing, row * spacing, 0f));
             }
         }
     }
@@ -155,22 +162,18 @@ public class CoinPatternSpawner : MonoBehaviour
                 bool edge = y == 0 || y == height - 1 || x == 0 || x == width - 1;
                 if (!edge) continue;
 
-                Vector3 pos = center + new Vector3(
-                    (x - width * 0.5f) * spacing,
-                    y * spacing,
-                    0f
-                );
-
-                SpawnCoin(pos);
+                SpawnCoin(center + new Vector3((x - 1.5f) * spacing, y * spacing, 0f));
             }
         }
     }
 
     private void SpawnCircle(Vector3 center)
     {
-        for (int i = 0; i < coinsPerPattern; i++)
+        int amount = Mathf.Max(coinsPerPattern, 8);
+
+        for (int i = 0; i < amount; i++)
         {
-            float angle = i * Mathf.PI * 2f / coinsPerPattern;
+            float angle = i * Mathf.PI * 2f / amount;
 
             Vector3 pos = center + new Vector3(
                 Mathf.Cos(angle) * radius,
@@ -184,7 +187,9 @@ public class CoinPatternSpawner : MonoBehaviour
 
     private void SpawnCoin(Vector3 position)
     {
-        Instantiate(coinPrefab, position, Quaternion.identity);
+        CoinCollectible coin = Instantiate(coinPrefab, position, Quaternion.identity);
+        coin.Initialize(this);
+        activeCoins++;
     }
 
     private void CalculateBounds()

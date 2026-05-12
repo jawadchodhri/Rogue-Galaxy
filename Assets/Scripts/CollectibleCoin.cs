@@ -6,8 +6,12 @@ public class CoinCollectible : MonoBehaviour
     [SerializeField] private float moveSpeed = 2.5f;
     [SerializeField] private float lifeTime = 8f;
 
-    private void Start()
+    private CoinPatternSpawner owner;
+    private bool countedRemoved;
+
+    public void Initialize(CoinPatternSpawner spawner)
     {
+        owner = spawner;
         Destroy(gameObject, lifeTime);
     }
 
@@ -18,10 +22,34 @@ public class CoinCollectible : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (!other.CompareTag("Player")) return;
+        PlayerHealth player = other.GetComponent<PlayerHealth>();
 
-        Debug.Log("Coin collected");
+        if (player == null)
+            player = other.GetComponentInParent<PlayerHealth>();
 
+        if (player == null) return;
+
+        RemoveCoin();
+    }
+
+    private void OnDestroy()
+    {
+        NotifyRemoved();
+    }
+
+    private void RemoveCoin()
+    {
+        NotifyRemoved();
         Destroy(gameObject);
+    }
+
+    private void NotifyRemoved()
+    {
+        if (countedRemoved) return;
+
+        countedRemoved = true;
+
+        if (owner != null)
+            owner.OnCoinRemoved();
     }
 }
