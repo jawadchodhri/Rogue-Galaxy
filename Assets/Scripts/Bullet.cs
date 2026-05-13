@@ -22,6 +22,8 @@ public class Bullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        Debug.Log("Bullet touched: " + other.name);
+
         if (hasHit) return;
 
         EnemyHealth enemy = other.GetComponent<EnemyHealth>();
@@ -43,13 +45,17 @@ public class Bullet : MonoBehaviour
         }
 
         BossHealth boss = other.GetComponent<BossHealth>();
+
+        // if (boss == null)
+        //     boss = other.GetComponentInParent<BossHealth>();
+
         if (boss == null)
         {
-            boss = other.GetComponentInParent<BossHealth>();
+           return;
         }
-
-        if (boss != null)
+        else
         {
+            Debug.Log("Boss hit detected");
             hasHit = true;
             boss.TakeDamage(damage);
             Destroy(gameObject);

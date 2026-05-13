@@ -319,7 +319,7 @@ TextureImporter:
         width: 37
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -341,7 +341,7 @@ TextureImporter:
         width: 150
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -363,7 +363,7 @@ TextureImporter:
         width: 153
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -385,7 +385,7 @@ TextureImporter:
         width: 163
         height: 188
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -407,7 +407,7 @@ TextureImporter:
         width: 193
         height: 188
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -429,7 +429,7 @@ TextureImporter:
         width: 186
         height: 188
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -443,125 +443,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cockroach Animation_6
-      rect:
-        serializedVersion: 2
-        x: 86
-        y: 2907
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d8eb3c783cf7f57b0800000000000000
-      internalID: -5233323764208124275
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cockroach Animation_7
-      rect:
-        serializedVersion: 2
-        x: 92
-        y: 2874
-        width: 21
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fead2910d77c5d0c0800000000000000
-      internalID: -4551512508676777233
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cockroach Animation_8
-      rect:
-        serializedVersion: 2
-        x: 127
-        y: 2873
-        width: 27
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9d16097bcbb1dc0b0800000000000000
-      internalID: -5706874655461056039
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cockroach Animation_9
-      rect:
-        serializedVersion: 2
-        x: 321
-        y: 2903
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3624bb6990192c300800000000000000
-      internalID: 270938397965238883
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cockroach Animation_10
-      rect:
-        serializedVersion: 2
-        x: 368
-        y: 2870
-        width: 31
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6086bdf93c6654de0800000000000000
-      internalID: -1349559522940983290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Cockroach Animation_11
       rect:
         serializedVersion: 2
         x: 737
         y: 2683
-        width: 210
-        height: 226
+        width: 211
+        height: 186
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -581,9 +471,9 @@ TextureImporter:
         x: 966
         y: 2684
         width: 233
-        height: 226
+        height: 185
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -597,37 +487,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cockroach Animation_13
-      rect:
-        serializedVersion: 2
-        x: 329
-        y: 2873
-        width: 22
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8217fdefe43ee9de0800000000000000
-      internalID: -1324371311977336536
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Cockroach Animation_14
       rect:
         serializedVersion: 2
         x: 496
         y: 2681
-        width: 212
-        height: 223
+        width: 213
+        height: 187
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -649,7 +517,7 @@ TextureImporter:
         width: 216
         height: 187
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -671,7 +539,7 @@ TextureImporter:
         width: 211
         height: 192
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -690,10 +558,10 @@ TextureImporter:
         serializedVersion: 2
         x: 19
         y: 2261
-        width: 207
-        height: 224
+        width: 208
+        height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -713,9 +581,9 @@ TextureImporter:
         x: 243
         y: 2262
         width: 238
-        height: 222
+        height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -732,12 +600,12 @@ TextureImporter:
       name: Cockroach Animation_19
       rect:
         serializedVersion: 2
-        x: 506
+        x: 507
         y: 2263
         width: 191
-        height: 226
+        height: 188
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -756,10 +624,10 @@ TextureImporter:
         serializedVersion: 2
         x: 723
         y: 2266
-        width: 238
-        height: 224
+        width: 240
+        height: 179
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -778,10 +646,10 @@ TextureImporter:
         serializedVersion: 2
         x: 981
         y: 2267
-        width: 200
-        height: 225
+        width: 199
+        height: 182
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -803,7 +671,7 @@ TextureImporter:
         width: 234
         height: 177
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -817,50 +685,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cockroach Animation_23
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 2018
-        width: 38
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ea0dc924533927280800000000000000
-      internalID: -9047006844473782098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cockroach Animation_24
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 2016
-        width: 35
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 849500e8cc961b340800000000000000
-      internalID: 4877796198695590216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Cockroach Animation_25
       rect:
         serializedVersion: 2
@@ -869,7 +693,7 @@ TextureImporter:
         width: 207
         height: 175
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -883,50 +707,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cockroach Animation_26
-      rect:
-        serializedVersion: 2
-        x: 316
-        y: 2018
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 380eccb3823666ca0800000000000000
-      internalID: -6024018427108335485
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cockroach Animation_27
-      rect:
-        serializedVersion: 2
-        x: 368
-        y: 2016
-        width: 34
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fde9e4bfd95b900a0800000000000000
-      internalID: -6914796062719959329
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Cockroach Animation_28
       rect:
         serializedVersion: 2
@@ -935,7 +715,7 @@ TextureImporter:
         width: 207
         height: 174
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -949,50 +729,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cockroach Animation_29
-      rect:
-        serializedVersion: 2
-        x: 559
-        y: 2018
-        width: 33
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 45e977996aa324470800000000000000
-      internalID: 8377322744076279380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cockroach Animation_30
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 2016
-        width: 35
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3ff7f218fe7557430800000000000000
-      internalID: 3780024148423573491
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Cockroach Animation_31
       rect:
         serializedVersion: 2
@@ -1001,7 +737,7 @@ TextureImporter:
         width: 212
         height: 173
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1015,50 +751,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cockroach Animation_32
-      rect:
-        serializedVersion: 2
-        x: 794
-        y: 2018
-        width: 38
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: af03ee60761731240800000000000000
-      internalID: 4761273918372589818
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cockroach Animation_33
-      rect:
-        serializedVersion: 2
-        x: 848
-        y: 2017
-        width: 33
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed2cd1e89329a1210800000000000000
-      internalID: 1304515817972286174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Cockroach Animation_34
       rect:
         serializedVersion: 2
@@ -1067,7 +759,7 @@ TextureImporter:
         width: 199
         height: 174
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1081,50 +773,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cockroach Animation_35
-      rect:
-        serializedVersion: 2
-        x: 1034
-        y: 2018
-        width: 38
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4dd295c08b5799f30800000000000000
-      internalID: 4582823529167793620
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cockroach Animation_36
-      rect:
-        serializedVersion: 2
-        x: 1088
-        y: 2017
-        width: 35
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6bc95e9278579c670800000000000000
-      internalID: 8559501790178286774
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Cockroach Animation_37
       rect:
         serializedVersion: 2
@@ -1133,7 +781,7 @@ TextureImporter:
         width: 223
         height: 175
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1147,50 +795,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cockroach Animation_38
-      rect:
-        serializedVersion: 2
-        x: 76
-        y: 1592
-        width: 36
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 789d63ab00bf38dc0800000000000000
-      internalID: -3637788093442500217
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cockroach Animation_39
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 1591
-        width: 35
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 64f59e5cf148dd2b0800000000000000
-      internalID: -5558141093106065594
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Cockroach Animation_40
       rect:
         serializedVersion: 2
@@ -1199,7 +803,7 @@ TextureImporter:
         width: 189
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1213,50 +817,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cockroach Animation_41
-      rect:
-        serializedVersion: 2
-        x: 318
-        y: 1592
-        width: 34
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0478af914caadb20800000000000000
-      internalID: 3160027486405293070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cockroach Animation_42
-      rect:
-        serializedVersion: 2
-        x: 368
-        y: 1591
-        width: 35
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d19fef666f120b800800000000000000
-      internalID: 626037690378156317
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Cockroach Animation_43
       rect:
         serializedVersion: 2
@@ -1265,7 +825,7 @@ TextureImporter:
         width: 237
         height: 176
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1279,50 +839,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cockroach Animation_44
-      rect:
-        serializedVersion: 2
-        x: 556
-        y: 1592
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9d0d2c89c515d83b0800000000000000
-      internalID: -5508657311062503207
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cockroach Animation_45
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 1591
-        width: 36
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dae9f0173b1d627f0800000000000000
-      internalID: -637591728600146259
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Cockroach Animation_46
       rect:
         serializedVersion: 2
@@ -1331,7 +847,7 @@ TextureImporter:
         width: 188
         height: 182
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1345,50 +861,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cockroach Animation_47
-      rect:
-        serializedVersion: 2
-        x: 797
-        y: 1592
-        width: 35
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 75c163e5f13f770e0800000000000000
-      internalID: -2272080170934985641
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cockroach Animation_48
-      rect:
-        serializedVersion: 2
-        x: 848
-        y: 1591
-        width: 34
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ccd4696d59e246c10800000000000000
-      internalID: 2045811351818227148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Cockroach Animation_49
       rect:
         serializedVersion: 2
@@ -1397,7 +869,7 @@ TextureImporter:
         width: 234
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1411,50 +883,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cockroach Animation_50
-      rect:
-        serializedVersion: 2
-        x: 1036
-        y: 1592
-        width: 36
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8f2f23b1ad50e6830800000000000000
-      internalID: 4066193947879469816
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cockroach Animation_51
-      rect:
-        serializedVersion: 2
-        x: 1088
-        y: 1591
-        width: 36
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 54818246fc7568650800000000000000
-      internalID: 6234767282391226437
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Cockroach Animation_52
       rect:
         serializedVersion: 2
@@ -1463,7 +891,7 @@ TextureImporter:
         width: 185
         height: 223
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1485,7 +913,7 @@ TextureImporter:
         width: 229
         height: 225
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1507,7 +935,7 @@ TextureImporter:
         width: 221
         height: 226
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1529,7 +957,7 @@ TextureImporter:
         width: 215
         height: 226
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1551,7 +979,7 @@ TextureImporter:
         width: 231
         height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1573,7 +1001,7 @@ TextureImporter:
         width: 202
         height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1595,7 +1023,7 @@ TextureImporter:
         width: 238
         height: 227
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1617,7 +1045,7 @@ TextureImporter:
         width: 202
         height: 230
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1639,7 +1067,7 @@ TextureImporter:
         width: 232
         height: 212
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1661,7 +1089,7 @@ TextureImporter:
         width: 207
         height: 182
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1683,7 +1111,7 @@ TextureImporter:
         width: 178
         height: 184
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1705,7 +1133,7 @@ TextureImporter:
         width: 161
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1727,7 +1155,7 @@ TextureImporter:
         width: 150
         height: 184
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1749,7 +1177,7 @@ TextureImporter:
         width: 151
         height: 184
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1771,7 +1199,7 @@ TextureImporter:
         width: 157
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1788,7 +1216,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 72c58c31d0e934236846b40f650d0cb8
     internalID: 0
     vertices: []
     indices: 
