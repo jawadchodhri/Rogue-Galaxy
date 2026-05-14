@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: ccaa56e92b770410186d5aa670171a70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3450866677445814138
+    second: Wasp Boss Animation_0
+  - first:
+      213: 1671590349035604557
+    second: Wasp Boss Animation_1
+  - first:
+      213: -9086802205379348549
+    second: Wasp Boss Animation_2
+  - first:
+      213: 5442616592363432174
+    second: Wasp Boss Animation_3
+  - first:
+      213: 3754189109358518344
+    second: Wasp Boss Animation_4
+  - first:
+      213: -1790407312454060959
+    second: Wasp Boss Animation_5
+  - first:
+      213: 5791105917185131549
+    second: Wasp Boss Animation_6
+  - first:
+      213: -8354896781044936766
+    second: Wasp Boss Animation_7
+  - first:
+      213: 6341574312358530944
+    second: Wasp Boss Animation_8
+  - first:
+      213: 7045397721223810230
+    second: Wasp Boss Animation_9
+  - first:
+      213: 4648716302857476081
+    second: Wasp Boss Animation_10
+  - first:
+      213: -4019193926874917886
+    second: Wasp Boss Animation_11
+  - first:
+      213: -1260019465431673354
+    second: Wasp Boss Animation_12
+  - first:
+      213: -6673453209975616481
+    second: Wasp Boss Animation_13
+  - first:
+      213: 3521382233881773052
+    second: Wasp Boss Animation_14
+  - first:
+      213: 1943982376608005374
+    second: Wasp Boss Animation_15
+  - first:
+      213: -2821986274532507405
+    second: Wasp Boss Animation_16
+  - first:
+      213: 4535946274055794693
+    second: Wasp Boss Animation_17
+  - first:
+      213: -2283128435341440566
+    second: Wasp Boss Animation_18
+  - first:
+      213: -1081261322372128537
+    second: Wasp Boss Animation_19
+  - first:
+      213: -544771923928596160
+    second: Wasp Boss Animation_20
+  - first:
+      213: -9188074035250258434
+    second: Wasp Boss Animation_21
+  - first:
+      213: 5503336859684791216
+    second: Wasp Boss Animation_22
+  - first:
+      213: 6286769556188418377
+    second: Wasp Boss Animation_23
+  - first:
+      213: -112809070126311381
+    second: Wasp Boss Animation_24
+  - first:
+      213: 2286408113495704127
+    second: Wasp Boss Animation_25
+  - first:
+      213: -2163115744800022686
+    second: Wasp Boss Animation_26
+  - first:
+      213: -5507459597246272214
+    second: Wasp Boss Animation_27
+  - first:
+      213: -1905090049120604291
+    second: Wasp Boss Animation_28
+  - first:
+      213: 7457082760974095343
+    second: Wasp Boss Animation_29
+  - first:
+      213: -2770598985482824232
+    second: Wasp Boss Animation_30
+  - first:
+      213: -3488064506117371372
+    second: Wasp Boss Animation_31
+  - first:
+      213: 1631890929828782061
+    second: Wasp Boss Animation_32
+  - first:
+      213: 261901800102604313
+    second: Wasp Boss Animation_33
+  - first:
+      213: -1557982024301428086
+    second: Wasp Boss Animation_34
+  - first:
+      213: 6567371650929259301
+    second: Wasp Boss Animation_35
+  - first:
+      213: 1932165027756061564
+    second: Wasp Boss Animation_36
+  - first:
+      213: 5856225368801269037
+    second: Wasp Boss Animation_37
+  - first:
+      213: 4131759186157080182
+    second: Wasp Boss Animation_38
+  - first:
+      213: -2684482700764715528
+    second: Wasp Boss Animation_39
+  - first:
+      213: 9107486646722097284
+    second: Wasp Boss Animation_40
+  - first:
+      213: -2743531886145619055
+    second: Wasp Boss Animation_41
+  - first:
+      213: -3453196987121584971
+    second: Wasp Boss Animation_42
+  - first:
+      213: -4043313076007806707
+    second: Wasp Boss Animation_43
+  - first:
+      213: 1454064644997279971
+    second: Wasp Boss Animation_44
+  - first:
+      213: -7462914231529227228
+    second: Wasp Boss Animation_45
+  - first:
+      213: -1367719419874105559
+    second: Wasp Boss Animation_46
+  - first:
+      213: 8472299917296524163
+    second: Wasp Boss Animation_47
+  - first:
+      213: -1412433046612780211
+    second: Wasp Boss Animation_48
+  - first:
+      213: 9209062198794915993
+    second: Wasp Boss Animation_49
+  - first:
+      213: 2248134717565827802
+    second: Wasp Boss Animation_50
+  - first:
+      213: 4044051568313261931
+    second: Wasp Boss Animation_51
+  - first:
+      213: 5604398474506512822
+    second: Wasp Boss Animation_52
+  - first:
+      213: 2484512967890006619
+    second: Wasp Boss Animation_53
+  - first:
+      213: 6699129998101984535
+    second: Wasp Boss Animation_54
+  - first:
+      213: -3346140342025880255
+    second: Wasp Boss Animation_55
+  - first:
+      213: 986450720688880062
+    second: Wasp Boss Animation_56
+  - first:
+      213: -5621301919265748253
+    second: Wasp Boss Animation_57
+  - first:
+      213: 7325538357951229916
+    second: Wasp Boss Animation_58
+  - first:
+      213: -2943263005583483101
+    second: Wasp Boss Animation_59
+  - first:
+      213: 3970886048491742553
+    second: Wasp Boss Animation_60
+  - first:
+      213: -1061543998014604029
+    second: Wasp Boss Animation_61
+  - first:
+      213: 4903449588491825812
+    second: Wasp Boss Animation_62
+  - first:
+      213: 5306228759493578789
+    second: Wasp Boss Animation_63
+  - first:
+      213: 3833163680170402926
+    second: Wasp Boss Animation_64
+  - first:
+      213: -5013759385235812815
+    second: Wasp Boss Animation_65
+  - first:
+      213: -6853500016056395300
+    second: Wasp Boss Animation_66
+  - first:
+      213: -2749378620332929339
+    second: Wasp Boss Animation_67
+  - first:
+      213: -190749465209340355
+    second: Wasp Boss Animation_68
+  - first:
+      213: 7358620019057257824
+    second: Wasp Boss Animation_69
+  - first:
+      213: 1200334427184891853
+    second: Wasp Boss Animation_70
+  - first:
+      213: 3186301708353812715
+    second: Wasp Boss Animation_71
+  - first:
+      213: 7897962699988418939
+    second: Wasp Boss Animation_72
+  - first:
+      213: -9121334447932750377
+    second: Wasp Boss Animation_73
+  - first:
+      213: 6087691117648360925
+    second: Wasp Boss Animation_74
+  - first:
+      213: 2369498474948964827
+    second: Wasp Boss Animation_75
+  - first:
+      213: -8605078975680352990
+    second: Wasp Boss Animation_76
+  - first:
+      213: 1677696765410390679
+    second: Wasp Boss Animation_77
+  - first:
+      213: -6600331852886760167
+    second: Wasp Boss Animation_78
+  - first:
+      213: -1447297932780370120
+    second: Wasp Boss Animation_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 55
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wasp Boss Animation_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6527
+        width: 202
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77e36ca5f0f3ef20800000000000000
+      internalID: 3450866677445814138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 6527
+        width: 202
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a0d34e09ea23710800000000000000
+      internalID: 1671590349035604557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6527
+        width: 202
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7b024c98135e180800000000000000
+      internalID: -9086802205379348549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_3
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 6527
+        width: 202
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8287c54fe088b40800000000000000
+      internalID: 5442616592363432174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_4
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 6527
+        width: 202
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84064faba1f891430800000000000000
+      internalID: 3754189109358518344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6101
+        width: 202
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164f9e909023727e0800000000000000
+      internalID: -1790407312454060959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 6100
+        width: 221
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d148b7a26242e5050800000000000000
+      internalID: 5791105917185131549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 6097
+        width: 223
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf03cec4a17d0c80800000000000000
+      internalID: -8354896781044936766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_8
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 6097
+        width: 227
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f4fdcec3cc10850800000000000000
+      internalID: 6341574312358530944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_9
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 6098
+        width: 214
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc44ea36e746c160800000000000000
+      internalID: 7045397721223810230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5674
+        width: 221
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f71365f8de838040800000000000000
+      internalID: 4648716302857476081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5675
+        width: 209
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20496390b64f838c0800000000000000
+      internalID: -4019193926874917886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_12
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 5676
+        width: 225
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f51ed8d8f2838ee0800000000000000
+      internalID: -1260019465431673354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_13
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 5675
+        width: 210
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c863ab9a12363a0800000000000000
+      internalID: -6673453209975616481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_14
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 5675
+        width: 219
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305e01c767ed030800000000000000
+      internalID: 3521382233881773052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5247
+        width: 211
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcf65ffba96afa10800000000000000
+      internalID: 1943982376608005374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_16
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 5246
+        width: 225
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f046715f6a46d8d0800000000000000
+      internalID: -2821986274532507405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_17
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 5246
+        width: 225
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5003a519a1be2fe30800000000000000
+      internalID: 4535946274055794693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_18
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 5246
+        width: 226
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac941ead8c2b050e0800000000000000
+      internalID: -2283128435341440566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_19
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 5248
+        width: 225
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0e3aa5e869ef0f0800000000000000
+      internalID: -1081261322372128537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4822
+        width: 229
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04141ae42d49078f0800000000000000
+      internalID: -544771923928596160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 4822
+        width: 207
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd1bee68576d7080800000000000000
+      internalID: -9188074035250258434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_22
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 4824
+        width: 225
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b363d847b7cf5c40800000000000000
+      internalID: 5503336859684791216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_23
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 4824
+        width: 207
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941d9554a971f3750800000000000000
+      internalID: 6286769556188418377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_24
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 4824
+        width: 219
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28dda79fb83f6ef0800000000000000
+      internalID: -112809070126311381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4396
+        width: 210
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f328b78b014fabf10800000000000000
+      internalID: 2286408113495704127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_26
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 4395
+        width: 216
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fd327d0b11bf1e0800000000000000
+      internalID: -2163115744800022686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_27
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 4394
+        width: 231
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2de1531da29193b0800000000000000
+      internalID: -5507459597246272214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_28
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 4394
+        width: 216
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fe805a1b2cf85e0800000000000000
+      internalID: -1905090049120604291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_29
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 4394
+        width: 224
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3dc840341ec7760800000000000000
+      internalID: 7457082760974095343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3970
+        width: 211
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d51d37e6eadc89d0800000000000000
+      internalID: -2770598985482824232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_31
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3970
+        width: 226
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ac93fefc7e79fc0800000000000000
+      internalID: -3488064506117371372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_32
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 3970
+        width: 216
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def50a09724a5a610800000000000000
+      internalID: 1631890929828782061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_33
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 3972
+        width: 225
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ea621bc4672a300800000000000000
+      internalID: 261901800102604313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_34
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 3972
+        width: 227
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82c11b7a9fe06ae0800000000000000
+      internalID: -1557982024301428086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3545
+        width: 210
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523fb9998bdf32b50800000000000000
+      internalID: 6567371650929259301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_36
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3544
+        width: 214
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7335de0bdd60da10800000000000000
+      internalID: 1932165027756061564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_37
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 3543
+        width: 227
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25d70002fd754150800000000000000
+      internalID: 5856225368801269037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_38
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3541
+        width: 211
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e895cb615f65930800000000000000
+      internalID: 4131759186157080182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_39
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 3541
+        width: 227
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5ec37e43dcebad0800000000000000
+      internalID: -2684482700764715528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3117
+        width: 214
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480fb760ada446e70800000000000000
+      internalID: 9107486646722097284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3118
+        width: 221
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b355019440de9d0800000000000000
+      internalID: -2743531886145619055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_42
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 3119
+        width: 228
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b43b23d2a7c310d0800000000000000
+      internalID: -3453196987121584971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_43
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 3120
+        width: 213
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09dcd40e2443e7c0800000000000000
+      internalID: -4043313076007806707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_44
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 3120
+        width: 226
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e074853710ed2410800000000000000
+      internalID: 1454064644997279971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2692
+        width: 217
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c3e70fb076e6890800000000000000
+      internalID: -7462914231529227228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_46
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2691
+        width: 225
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92720022f62e40de0800000000000000
+      internalID: -1367719419874105559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_47
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2690
+        width: 216
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bd709f2e7a39570800000000000000
+      internalID: 8472299917296524163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_48
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2689
+        width: 225
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b5f93a0a7066ce0800000000000000
+      internalID: -1412433046612780211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_49
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 2690
+        width: 220
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99016a137492dcf70800000000000000
+      internalID: 9209062198794915993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_50
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2266
+        width: 219
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adafbbf4d9af23f10800000000000000
+      internalID: 2248134717565827802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_51
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2267
+        width: 228
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f5cae997b5f1830800000000000000
+      internalID: 4044051568313261931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_52
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2268
+        width: 214
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9a3bc18b2d6cd40800000000000000
+      internalID: 5604398474506512822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_53
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2268
+        width: 227
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b527fea7163ca7220800000000000000
+      internalID: 2484512967890006619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_54
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 2268
+        width: 213
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71538016d3718fc50800000000000000
+      internalID: 6699129998101984535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_55
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1841
+        width: 214
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d71f8661f1091d0800000000000000
+      internalID: -3346140342025880255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_56
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1839
+        width: 214
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9b61b34b390bd00800000000000000
+      internalID: 986450720688880062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_57
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1838
+        width: 230
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea81f6ffaf1df1b0800000000000000
+      internalID: -5621301919265748253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_58
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1839
+        width: 209
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf6e2ef25a89a560800000000000000
+      internalID: 7325538357951229916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_59
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1840
+        width: 227
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fd5a7f3ed6727d0800000000000000
+      internalID: -2943263005583483101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_60
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1415
+        width: 210
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955a7eb82db6b1730800000000000000
+      internalID: 3970886048491742553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_61
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1416
+        width: 221
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d34ecab53a441f0800000000000000
+      internalID: -1061543998014604029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_62
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1416
+        width: 225
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4923710db6d8c0440800000000000000
+      internalID: 4903449588491825812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_63
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1415
+        width: 211
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520939271f283a940800000000000000
+      internalID: 5306228759493578789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_64
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1414
+        width: 226
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e646c72ee02223530800000000000000
+      internalID: 3833163680170402926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 986
+        width: 212
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e0db5376c8b6ab0800000000000000
+      internalID: -5013759385235812815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_66
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 985
+        width: 222
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd913dafb0a73e0a0800000000000000
+      internalID: -6853500016056395300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_67
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 986
+        width: 227
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce800e26be38d9d0800000000000000
+      internalID: -2749378620332929339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_68
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 987
+        width: 207
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ef91d3f525a5df0800000000000000
+      internalID: -190749465209340355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_69
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 988
+        width: 230
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d6cf07be11f1660800000000000000
+      internalID: 7358620019057257824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 564
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc707084dc178a010800000000000000
+      internalID: 1200334427184891853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_71
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 564
+        width: 226
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be836a1a584083c20800000000000000
+      internalID: 3186301708353812715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_72
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 562
+        width: 213
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71481efa333b9d60800000000000000
+      internalID: 7897962699988418939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_73
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 560
+        width: 226
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d54f6185a28a6180800000000000000
+      internalID: -9121334447932750377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_74
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 559
+        width: 211
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd53bb941d2db7450800000000000000
+      internalID: 6087691117648360925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 135
+        width: 226
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1b92f0f4622e020800000000000000
+      internalID: 2369498474948964827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_76
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 136
+        width: 218
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22de366634e949880800000000000000
+      internalID: -8605078975680352990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_77
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 137
+        width: 202
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792bb1fb150684710800000000000000
+      internalID: 1677696765410390679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_78
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 138
+        width: 219
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9152dfc5629e664a0800000000000000
+      internalID: -6600331852886760167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp Boss Animation_79
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 138
+        width: 216
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8370870c23a2aebe0800000000000000
+      internalID: -1447297932780370120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wasp Boss Animation_0: 3450866677445814138
+      Wasp Boss Animation_1: 1671590349035604557
+      Wasp Boss Animation_10: 4648716302857476081
+      Wasp Boss Animation_11: -4019193926874917886
+      Wasp Boss Animation_12: -1260019465431673354
+      Wasp Boss Animation_13: -6673453209975616481
+      Wasp Boss Animation_14: 3521382233881773052
+      Wasp Boss Animation_15: 1943982376608005374
+      Wasp Boss Animation_16: -2821986274532507405
+      Wasp Boss Animation_17: 4535946274055794693
+      Wasp Boss Animation_18: -2283128435341440566
+      Wasp Boss Animation_19: -1081261322372128537
+      Wasp Boss Animation_2: -9086802205379348549
+      Wasp Boss Animation_20: -544771923928596160
+      Wasp Boss Animation_21: -9188074035250258434
+      Wasp Boss Animation_22: 5503336859684791216
+      Wasp Boss Animation_23: 6286769556188418377
+      Wasp Boss Animation_24: -112809070126311381
+      Wasp Boss Animation_25: 2286408113495704127
+      Wasp Boss Animation_26: -2163115744800022686
+      Wasp Boss Animation_27: -5507459597246272214
+      Wasp Boss Animation_28: -1905090049120604291
+      Wasp Boss Animation_29: 7457082760974095343
+      Wasp Boss Animation_3: 5442616592363432174
+      Wasp Boss Animation_30: -2770598985482824232
+      Wasp Boss Animation_31: -3488064506117371372
+      Wasp Boss Animation_32: 1631890929828782061
+      Wasp Boss Animation_33: 261901800102604313
+      Wasp Boss Animation_34: -1557982024301428086
+      Wasp Boss Animation_35: 6567371650929259301
+      Wasp Boss Animation_36: 1932165027756061564
+      Wasp Boss Animation_37: 5856225368801269037
+      Wasp Boss Animation_38: 4131759186157080182
+      Wasp Boss Animation_39: -2684482700764715528
+      Wasp Boss Animation_4: 3754189109358518344
+      Wasp Boss Animation_40: 9107486646722097284
+      Wasp Boss Animation_41: -2743531886145619055
+      Wasp Boss Animation_42: -3453196987121584971
+      Wasp Boss Animation_43: -4043313076007806707
+      Wasp Boss Animation_44: 1454064644997279971
+      Wasp Boss Animation_45: -7462914231529227228
+      Wasp Boss Animation_46: -1367719419874105559
+      Wasp Boss Animation_47: 8472299917296524163
+      Wasp Boss Animation_48: -1412433046612780211
+      Wasp Boss Animation_49: 9209062198794915993
+      Wasp Boss Animation_5: -1790407312454060959
+      Wasp Boss Animation_50: 2248134717565827802
+      Wasp Boss Animation_51: 4044051568313261931
+      Wasp Boss Animation_52: 5604398474506512822
+      Wasp Boss Animation_53: 2484512967890006619
+      Wasp Boss Animation_54: 6699129998101984535
+      Wasp Boss Animation_55: -3346140342025880255
+      Wasp Boss Animation_56: 986450720688880062
+      Wasp Boss Animation_57: -5621301919265748253
+      Wasp Boss Animation_58: 7325538357951229916
+      Wasp Boss Animation_59: -2943263005583483101
+      Wasp Boss Animation_6: 5791105917185131549
+      Wasp Boss Animation_60: 3970886048491742553
+      Wasp Boss Animation_61: -1061543998014604029
+      Wasp Boss Animation_62: 4903449588491825812
+      Wasp Boss Animation_63: 5306228759493578789
+      Wasp Boss Animation_64: 3833163680170402926
+      Wasp Boss Animation_65: -5013759385235812815
+      Wasp Boss Animation_66: -6853500016056395300
+      Wasp Boss Animation_67: -2749378620332929339
+      Wasp Boss Animation_68: -190749465209340355
+      Wasp Boss Animation_69: 7358620019057257824
+      Wasp Boss Animation_7: -8354896781044936766
+      Wasp Boss Animation_70: 1200334427184891853
+      Wasp Boss Animation_71: 3186301708353812715
+      Wasp Boss Animation_72: 7897962699988418939
+      Wasp Boss Animation_73: -9121334447932750377
+      Wasp Boss Animation_74: 6087691117648360925
+      Wasp Boss Animation_75: 2369498474948964827
+      Wasp Boss Animation_76: -8605078975680352990
+      Wasp Boss Animation_77: 1677696765410390679
+      Wasp Boss Animation_78: -6600331852886760167
+      Wasp Boss Animation_79: -1447297932780370120
+      Wasp Boss Animation_8: 6341574312358530944
+      Wasp Boss Animation_9: 7045397721223810230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

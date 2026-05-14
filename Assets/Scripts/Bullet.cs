@@ -21,46 +21,29 @@ public class Bullet : MonoBehaviour
     }
 
     private void OnTriggerEnter2D(Collider2D other)
+{
+    if (hasHit) return;
+
+    BossHealth boss = other.GetComponent<BossHealth>();
+
+    if (boss != null)
     {
-        Debug.Log("Bullet touched: " + other.name);
-
-        if (hasHit) return;
-
-        EnemyHealth enemy = other.GetComponent<EnemyHealth>();
-
-        // important fallback
-        // if (enemy == null)
-        //     enemy = other.GetComponentInParent<EnemyHealth>();
-
-        if (enemy == null)
-        {
-            return;
-        }
-        else
-        {
-            hasHit = true;
-
-            enemy.TakeDamage(damage);
-            Destroy(gameObject);
-        }
-
-        BossHealth boss = other.GetComponent<BossHealth>();
-
-        // if (boss == null)
-        //     boss = other.GetComponentInParent<BossHealth>();
-
-        if (boss == null)
-        {
-           return;
-        }
-        else
-        {
-            Debug.Log("Boss hit detected");
-            hasHit = true;
-            boss.TakeDamage(damage);
-            Destroy(gameObject);
-        }
+        hasHit = true;
+        boss.TakeDamage(damage);
+        Destroy(gameObject);
+        return;
     }
+
+    EnemyHealth enemy = other.GetComponent<EnemyHealth>();
+
+    if (enemy != null)
+    {
+        hasHit = true;
+        enemy.TakeDamage(damage);
+        Destroy(gameObject);
+    }
+}
+
 
     private void Disable()
     {
