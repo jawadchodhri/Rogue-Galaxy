@@ -82,6 +82,9 @@ public class EnemyZigZagMovement : MonoBehaviour
                 transform.position = spawner.GetRandomSpawnPosition();
                 RandomizeDirection();
             }
+            EnemyVisibilityGate gate = GetComponent<EnemyVisibilityGate>();
+            if (gate != null)
+                gate.ResetGate();
         }
     }
 

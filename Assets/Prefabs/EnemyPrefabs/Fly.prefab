@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 8927210245516820533}
   - component: {fileID: 5977432003208198064}
   - component: {fileID: 7577286754643611211}
+  - component: {fileID: 1767937411983047826}
   m_Layer: 0
   m_Name: Fly
   m_TagString: Untagged
@@ -186,6 +187,19 @@ MonoBehaviour:
   projectilePrefab: {fileID: 1652006419288981083, guid: 8e653db20f33f4d0a8981e7a589d5c5c, type: 3}
   firePoint: {fileID: 1630757028880668720}
   attackDelay: 2
+--- !u!114 &1767937411983047826
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2439568327012844183}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ac53fc03c0154f9699aeae0a396d711, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyVisibilityGate
+  topPadding: 0.4
 --- !u!1 &4915200849549893698
 GameObject:
   m_ObjectHideFlags: 0

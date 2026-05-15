@@ -373,7 +373,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cfe195a8357ac472e93cdfb7bd3ee944, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BossHealth
-  maxHealth: 100
+  maxHealth: 75
   phase2HealthPercent: 0.5
   healthFill: {fileID: 6556770153712694162}
 --- !u!114 &7449522470200702597
@@ -402,13 +402,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbc43eb3f8b0340ca8f8f36088b8ce2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BossAttack
-  projectilePrefab: {fileID: 0}
+  straightProjectilePrefab: {fileID: 5479119899346742437, guid: 68003745de1e6466a9614451e400952b, type: 3}
+  spreadProjectilePrefab: {fileID: 1755330696692501097, guid: 3908881bb0c7643f58453db4b7094f6f, type: 3}
   firePoints:
   - {fileID: 2247853412857028217}
   - {fileID: 7047007175695664940}
   - {fileID: 1299846619297689657}
+  firstAttackDelay: 0.5
   attackDelay: 1.2
   phase2AttackDelay: 0.65
+  spreadAngle: 30
+  phase2SpreadAngle: 40
 --- !u!114 &5541991593276493699
 MonoBehaviour:
   m_ObjectHideFlags: 0

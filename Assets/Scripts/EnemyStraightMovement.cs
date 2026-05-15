@@ -66,6 +66,10 @@ public class EnemyStraightMovement : MonoBehaviour
         {
             if (spawner != null)
                 transform.position = spawner.GetRandomSpawnPosition();
+
+            EnemyVisibilityGate gate = GetComponent<EnemyVisibilityGate>();
+            if (gate != null)
+                gate.ResetGate();
         }
     }
 

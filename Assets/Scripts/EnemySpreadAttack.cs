@@ -7,6 +7,7 @@ public class EnemySpreadAttack : MonoBehaviour
     [SerializeField] private float attackDelay = 2.5f;
     [SerializeField] private float spreadAngle = 20f;
 
+    private EnemyVisibilityGate visibilityGate;
     private float nextAttackTime;
 
     private void Update()

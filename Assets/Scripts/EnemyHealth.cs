@@ -12,10 +12,12 @@ public class EnemyHealth : MonoBehaviour
 
     private float currentHealth;
     private EnemyWaveMember waveMember;
+    private EnemyVisibilityGate visibilityGate;
 
     private void Awake()
     {
         waveMember = GetComponent<EnemyWaveMember>();
+        visibilityGate = GetComponent<EnemyVisibilityGate>();
     }
 
     private void OnEnable()

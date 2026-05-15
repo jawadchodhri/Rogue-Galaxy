@@ -127,8 +127,8 @@ GameObject:
   - component: {fileID: 6331325029428951669}
   - component: {fileID: 8927210245516820533}
   - component: {fileID: -5479655422308364052}
-  - component: {fileID: -5971483626154171961}
-  - component: {fileID: 7683625098077322190}
+  - component: {fileID: 6257861049972845160}
+  - component: {fileID: 1725566745749134893}
   m_Layer: 0
   m_Name: Cockroach
   m_TagString: Untagged
@@ -253,7 +253,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58fd248d2a91fa544838e571eb6901b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyWaveMember
---- !u!114 &-5971483626154171961
+--- !u!114 &6257861049972845160
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -262,14 +262,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 2439568327012844183}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 835e3accb398dc54790a22ddd01a06a4, type: 3}
+  m_Script: {fileID: 11500000, guid: 2ac53fc03c0154f9699aeae0a396d711, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyZigZagMovement
-  downSpeed: 2
-  sideSpeed: 2
-  horizontalPadding: 0.4
-  bottomPadding: 1
---- !u!114 &7683625098077322190
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyVisibilityGate
+  topPadding: 0.4
+--- !u!114 &1725566745749134893
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -278,13 +275,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 2439568327012844183}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70115415ba0b944b1964fbb0ac280aee, type: 3}
+  m_Script: {fileID: 11500000, guid: 4e53f800fb73c432ba76e97b904e431a, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemySpreadAttack
+  m_EditorClassIdentifier: Assembly-CSharp::CockroachTopStopShooter
+  moveSpeed: 2.5
+  stopY: 3.5
   projectilePrefab: {fileID: 1652006419288981083, guid: 1f3f78d1662914b8d8fe9619e4b350de, type: 3}
-  firePoint: {fileID: 4126771780727528574}
-  attackDelay: 2.5
-  spreadAngle: 20
+  firePoints:
+  - {fileID: 4126771780727528574}
+  firstShootDelay: 0.5
+  shootDelay: 1.2
 --- !u!1 &8479145683314461961
 GameObject:
   m_ObjectHideFlags: 0
@@ -390,11 +390,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3865298883250928681, guid: c6d96e6fb815647f0b78fea885b16e4b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0.006
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3865298883250928681, guid: c6d96e6fb815647f0b78fea885b16e4b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0.607
+      value: 0.6
       objectReference: {fileID: 0}
     - target: {fileID: 3865298883250928681, guid: c6d96e6fb815647f0b78fea885b16e4b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
