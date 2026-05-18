@@ -838,6 +838,7 @@ MonoBehaviour:
         specificSpawnPoint: {fileID: 0}
       spawnDelay: 0.5
     delayBeforeWave: 0.2
+  autoStart: 0
   spawnY: 6
   horizontalPadding: 0.5
   delayBetweenBatches: 1
@@ -1483,8 +1484,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0029c0cce56594f61ad88ff2b21b904d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BossSpawner
-  bossPrefab: {fileID: 6990406676971805814, guid: 0f700588269d144978b13b00d44b1837, type: 3}
-  spawnPoint: {fileID: 838154406}
+  defaultSpawnPoint: {fileID: 0}
 --- !u!1 &1799992688
 GameObject:
   m_ObjectHideFlags: 0
@@ -1517,7 +1517,23 @@ MonoBehaviour:
   waveSpawner: {fileID: 888054759}
   coinPatternSpawner: {fileID: 2112415563}
   bossSpawner: {fileID: 1765314512}
-  coolOffDuration: 10
+  sets:
+  - setName: 
+    waves:
+    - waveName: 
+      batches:
+      - batchName: 
+        spawnMode: 0
+        enemies:
+        - enemyPrefab: {fileID: 0}
+          count: 0
+          specificSpawnPoint: {fileID: 0}
+        spawnDelay: 0
+      delayBeforeWave: 0
+    coolOffDuration: 10
+    bossPrefab: {fileID: 0}
+    bossSpawnPoint: {fileID: 0}
+    delayAfterBossDeath: 0
 --- !u!4 &1799992690
 Transform:
   m_ObjectHideFlags: 0

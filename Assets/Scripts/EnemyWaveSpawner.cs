@@ -45,6 +45,7 @@ public class EnemyWaveSpawner : MonoBehaviour
 
     [Header("Waves")]
     [SerializeField] private EnemyWave[] waves;
+    [SerializeField] private bool autoStart = false;
 
     [Header("Default Spawn Area")]
     [SerializeField] private float spawnY = 6f;
@@ -75,7 +76,10 @@ public class EnemyWaveSpawner : MonoBehaviour
 
     private void Start()
     {
-        StartCoroutine(StartWaveRoutine());
+        if (autoStart == true)
+        {
+            StartWaves(waves);
+        }
     }
 
     private IEnumerator StartWaveRoutine()
@@ -254,6 +258,22 @@ public class EnemyWaveSpawner : MonoBehaviour
 
         return -1;
     }
+
+    public void StartWaves(EnemyWave[] newWaves)
+    {
+        StopAllCoroutines();
+
+        waves = newWaves;
+
+        currentWaveIndex = 0;
+        currentBatchIndex = 0;
+        aliveEnemies = 0;
+
+        isSpawning = false;
+        waitingForNextBatch = false;
+
+        StartCoroutine(StartWaveRoutine());
+    } 
 
     private bool SpawnEnemy(EnemyBatchEnemy enemyData)
     {
