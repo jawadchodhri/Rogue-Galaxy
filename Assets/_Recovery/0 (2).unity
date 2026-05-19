@@ -1528,9 +1528,6 @@ MonoBehaviour:
         - enemyPrefab: {fileID: 2439568327012844183, guid: ac1556331fb97f94c8e32feefa0d25bc, type: 3}
           count: 1
           specificSpawnPoint: {fileID: 0}
-        - enemyPrefab: {fileID: 9073299487721265769, guid: 6fbef9c8e0688493785a1019a253dc5b, type: 3}
-          count: 1
-          specificSpawnPoint: {fileID: 0}
         spawnDelay: 0
       delayBeforeWave: 0
     - waveName: Second Wave of set 1
@@ -1556,7 +1553,7 @@ MonoBehaviour:
     coolOffDuration: 10
     bossPrefab: {fileID: 1387785219158675455, guid: 0f700588269d144978b13b00d44b1837, type: 3}
     bossSpawnPoint: {fileID: 838154406}
-    delayAfterBossDeath: 5
+    delayAfterBossDeath: 1
   - setName: Set 2
     waves:
     - waveName: First Wave of set 1
@@ -1592,7 +1589,7 @@ MonoBehaviour:
     coolOffDuration: 10
     bossPrefab: {fileID: 1387785219158675455, guid: 0f700588269d144978b13b00d44b1837, type: 3}
     bossSpawnPoint: {fileID: 838154406}
-    delayAfterBossDeath: 5
+    delayAfterBossDeath: 1
   - setName: Set 3
     waves:
     - waveName: First Wave of set 1
@@ -1628,7 +1625,7 @@ MonoBehaviour:
     coolOffDuration: 10
     bossPrefab: {fileID: 1387785219158675455, guid: 0f700588269d144978b13b00d44b1837, type: 3}
     bossSpawnPoint: {fileID: 838154406}
-    delayAfterBossDeath: 5
+    delayAfterBossDeath: 1
 --- !u!4 &1799992690
 Transform:
   m_ObjectHideFlags: 0
@@ -1775,12 +1772,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CoinPatternSpawner
   coinPrefab: {fileID: 4377081390402387143, guid: df05ce22a607e43e686daf252d732b8d, type: 3}
-  allowedPatterns: 040000000300000002000000
+  allowedPatterns: 0400000001000000020000000300000002000000
   coinsPerPattern: 10
   spacing: 0.5
   radius: 1
   spawnY: 6
-  patternSpawnDelay: 1.2
+  patternSpawnDelay: 2.2
   horizontalPadding: 1.8
 --- !u!4 &2112415564
 Transform:
