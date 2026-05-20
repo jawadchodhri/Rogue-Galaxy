@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: afc01e1ffe88e40f5a7c065bb31dbaff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4559000742133854040
+    second: Mosquito Animation_0
+  - first:
+      213: 2097694272413084509
+    second: Mosquito Animation_1
+  - first:
+      213: -3413376585071291425
+    second: Mosquito Animation_2
+  - first:
+      213: -1076526519611582527
+    second: Mosquito Animation_3
+  - first:
+      213: 7629045537329469470
+    second: Mosquito Animation_4
+  - first:
+      213: -8123558233295081810
+    second: Mosquito Animation_5
+  - first:
+      213: -7545399983833530079
+    second: Mosquito Animation_6
+  - first:
+      213: 7168514589739629025
+    second: Mosquito Animation_7
+  - first:
+      213: -8862626746563792264
+    second: Mosquito Animation_8
+  - first:
+      213: 2502481179871757164
+    second: Mosquito Animation_9
+  - first:
+      213: 6969465403154754393
+    second: Mosquito Animation_10
+  - first:
+      213: -6483720347657513345
+    second: Mosquito Animation_11
+  - first:
+      213: 853537402071440417
+    second: Mosquito Animation_12
+  - first:
+      213: 4803242061932913023
+    second: Mosquito Animation_13
+  - first:
+      213: 7807191681194714703
+    second: Mosquito Animation_14
+  - first:
+      213: 6446054542842369133
+    second: Mosquito Animation_15
+  - first:
+      213: 781391481879432777
+    second: Mosquito Animation_16
+  - first:
+      213: -2289435613870752297
+    second: Mosquito Animation_17
+  - first:
+      213: 1724929057197008397
+    second: Mosquito Animation_18
+  - first:
+      213: 4536280381926053405
+    second: Mosquito Animation_19
+  - first:
+      213: 5461406474564990541
+    second: Mosquito Animation_20
+  - first:
+      213: 2414609526199935051
+    second: Mosquito Animation_21
+  - first:
+      213: -1031222213458647058
+    second: Mosquito Animation_22
+  - first:
+      213: 5608573021146061687
+    second: Mosquito Animation_23
+  - first:
+      213: -5227524832544342398
+    second: Mosquito Animation_24
+  - first:
+      213: -244678207852637214
+    second: Mosquito Animation_25
+  - first:
+      213: -1316693431328050296
+    second: Mosquito Animation_26
+  - first:
+      213: 7328204983035733175
+    second: Mosquito Animation_27
+  - first:
+      213: 6260265870343545244
+    second: Mosquito Animation_28
+  - first:
+      213: 1762535281267821209
+    second: Mosquito Animation_29
+  - first:
+      213: 4290579654055639626
+    second: Mosquito Animation_30
+  - first:
+      213: -3346776433643718566
+    second: Mosquito Animation_31
+  - first:
+      213: 4968906241400509314
+    second: Mosquito Animation_32
+  - first:
+      213: -8054434884154060502
+    second: Mosquito Animation_33
+  - first:
+      213: -2777920984679348228
+    second: Mosquito Animation_34
+  - first:
+      213: -2585164102806317739
+    second: Mosquito Animation_35
+  - first:
+      213: -2764210404180771187
+    second: Mosquito Animation_36
+  - first:
+      213: 2535085672050567451
+    second: Mosquito Animation_37
+  - first:
+      213: -6449550964613601795
+    second: Mosquito Animation_38
+  - first:
+      213: -244918754716633877
+    second: Mosquito Animation_39
+  - first:
+      213: -4938663902236691822
+    second: Mosquito Animation_40
+  - first:
+      213: -2111956276084511509
+    second: Mosquito Animation_41
+  - first:
+      213: -6449789852908380982
+    second: Mosquito Animation_42
+  - first:
+      213: 4604736552483527068
+    second: Mosquito Animation_43
+  - first:
+      213: 6419111715587023043
+    second: Mosquito Animation_44
+  - first:
+      213: 4063970387546815557
+    second: Mosquito Animation_45
+  - first:
+      213: 1670051971878030629
+    second: Mosquito Animation_46
+  - first:
+      213: 4542597816872904063
+    second: Mosquito Animation_47
+  - first:
+      213: 5971626930830465488
+    second: Mosquito Animation_48
+  - first:
+      213: -4487106303460616780
+    second: Mosquito Animation_49
+  - first:
+      213: 10510134308975306
+    second: Mosquito Animation_50
+  - first:
+      213: 8288163293666151111
+    second: Mosquito Animation_51
+  - first:
+      213: -7716743126570069313
+    second: Mosquito Animation_52
+  - first:
+      213: -162955503745833207
+    second: Mosquito Animation_53
+  - first:
+      213: -3439895930823731135
+    second: Mosquito Animation_54
+  - first:
+      213: -7506015461214504529
+    second: Mosquito Animation_55
+  - first:
+      213: 1288875930292991411
+    second: Mosquito Animation_56
+  - first:
+      213: -9201849320270521645
+    second: Mosquito Animation_57
+  - first:
+      213: -2904447119743759598
+    second: Mosquito Animation_58
+  - first:
+      213: -8632296742370741038
+    second: Mosquito Animation_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mosquito Animation_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2684
+        width: 207
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a09e5acafc2bb0c0800000000000000
+      internalID: -4559000742133854040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_1
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2684
+        width: 228
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bad82a3d18c1d10800000000000000
+      internalID: 2097694272413084509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_2
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 2684
+        width: 250
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3903aa41041a0d0800000000000000
+      internalID: -3413376585071291425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_3
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 2684
+        width: 226
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7934785d86f01f0800000000000000
+      internalID: -1076526519611582527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_4
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 2684
+        width: 240
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e185dcbee70dfd960800000000000000
+      internalID: 7629045537329469470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2446
+        width: 244
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae2f38c3d2534f80800000000000000
+      internalID: -8123558233295081810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2447
+        width: 253
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1214d5321ba594790800000000000000
+      internalID: -7545399983833530079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_7
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 2447
+        width: 229
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9b2a8f90eab7360800000000000000
+      internalID: 7168514589739629025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_8
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 2447
+        width: 257
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87270322eef910580800000000000000
+      internalID: -8862626746563792264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_9
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 2446
+        width: 255
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c634b57df599ab220800000000000000
+      internalID: 2502481179871757164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2205
+        width: 236
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95be96dbbd388b060800000000000000
+      internalID: 6969465403154754393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_11
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2204
+        width: 262
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76d6ee22b23506a0800000000000000
+      internalID: -6483720347657513345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_12
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2203
+        width: 251
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c5af4bebf58db00800000000000000
+      internalID: 853537402071440417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_13
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 2202
+        width: 231
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71e9b7e43b88a240800000000000000
+      internalID: 4803242061932913023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_14
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 2202
+        width: 258
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46eef24877b85c60800000000000000
+      internalID: 7807191681194714703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1962
+        width: 240
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6499ec347cf47950800000000000000
+      internalID: 6446054542842369133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_16
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1962
+        width: 215
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e80fba96f08da00800000000000000
+      internalID: 781391481879432777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_17
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1962
+        width: 252
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddfa1b607a4a30e0800000000000000
+      internalID: -2289435613870752297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_18
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1963
+        width: 261
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d062af4a6dd20f710800000000000000
+      internalID: 1724929057197008397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_19
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1964
+        width: 224
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16964e19fa14fe30800000000000000
+      internalID: 4536280381926053405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_20
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1725
+        width: 249
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46f67ab040dacb40800000000000000
+      internalID: 5461406474564990541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_21
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1726
+        width: 262
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40eb68229a628120800000000000000
+      internalID: 2414609526199935051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_22
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1726
+        width: 244
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee72e4a4cdc50b1f0800000000000000
+      internalID: -1031222213458647058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_23
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1727
+        width: 231
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b104e7277a5dd40800000000000000
+      internalID: 5608573021146061687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_24
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1727
+        width: 254
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e39a58cd91477b0800000000000000
+      internalID: -5227524832544342398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1487
+        width: 247
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e31aa0677aba9cf0800000000000000
+      internalID: -244678207852637214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_26
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1487
+        width: 210
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883f993ec4a2abde0800000000000000
+      internalID: -1316693431328050296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_27
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1487
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4a7170b9303b560800000000000000
+      internalID: 7328204983035733175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_28
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1486
+        width: 261
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91245904aee0e650800000000000000
+      internalID: 6260265870343545244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_29
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1485
+        width: 228
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99acf000088c57810800000000000000
+      internalID: 1762535281267821209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_30
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1244
+        width: 250
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a318086733b8b30800000000000000
+      internalID: 4290579654055639626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_31
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1244
+        width: 262
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58740ac09cdd81d0800000000000000
+      internalID: -3346776433643718566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_32
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1243
+        width: 246
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28316e076e915f440800000000000000
+      internalID: 4968906241400509314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_33
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1242
+        width: 232
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a219b77a526e83090800000000000000
+      internalID: -8054434884154060502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_34
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 1242
+        width: 258
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7851e1597d279d0800000000000000
+      internalID: -2777920984679348228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_35
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1002
+        width: 246
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555532ef1f6af1cd0800000000000000
+      internalID: -2585164102806317739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_36
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1002
+        width: 254
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ebd56684d83a9d0800000000000000
+      internalID: -2764210404180771187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_37
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1003
+        width: 260
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19a1cdbcfe6e2320800000000000000
+      internalID: 2535085672050567451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_38
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1004
+        width: 222
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5ad61a1979e76a0800000000000000
+      internalID: -6449550964613601795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_39
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1004
+        width: 259
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4b842b0bfd99cf0800000000000000
+      internalID: -244918754716633877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_40
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 765
+        width: 253
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292332ad857567bb0800000000000000
+      internalID: -4938663902236691822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_41
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 766
+        width: 214
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec63ded4f2d0b2e0800000000000000
+      internalID: -2111956276084511509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_42
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 767
+        width: 245
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc1a7d1d4ebd76a0800000000000000
+      internalID: -6449789852908380982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_43
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 767
+        width: 262
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99990f5f7f47ef30800000000000000
+      internalID: 4604736552483527068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_44
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 767
+        width: 232
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0ec1d6814451950800000000000000
+      internalID: 6419111715587023043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_45
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 527
+        width: 246
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c3f6f198f166830800000000000000
+      internalID: 4063970387546815557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_46
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 527
+        width: 263
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d0b3c8b673d2710800000000000000
+      internalID: 1670051971878030629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_47
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 526
+        width: 253
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75ac2095ac8a0f30800000000000000
+      internalID: 4542597816872904063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_48
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 525
+        width: 228
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d95e47fd0b7fd250800000000000000
+      internalID: 5971626930830465488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_49
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 525
+        width: 260
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b550d837989ab1c0800000000000000
+      internalID: -4487106303460616780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_50
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 284
+        width: 250
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2370659e6552000800000000000000
+      internalID: 10510134308975306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_51
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 283
+        width: 218
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca076f5a98750370800000000000000
+      internalID: 8288163293666151111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_52
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 283
+        width: 259
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb29adde20f98e490800000000000000
+      internalID: -7716743126570069313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_53
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 282
+        width: 246
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907e80d25d01dbdf0800000000000000
+      internalID: -162955503745833207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_54
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 283
+        width: 218
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14890f250e80340d0800000000000000
+      internalID: -3439895930823731135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_55
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 43
+        width: 262
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa938b3e4b645d790800000000000000
+      internalID: -7506015461214504529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_56
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 44
+        width: 253
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b53aa074d103e110800000000000000
+      internalID: 1288875930292991411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_57
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 44
+        width: 207
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da1b94fbc67c4080800000000000000
+      internalID: -9201849320270521645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_58
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 45
+        width: 258
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b44c6abb451b7d0800000000000000
+      internalID: -2904447119743759598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquito Animation_59
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 46
+        width: 263
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4fa3349dbe33880800000000000000
+      internalID: -8632296742370741038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mosquito Animation_0: -4559000742133854040
+      Mosquito Animation_1: 2097694272413084509
+      Mosquito Animation_10: 6969465403154754393
+      Mosquito Animation_11: -6483720347657513345
+      Mosquito Animation_12: 853537402071440417
+      Mosquito Animation_13: 4803242061932913023
+      Mosquito Animation_14: 7807191681194714703
+      Mosquito Animation_15: 6446054542842369133
+      Mosquito Animation_16: 781391481879432777
+      Mosquito Animation_17: -2289435613870752297
+      Mosquito Animation_18: 1724929057197008397
+      Mosquito Animation_19: 4536280381926053405
+      Mosquito Animation_2: -3413376585071291425
+      Mosquito Animation_20: 5461406474564990541
+      Mosquito Animation_21: 2414609526199935051
+      Mosquito Animation_22: -1031222213458647058
+      Mosquito Animation_23: 5608573021146061687
+      Mosquito Animation_24: -5227524832544342398
+      Mosquito Animation_25: -244678207852637214
+      Mosquito Animation_26: -1316693431328050296
+      Mosquito Animation_27: 7328204983035733175
+      Mosquito Animation_28: 6260265870343545244
+      Mosquito Animation_29: 1762535281267821209
+      Mosquito Animation_3: -1076526519611582527
+      Mosquito Animation_30: 4290579654055639626
+      Mosquito Animation_31: -3346776433643718566
+      Mosquito Animation_32: 4968906241400509314
+      Mosquito Animation_33: -8054434884154060502
+      Mosquito Animation_34: -2777920984679348228
+      Mosquito Animation_35: -2585164102806317739
+      Mosquito Animation_36: -2764210404180771187
+      Mosquito Animation_37: 2535085672050567451
+      Mosquito Animation_38: -6449550964613601795
+      Mosquito Animation_39: -244918754716633877
+      Mosquito Animation_4: 7629045537329469470
+      Mosquito Animation_40: -4938663902236691822
+      Mosquito Animation_41: -2111956276084511509
+      Mosquito Animation_42: -6449789852908380982
+      Mosquito Animation_43: 4604736552483527068
+      Mosquito Animation_44: 6419111715587023043
+      Mosquito Animation_45: 4063970387546815557
+      Mosquito Animation_46: 1670051971878030629
+      Mosquito Animation_47: 4542597816872904063
+      Mosquito Animation_48: 5971626930830465488
+      Mosquito Animation_49: -4487106303460616780
+      Mosquito Animation_5: -8123558233295081810
+      Mosquito Animation_50: 10510134308975306
+      Mosquito Animation_51: 8288163293666151111
+      Mosquito Animation_52: -7716743126570069313
+      Mosquito Animation_53: -162955503745833207
+      Mosquito Animation_54: -3439895930823731135
+      Mosquito Animation_55: -7506015461214504529
+      Mosquito Animation_56: 1288875930292991411
+      Mosquito Animation_57: -9201849320270521645
+      Mosquito Animation_58: -2904447119743759598
+      Mosquito Animation_59: -8632296742370741038
+      Mosquito Animation_6: -7545399983833530079
+      Mosquito Animation_7: 7168514589739629025
+      Mosquito Animation_8: -8862626746563792264
+      Mosquito Animation_9: 2502481179871757164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

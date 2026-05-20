@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: eb2c0fd5ea1fd4c47a7ce46fe2ffbb4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3660253527608490023
+    second: Boss Grasshopper Animation_0
+  - first:
+      213: -5950461275382932740
+    second: Boss Grasshopper Animation_1
+  - first:
+      213: 1797408812763373417
+    second: Boss Grasshopper Animation_2
+  - first:
+      213: -1752053635421386263
+    second: Boss Grasshopper Animation_3
+  - first:
+      213: 3669058186744432805
+    second: Boss Grasshopper Animation_4
+  - first:
+      213: 2222074446503440540
+    second: Boss Grasshopper Animation_5
+  - first:
+      213: 769601697056821426
+    second: Boss Grasshopper Animation_6
+  - first:
+      213: 8338043178259142883
+    second: Boss Grasshopper Animation_7
+  - first:
+      213: -1969943936751192484
+    second: Boss Grasshopper Animation_8
+  - first:
+      213: -4148451195393479854
+    second: Boss Grasshopper Animation_9
+  - first:
+      213: -2955250879659330175
+    second: Boss Grasshopper Animation_10
+  - first:
+      213: 8364074755382957713
+    second: Boss Grasshopper Animation_11
+  - first:
+      213: 5642694821665236254
+    second: Boss Grasshopper Animation_12
+  - first:
+      213: -4263564860070792474
+    second: Boss Grasshopper Animation_13
+  - first:
+      213: -7666225901991202121
+    second: Boss Grasshopper Animation_14
+  - first:
+      213: 7086279735882219446
+    second: Boss Grasshopper Animation_15
+  - first:
+      213: -967212622350413158
+    second: Boss Grasshopper Animation_16
+  - first:
+      213: -1202239624222551600
+    second: Boss Grasshopper Animation_17
+  - first:
+      213: -4748551870003684956
+    second: Boss Grasshopper Animation_18
+  - first:
+      213: -265073733618019854
+    second: Boss Grasshopper Animation_19
+  - first:
+      213: -480592074579429239
+    second: Boss Grasshopper Animation_20
+  - first:
+      213: 1206657171584068569
+    second: Boss Grasshopper Animation_21
+  - first:
+      213: -6197086767430863869
+    second: Boss Grasshopper Animation_22
+  - first:
+      213: -5289572334838138125
+    second: Boss Grasshopper Animation_23
+  - first:
+      213: -6211101631502023560
+    second: Boss Grasshopper Animation_24
+  - first:
+      213: 4360338211190205192
+    second: Boss Grasshopper Animation_25
+  - first:
+      213: 3850868819302061720
+    second: Boss Grasshopper Animation_26
+  - first:
+      213: -6312388553057638790
+    second: Boss Grasshopper Animation_27
+  - first:
+      213: -2122446598930462167
+    second: Boss Grasshopper Animation_28
+  - first:
+      213: 1268375302291363194
+    second: Boss Grasshopper Animation_29
+  - first:
+      213: -2900463528598803463
+    second: Boss Grasshopper Animation_30
+  - first:
+      213: 3987021008510907297
+    second: Boss Grasshopper Animation_31
+  - first:
+      213: -5144833878648383400
+    second: Boss Grasshopper Animation_32
+  - first:
+      213: -7370026899759652464
+    second: Boss Grasshopper Animation_33
+  - first:
+      213: 8392213141295025117
+    second: Boss Grasshopper Animation_34
+  - first:
+      213: -7960130753850985194
+    second: Boss Grasshopper Animation_35
+  - first:
+      213: 401664603064913570
+    second: Boss Grasshopper Animation_36
+  - first:
+      213: 6869410283067490758
+    second: Boss Grasshopper Animation_37
+  - first:
+      213: -1694892352511976243
+    second: Boss Grasshopper Animation_38
+  - first:
+      213: 1812583612852554754
+    second: Boss Grasshopper Animation_39
+  - first:
+      213: 5959818183808500791
+    second: Boss Grasshopper Animation_40
+  - first:
+      213: -7770277880601160411
+    second: Boss Grasshopper Animation_41
+  - first:
+      213: -8720640011989659497
+    second: Boss Grasshopper Animation_42
+  - first:
+      213: -648756207438799050
+    second: Boss Grasshopper Animation_43
+  - first:
+      213: 6614157953149987057
+    second: Boss Grasshopper Animation_44
+  - first:
+      213: 4123045137369633575
+    second: Boss Grasshopper Animation_45
+  - first:
+      213: -4278190537640330342
+    second: Boss Grasshopper Animation_46
+  - first:
+      213: 9141352213057701229
+    second: Boss Grasshopper Animation_47
+  - first:
+      213: -5087406089194091991
+    second: Boss Grasshopper Animation_48
+  - first:
+      213: -5744715314025998713
+    second: Boss Grasshopper Animation_49
+  - first:
+      213: 5241065617410333110
+    second: Boss Grasshopper Animation_50
+  - first:
+      213: -7402126004253757792
+    second: Boss Grasshopper Animation_51
+  - first:
+      213: 7721199881154945650
+    second: Boss Grasshopper Animation_52
+  - first:
+      213: 1155577000062025417
+    second: Boss Grasshopper Animation_53
+  - first:
+      213: 6322332675240023225
+    second: Boss Grasshopper Animation_54
+  - first:
+      213: -1085946949964493241
+    second: Boss Grasshopper Animation_55
+  - first:
+      213: -2441334222463379064
+    second: Boss Grasshopper Animation_56
+  - first:
+      213: -136815803878261433
+    second: Boss Grasshopper Animation_57
+  - first:
+      213: 8775436678671412369
+    second: Boss Grasshopper Animation_58
+  - first:
+      213: 7020905230707675354
+    second: Boss Grasshopper Animation_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2653
+        width: 231
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72879f4c035dbc230800000000000000
+      internalID: 3660253527608490023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_1
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2653
+        width: 231
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa15173ff6bb6da0800000000000000
+      internalID: -5950461275382932740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_2
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2653
+        width: 231
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fdae8cacda1f810800000000000000
+      internalID: 1797408812763373417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_3
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2653
+        width: 231
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9c64950847fa7e0800000000000000
+      internalID: -1752053635421386263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_4
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 2653
+        width: 231
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a804293bfc1be230800000000000000
+      internalID: 3669058186744432805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2413
+        width: 231
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c907f40afe466de10800000000000000
+      internalID: 2222074446503440540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_6
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2413
+        width: 231
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b01c9b7aac2eaa00800000000000000
+      internalID: 769601697056821426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_7
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2413
+        width: 231
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e85102081ea6b370800000000000000
+      internalID: 8338043178259142883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_8
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 2410
+        width: 211
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56b28e3d6a59a4e0800000000000000
+      internalID: -1969943936751192484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_9
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2411
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25be6820e9dbd66c0800000000000000
+      internalID: -4148451195393479854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2174
+        width: 245
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185beb78bf6dcf6d0800000000000000
+      internalID: -2955250879659330175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_11
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2175
+        width: 250
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196d96ddca9231470800000000000000
+      internalID: 8364074755382957713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_12
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2175
+        width: 271
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15ea454b01ee4e40800000000000000
+      internalID: 5642694821665236254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_13
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 2175
+        width: 264
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e274ae5956c4d4c0800000000000000
+      internalID: -4263564860070792474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_14
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 2176
+        width: 258
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b27ae7d8281c9590800000000000000
+      internalID: -7666225901991202121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1936
+        width: 259
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bffe4400e5875260800000000000000
+      internalID: 7086279735882219446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_16
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1935
+        width: 276
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9297869e35c392f0800000000000000
+      internalID: -967212622350413158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_17
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1935
+        width: 272
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1d0577e69c05fe0800000000000000
+      internalID: -1202239624222551600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_18
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1935
+        width: 251
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9d9eeab31c91eb0800000000000000
+      internalID: -4748551870003684956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_19
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1935
+        width: 261
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1596cf7d4425cf0800000000000000
+      internalID: -265073733618019854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1694
+        width: 273
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98833d0fd089459f0800000000000000
+      internalID: -480592074579429239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_21
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1694
+        width: 267
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db22fded48eeb010800000000000000
+      internalID: 1206657171584068569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_22
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1695
+        width: 255
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30472092b668ff9a0800000000000000
+      internalID: -6197086767430863869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_23
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1694
+        width: 270
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa3d30acf9a796b0800000000000000
+      internalID: -5289572334838138125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_24
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1693
+        width: 273
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874097659fbbdc9a0800000000000000
+      internalID: -6211101631502023560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1455
+        width: 260
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bed824088038c30800000000000000
+      internalID: 4360338211190205192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1455
+        width: 253
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8969023d9c8017530800000000000000
+      internalID: 3850868819302061720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_27
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1453
+        width: 266
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76e1c23e04e568a0800000000000000
+      internalID: -6312388553057638790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_28
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1454
+        width: 272
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a8300401e8b82e0800000000000000
+      internalID: -2122446598930462167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_29
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1455
+        width: 263
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7594f60e9c2a9110800000000000000
+      internalID: 1268375302291363194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1213
+        width: 259
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb64edb9cb7fb7d0800000000000000
+      internalID: -2900463528598803463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_31
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1213
+        width: 273
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3ff4cab7eb45730800000000000000
+      internalID: 3987021008510907297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_32
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1215
+        width: 272
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85894ca88d0e998b0800000000000000
+      internalID: -5144833878648383400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_33
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1215
+        width: 259
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091a0ce259768b990800000000000000
+      internalID: -7370026899759652464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_34
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1213
+        width: 262
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb414e5361277470800000000000000
+      internalID: 8392213141295025117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_35
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 973
+        width: 273
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615bc03014fe78190800000000000000
+      internalID: -7960130753850985194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_36
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 975
+        width: 266
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae488014dff29500800000000000000
+      internalID: 401664603064913570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_37
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 975
+        width: 258
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c147aab14c055f50800000000000000
+      internalID: 6869410283067490758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_38
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 972
+        width: 270
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc5ff3a2688a78e0800000000000000
+      internalID: -1694892352511976243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_39
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 974
+        width: 273
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c45c14137972910800000000000000
+      internalID: 1812583612852554754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 735
+        width: 261
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734c1dbcf0785b250800000000000000
+      internalID: 5959818183808500791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_41
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 734
+        width: 261
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52551b0bf6d6a2490800000000000000
+      internalID: -7770277880601160411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_42
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 732
+        width: 271
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7905c4fec101af680800000000000000
+      internalID: -8720640011989659497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_43
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 734
+        width: 269
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fd7c5aaa72ff6f0800000000000000
+      internalID: -648756207438799050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_44
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 735
+        width: 261
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f864d57d953acb50800000000000000
+      internalID: 6614157953149987057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_45
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 492
+        width: 269
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72391d525bff73930800000000000000
+      internalID: 4123045137369633575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_46
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 492
+        width: 273
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bb2827f50d0a4c0800000000000000
+      internalID: -4278190537640330342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_47
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 494
+        width: 269
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d650902a76b9cde70800000000000000
+      internalID: 9141352213057701229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_48
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 494
+        width: 261
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a4d69bd17e569b0800000000000000
+      internalID: -5087406089194091991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_49
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 493
+        width: 270
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786dbb3dbdba640b0800000000000000
+      internalID: -5744715314025998713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_50
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 254
+        width: 271
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9914229610cb840800000000000000
+      internalID: 5241065617410333110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_51
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 255
+        width: 264
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aee5c50e9d564990800000000000000
+      internalID: -7402126004253757792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_52
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 254
+        width: 263
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272670c1266372b60800000000000000
+      internalID: 7721199881154945650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_53
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 253
+        width: 273
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cefe47b82f690010800000000000000
+      internalID: 1155577000062025417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_54
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 254
+        width: 270
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4d68b22107db750800000000000000
+      internalID: 6322332675240023225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_55
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 14
+        width: 262
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e827aa001fde0f0800000000000000
+      internalID: -1085946949964493241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_56
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 14
+        width: 271
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889d01c9573ae1ed0800000000000000
+      internalID: -2441334222463379064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_57
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 14
+        width: 231
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d3d2250cee91ef0800000000000000
+      internalID: -136815803878261433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_58
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 14
+        width: 269
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ca42d3a2d98c970800000000000000
+      internalID: 8775436678671412369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Grasshopper Animation_59
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 15
+        width: 259
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad05306eb144f6160800000000000000
+      internalID: 7020905230707675354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boss Grasshopper Animation_0: 3660253527608490023
+      Boss Grasshopper Animation_1: -5950461275382932740
+      Boss Grasshopper Animation_10: -2955250879659330175
+      Boss Grasshopper Animation_11: 8364074755382957713
+      Boss Grasshopper Animation_12: 5642694821665236254
+      Boss Grasshopper Animation_13: -4263564860070792474
+      Boss Grasshopper Animation_14: -7666225901991202121
+      Boss Grasshopper Animation_15: 7086279735882219446
+      Boss Grasshopper Animation_16: -967212622350413158
+      Boss Grasshopper Animation_17: -1202239624222551600
+      Boss Grasshopper Animation_18: -4748551870003684956
+      Boss Grasshopper Animation_19: -265073733618019854
+      Boss Grasshopper Animation_2: 1797408812763373417
+      Boss Grasshopper Animation_20: -480592074579429239
+      Boss Grasshopper Animation_21: 1206657171584068569
+      Boss Grasshopper Animation_22: -6197086767430863869
+      Boss Grasshopper Animation_23: -5289572334838138125
+      Boss Grasshopper Animation_24: -6211101631502023560
+      Boss Grasshopper Animation_25: 4360338211190205192
+      Boss Grasshopper Animation_26: 3850868819302061720
+      Boss Grasshopper Animation_27: -6312388553057638790
+      Boss Grasshopper Animation_28: -2122446598930462167
+      Boss Grasshopper Animation_29: 1268375302291363194
+      Boss Grasshopper Animation_3: -1752053635421386263
+      Boss Grasshopper Animation_30: -2900463528598803463
+      Boss Grasshopper Animation_31: 3987021008510907297
+      Boss Grasshopper Animation_32: -5144833878648383400
+      Boss Grasshopper Animation_33: -7370026899759652464
+      Boss Grasshopper Animation_34: 8392213141295025117
+      Boss Grasshopper Animation_35: -7960130753850985194
+      Boss Grasshopper Animation_36: 401664603064913570
+      Boss Grasshopper Animation_37: 6869410283067490758
+      Boss Grasshopper Animation_38: -1694892352511976243
+      Boss Grasshopper Animation_39: 1812583612852554754
+      Boss Grasshopper Animation_4: 3669058186744432805
+      Boss Grasshopper Animation_40: 5959818183808500791
+      Boss Grasshopper Animation_41: -7770277880601160411
+      Boss Grasshopper Animation_42: -8720640011989659497
+      Boss Grasshopper Animation_43: -648756207438799050
+      Boss Grasshopper Animation_44: 6614157953149987057
+      Boss Grasshopper Animation_45: 4123045137369633575
+      Boss Grasshopper Animation_46: -4278190537640330342
+      Boss Grasshopper Animation_47: 9141352213057701229
+      Boss Grasshopper Animation_48: -5087406089194091991
+      Boss Grasshopper Animation_49: -5744715314025998713
+      Boss Grasshopper Animation_5: 2222074446503440540
+      Boss Grasshopper Animation_50: 5241065617410333110
+      Boss Grasshopper Animation_51: -7402126004253757792
+      Boss Grasshopper Animation_52: 7721199881154945650
+      Boss Grasshopper Animation_53: 1155577000062025417
+      Boss Grasshopper Animation_54: 6322332675240023225
+      Boss Grasshopper Animation_55: -1085946949964493241
+      Boss Grasshopper Animation_56: -2441334222463379064
+      Boss Grasshopper Animation_57: -136815803878261433
+      Boss Grasshopper Animation_58: 8775436678671412369
+      Boss Grasshopper Animation_59: 7020905230707675354
+      Boss Grasshopper Animation_6: 769601697056821426
+      Boss Grasshopper Animation_7: 8338043178259142883
+      Boss Grasshopper Animation_8: -1969943936751192484
+      Boss Grasshopper Animation_9: -4148451195393479854
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
