@@ -28,6 +28,9 @@ public class EnemyHealth : MonoBehaviour
 
     public void TakeDamage(float damage)
     {
+        if (visibilityGate != null && !visibilityGate.HasEnteredCamera)
+        return;
+        
         currentHealth -= damage;
         currentHealth = Mathf.Clamp(currentHealth, 0f, maxHealth);
 

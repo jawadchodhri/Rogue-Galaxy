@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: b72618a420afa4a488f16d76a903224d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6326345876600042127
+    second: Dengue Mosquito_0
+  - first:
+      213: 6210538299004983833
+    second: Dengue Mosquito_1
+  - first:
+      213: -3930943426819966768
+    second: Dengue Mosquito_2
+  - first:
+      213: -279029126216253472
+    second: Dengue Mosquito_3
+  - first:
+      213: 6526536239789873466
+    second: Dengue Mosquito_4
+  - first:
+      213: 3638837726400809419
+    second: Dengue Mosquito_5
+  - first:
+      213: 6627027932964302253
+    second: Dengue Mosquito_6
+  - first:
+      213: 3157558526964768314
+    second: Dengue Mosquito_7
+  - first:
+      213: -8333648849155885825
+    second: Dengue Mosquito_8
+  - first:
+      213: -1566074080443188414
+    second: Dengue Mosquito_9
+  - first:
+      213: 6758852465532473301
+    second: Dengue Mosquito_10
+  - first:
+      213: 7016864585785004833
+    second: Dengue Mosquito_11
+  - first:
+      213: -8250721264914689345
+    second: Dengue Mosquito_12
+  - first:
+      213: -3050212041681002629
+    second: Dengue Mosquito_13
+  - first:
+      213: -5566268142942806627
+    second: Dengue Mosquito_14
+  - first:
+      213: -6701214252036913543
+    second: Dengue Mosquito_15
+  - first:
+      213: -7666834106159825340
+    second: Dengue Mosquito_16
+  - first:
+      213: -1876025969803947664
+    second: Dengue Mosquito_17
+  - first:
+      213: 6755126460336205725
+    second: Dengue Mosquito_18
+  - first:
+      213: 6596467715159535148
+    second: Dengue Mosquito_19
+  - first:
+      213: -2876746212625265072
+    second: Dengue Mosquito_20
+  - first:
+      213: -3302115790090674996
+    second: Dengue Mosquito_21
+  - first:
+      213: 6271645419693166965
+    second: Dengue Mosquito_22
+  - first:
+      213: 427297228767800385
+    second: Dengue Mosquito_23
+  - first:
+      213: -3077467387445533805
+    second: Dengue Mosquito_24
+  - first:
+      213: 5557600210886451206
+    second: Dengue Mosquito_25
+  - first:
+      213: -6115792634544351810
+    second: Dengue Mosquito_26
+  - first:
+      213: 3226077409179993184
+    second: Dengue Mosquito_27
+  - first:
+      213: -4343600644262678127
+    second: Dengue Mosquito_28
+  - first:
+      213: -7665541247164537285
+    second: Dengue Mosquito_29
+  - first:
+      213: -493447520781148905
+    second: Dengue Mosquito_30
+  - first:
+      213: -6059536513192564578
+    second: Dengue Mosquito_31
+  - first:
+      213: -3198734478499860989
+    second: Dengue Mosquito_32
+  - first:
+      213: 8110782312465510276
+    second: Dengue Mosquito_33
+  - first:
+      213: -3617115556341963137
+    second: Dengue Mosquito_34
+  - first:
+      213: -4771528059994985176
+    second: Dengue Mosquito_35
+  - first:
+      213: 898179867559318236
+    second: Dengue Mosquito_36
+  - first:
+      213: 8320058903696723298
+    second: Dengue Mosquito_37
+  - first:
+      213: 310010834607297728
+    second: Dengue Mosquito_38
+  - first:
+      213: -8821148623118996753
+    second: Dengue Mosquito_39
+  - first:
+      213: -8167751693009751796
+    second: Dengue Mosquito_40
+  - first:
+      213: 1290130940953700002
+    second: Dengue Mosquito_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dengue Mosquito_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1921
+        width: 330
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82b00d6e02bbc750800000000000000
+      internalID: 6326345876600042127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1921
+        width: 364
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a96289da3403650800000000000000
+      internalID: 6210538299004983833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_2
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1921
+        width: 389
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d83d34c7cb7279c0800000000000000
+      internalID: -3930943426819966768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_3
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1921
+        width: 345
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef74e1fc70b02cf0800000000000000
+      internalID: -279029126216253472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_4
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1921
+        width: 347
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39936a812ae29a50800000000000000
+      internalID: 6526536239789873466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1681
+        width: 382
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9096df1afbf7230800000000000000
+      internalID: 3638837726400809419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_6
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1681
+        width: 363
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadade42bcee7fb50800000000000000
+      internalID: 6627027932964302253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_7
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1681
+        width: 340
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e9d3530c6e1db20800000000000000
+      internalID: 3157558526964768314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_8
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1681
+        width: 380
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff47837768ee85c80800000000000000
+      internalID: -8333648849155885825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_9
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1680
+        width: 380
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bbc37dbef244ae0800000000000000
+      internalID: -1566074080443188414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1440
+        width: 348
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df0659e1844ccd50800000000000000
+      internalID: 6758852465532473301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_11
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1441
+        width: 359
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123dbb0f929e06160800000000000000
+      internalID: 7016864585785004833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_12
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1441
+        width: 383
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb29ff749bc8f7d80800000000000000
+      internalID: -8250721264914689345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_13
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1441
+        width: 354
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f1cfd0f487ba5d0800000000000000
+      internalID: -3050212041681002629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_14
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1441
+        width: 342
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d12578d94a0c2b0800000000000000
+      internalID: -5566268142942806627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1201
+        width: 370
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9760e8f64218003a0800000000000000
+      internalID: -6701214252036913543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_16
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1201
+        width: 380
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e7e76400fe99590800000000000000
+      internalID: -7666834106159825340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_17
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1201
+        width: 350
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0719d60f15407f5e0800000000000000
+      internalID: -1876025969803947664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_18
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1200
+        width: 361
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f6e29b9b70fbd50800000000000000
+      internalID: 6755126460336205725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_19
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1201
+        width: 385
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eaa66ff6c5b8b50800000000000000
+      internalID: 6596467715159535148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 961
+        width: 373
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e458faf8eb318d0800000000000000
+      internalID: -2876746212625265072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_21
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 961
+        width: 346
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccdf6c2f278c22d0800000000000000
+      internalID: -3302115790090674996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_22
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 961
+        width: 370
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5715406d74c590750800000000000000
+      internalID: 6271645419693166965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_23
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 961
+        width: 376
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ca63ec0901ee500800000000000000
+      internalID: 427297228767800385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_24
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 961
+        width: 348
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393a57b57b3aa45d0800000000000000
+      internalID: -3077467387445533805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 721
+        width: 353
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600e58542ff802d40800000000000000
+      internalID: 5557600210886451206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_26
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 721
+        width: 386
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb598027007502ba0800000000000000
+      internalID: -6115792634544351810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_27
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 721
+        width: 366
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0640618af4455cc20800000000000000
+      internalID: 3226077409179993184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_28
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 721
+        width: 349
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191b0983a3e68b3c0800000000000000
+      internalID: -4343600644262678127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_29
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 721
+        width: 377
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3627a779d68e9590800000000000000
+      internalID: -7665541247164537285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 481
+        width: 384
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dda80281ce629f0800000000000000
+      internalID: -493447520781148905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_31
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 481
+        width: 347
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98e5a365a338eba0800000000000000
+      internalID: -6059536513192564578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_32
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 481
+        width: 359
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ea83e70ffcb93d0800000000000000
+      internalID: -3198734478499860989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_33
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 481
+        width: 387
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f27095a894f8070800000000000000
+      internalID: 8110782312465510276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_34
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 481
+        width: 364
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76a2b8d09c6dcdc0800000000000000
+      internalID: -3617115556341963137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_35
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 241
+        width: 344
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82da034928028cdb0800000000000000
+      internalID: -4771528059994985176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 240
+        width: 382
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2d74ea4d9f67c00800000000000000
+      internalID: 898179867559318236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_37
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 241
+        width: 380
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d4b29cd79c67370800000000000000
+      internalID: 8320058903696723298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_38
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 241
+        width: 274
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c45a4926316d4400800000000000000
+      internalID: 310010834607297728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_39
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 240
+        width: 269
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feae010501cf49580800000000000000
+      internalID: -8821148623118996753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_40
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 351
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01fe8c1c1156ae80800000000000000
+      internalID: -8167751693009751796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dengue Mosquito_41
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1
+        width: 381
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a62941614777e110800000000000000
+      internalID: 1290130940953700002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dengue Mosquito_0: 6326345876600042127
+      Dengue Mosquito_1: 6210538299004983833
+      Dengue Mosquito_10: 6758852465532473301
+      Dengue Mosquito_11: 7016864585785004833
+      Dengue Mosquito_12: -8250721264914689345
+      Dengue Mosquito_13: -3050212041681002629
+      Dengue Mosquito_14: -5566268142942806627
+      Dengue Mosquito_15: -6701214252036913543
+      Dengue Mosquito_16: -7666834106159825340
+      Dengue Mosquito_17: -1876025969803947664
+      Dengue Mosquito_18: 6755126460336205725
+      Dengue Mosquito_19: 6596467715159535148
+      Dengue Mosquito_2: -3930943426819966768
+      Dengue Mosquito_20: -2876746212625265072
+      Dengue Mosquito_21: -3302115790090674996
+      Dengue Mosquito_22: 6271645419693166965
+      Dengue Mosquito_23: 427297228767800385
+      Dengue Mosquito_24: -3077467387445533805
+      Dengue Mosquito_25: 5557600210886451206
+      Dengue Mosquito_26: -6115792634544351810
+      Dengue Mosquito_27: 3226077409179993184
+      Dengue Mosquito_28: -4343600644262678127
+      Dengue Mosquito_29: -7665541247164537285
+      Dengue Mosquito_3: -279029126216253472
+      Dengue Mosquito_30: -493447520781148905
+      Dengue Mosquito_31: -6059536513192564578
+      Dengue Mosquito_32: -3198734478499860989
+      Dengue Mosquito_33: 8110782312465510276
+      Dengue Mosquito_34: -3617115556341963137
+      Dengue Mosquito_35: -4771528059994985176
+      Dengue Mosquito_36: 898179867559318236
+      Dengue Mosquito_37: 8320058903696723298
+      Dengue Mosquito_38: 310010834607297728
+      Dengue Mosquito_39: -8821148623118996753
+      Dengue Mosquito_4: 6526536239789873466
+      Dengue Mosquito_40: -8167751693009751796
+      Dengue Mosquito_41: 1290130940953700002
+      Dengue Mosquito_5: 3638837726400809419
+      Dengue Mosquito_6: 6627027932964302253
+      Dengue Mosquito_7: 3157558526964768314
+      Dengue Mosquito_8: -8333648849155885825
+      Dengue Mosquito_9: -1566074080443188414
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
