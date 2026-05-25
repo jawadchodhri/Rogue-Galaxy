@@ -523,6 +523,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9358de725cab4eed8ce6d7b724e4f77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BossContactDamage
+  damage: 1
+  damageCooldown: 0.5
+  debugLogs: 1
 --- !u!1001 &2533299857801191646
 PrefabInstance:
   m_ObjectHideFlags: 0
