@@ -943,8 +943,8 @@ MonoBehaviour:
           specificSpawnPoint: {fileID: 0}
         spawnDelay: 0
       delayBeforeWave: 0
-    coolOffDuration: 10
-    bossPrefab: {fileID: 1387785219158675455, guid: 0f700588269d144978b13b00d44b1837, type: 3}
+    coolOffDuration: 3
+    bossPrefab: {fileID: 1387785219158675455, guid: b0068a044d4564870a042e05ec1478f7, type: 3}
     bossSpawnPoint: {fileID: 838154406}
     delayAfterBossDeath: 5
   - setName: Set 2
@@ -979,7 +979,7 @@ MonoBehaviour:
           specificSpawnPoint: {fileID: 0}
         spawnDelay: 0
       delayBeforeWave: 0
-    coolOffDuration: 10
+    coolOffDuration: 3
     bossPrefab: {fileID: 1387785219158675455, guid: b0068a044d4564870a042e05ec1478f7, type: 3}
     bossSpawnPoint: {fileID: 838154406}
     delayAfterBossDeath: 5
@@ -1015,7 +1015,7 @@ MonoBehaviour:
           specificSpawnPoint: {fileID: 0}
         spawnDelay: 0
       delayBeforeWave: 0
-    coolOffDuration: 10
+    coolOffDuration: 3
     bossPrefab: {fileID: 1387785219158675455, guid: 0f700588269d144978b13b00d44b1837, type: 3}
     bossSpawnPoint: {fileID: 838154406}
     delayAfterBossDeath: 5

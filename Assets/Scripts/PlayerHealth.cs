@@ -60,13 +60,6 @@ public class PlayerHealth : MonoBehaviour
         TakeDamage(collisionDamage);
         nextDamageTime = Time.time + damageCooldown;
 
-        BossHealth bossHealth = other.GetComponent<BossHealth>();
-
-        if (bossHealth != null)
-        {
-            TakeDamage(collisionDamage);
-        }
-
         // EnemyWaveMember waveMember = other.GetComponent<EnemyWaveMember>();
 
         // if (waveMember == null)

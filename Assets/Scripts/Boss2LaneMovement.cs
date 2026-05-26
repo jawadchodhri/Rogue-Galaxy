@@ -6,9 +6,14 @@ public sealed class Boss2LaneMovement : MonoBehaviour
     [Header("References")]
     [SerializeField] private BossEntryMovement entryMovement;
     [SerializeField] private BossHealth bossHealth;
+    [SerializeField] private Collider2D bossCollider;
 
     [Header("Lanes")]
-    [SerializeField] private float[] laneXPositions = { -2.2f, 0f, 2.2f };
+    [SerializeField] private float[] laneXPositions = { -1.8f, 0f, 1.8f };
+
+    [Header("Camera Clamp")]
+    [SerializeField] private bool clampInsideCamera = true;
+    [SerializeField] private float horizontalPadding = 0.35f;
 
     [Header("Movement")]
     [SerializeField] private float moveSpeed = 2.5f;
@@ -36,10 +41,14 @@ public sealed class Boss2LaneMovement : MonoBehaviour
     }
 
     private Rigidbody2D rb;
+    private Camera mainCamera;
 
     private float homeY;
     private float waitTimer;
     private float targetX;
+
+    private float minX;
+    private float maxX;
 
     private int currentLaneIndex;
 
@@ -50,6 +59,7 @@ public sealed class Boss2LaneMovement : MonoBehaviour
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        mainCamera = Camera.main;
 
         if (entryMovement == null)
         {
@@ -61,7 +71,14 @@ public sealed class Boss2LaneMovement : MonoBehaviour
             bossHealth = GetComponent<BossHealth>();
         }
 
+        if (bossCollider == null)
+        {
+            bossCollider = GetComponent<Collider2D>();
+        }
+
         rb.gravityScale = 0f;
+
+        CalculateCameraBounds();
     }
 
     private void FixedUpdate()
@@ -116,6 +133,8 @@ public sealed class Boss2LaneMovement : MonoBehaviour
 
     private void StartLaneMovement()
     {
+        CalculateCameraBounds();
+
         hasStartedMovement = true;
         homeY = rb.position.y;
 
@@ -128,11 +147,13 @@ public sealed class Boss2LaneMovement : MonoBehaviour
     private int GetClosestLaneIndex()
     {
         int closestIndex = 0;
-        float closestDistance = Mathf.Abs(rb.position.x - laneXPositions[0]);
+        float firstLaneX = GetClampedX(laneXPositions[0]);
+        float closestDistance = Mathf.Abs(rb.position.x - firstLaneX);
 
         for (int i = 1; i < laneXPositions.Length; i++)
         {
-            float distance = Mathf.Abs(rb.position.x - laneXPositions[i]);
+            float laneX = GetClampedX(laneXPositions[i]);
+            float distance = Mathf.Abs(rb.position.x - laneX);
 
             if (distance < closestDistance)
             {
@@ -160,7 +181,7 @@ public sealed class Boss2LaneMovement : MonoBehaviour
         if (laneXPositions.Length == 1)
         {
             currentLaneIndex = 0;
-            targetX = laneXPositions[0];
+            targetX = GetClampedX(laneXPositions[0]);
             return;
         }
 
@@ -172,7 +193,7 @@ public sealed class Boss2LaneMovement : MonoBehaviour
         }
 
         currentLaneIndex = nextLaneIndex;
-        targetX = laneXPositions[currentLaneIndex];
+        targetX = GetClampedX(laneXPositions[currentLaneIndex]);
     }
 
     private void MoveToLane()
@@ -192,13 +213,17 @@ public sealed class Boss2LaneMovement : MonoBehaviour
             speed * Time.fixedDeltaTime
         );
 
+        nextPosition.x = GetClampedX(nextPosition.x);
+
         rb.MovePosition(nextPosition);
 
         float distance = Vector2.Distance(nextPosition, targetPosition);
 
         if (distance <= 0.02f)
         {
+            targetPosition.x = GetClampedX(targetPosition.x);
             rb.MovePosition(targetPosition);
+
             waitTimer = GetCurrentWaitTime();
             isWaiting = true;
         }
@@ -220,6 +245,36 @@ public sealed class Boss2LaneMovement : MonoBehaviour
         }
 
         return Random.Range(minWaitTime, maxWaitTime);
+    }
+
+    private float GetClampedX(float xPosition)
+    {
+        if (clampInsideCamera == false)
+            return xPosition;
+
+        return Mathf.Clamp(xPosition, minX, maxX);
+    }
+
+    private void CalculateCameraBounds()
+    {
+        if (mainCamera == null)
+        {
+            Debug.LogError("Boss2LaneMovement: Main Camera not found.");
+            return;
+        }
+
+        float halfHeight = mainCamera.orthographicSize;
+        float halfWidth = halfHeight * mainCamera.aspect;
+
+        float bossHalfWidth = 0f;
+
+        if (bossCollider != null)
+        {
+            bossHalfWidth = bossCollider.bounds.extents.x;
+        }
+
+        minX = mainCamera.transform.position.x - halfWidth + horizontalPadding + bossHalfWidth;
+        maxX = mainCamera.transform.position.x + halfWidth - horizontalPadding - bossHalfWidth;
     }
 
     private bool IsPhase2()

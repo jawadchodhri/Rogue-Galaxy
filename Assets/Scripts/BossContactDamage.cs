@@ -4,10 +4,7 @@ public sealed class BossContactDamage : MonoBehaviour
 {
     [Header("Damage")]
     [SerializeField] private float damage = 1f;
-    [SerializeField] private float damageCooldown = 0.5f;
-
-    [Header("Debug")]
-    [SerializeField] private bool debugLogs = false;
+    [SerializeField] private float damageCooldown;
 
     private float nextDamageTime;
 
@@ -16,10 +13,6 @@ public sealed class BossContactDamage : MonoBehaviour
         TryDamage(other);
     }
 
-    private void OnTriggerStay2D(Collider2D other)
-    {
-        TryDamage(other);
-    }
 
     private void TryDamage(Collider2D other)
     {
@@ -29,22 +22,11 @@ public sealed class BossContactDamage : MonoBehaviour
         PlayerHealth playerHealth = other.GetComponent<PlayerHealth>();
 
         if (playerHealth == null)
-        {
-            if (debugLogs == true)
-            {
-                Debug.Log("Boss touched: " + other.name + " but no PlayerHealth found.");
-            }
-
             return;
-        }
 
         playerHealth.TakeDamage(damage);
-
-        if (debugLogs == true)
-        {
-            Debug.Log("Boss damaged player: " + damage);
-        }
-
         nextDamageTime = Time.time + damageCooldown;
+
+        Debug.Log("Boss damaged player.");
     }
 }

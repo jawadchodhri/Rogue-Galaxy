@@ -207,6 +207,99 @@ Transform:
   m_Children: []
   m_Father: {fileID: 8170534675708495429}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5781516913556530981
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8802519611938001547}
+  - component: {fileID: 413903358386942796}
+  - component: {fileID: 4409093772329765724}
+  m_Layer: 0
+  m_Name: BossHitBox
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8802519611938001547
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5781516913556530981}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8170534675708495429}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &413903358386942796
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5781516913556530981}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: -0.08}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.22, y: 0.66}
+  m_EdgeRadius: 0
+--- !u!114 &4409093772329765724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5781516913556530981}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9358de725cab4eed8ce6d7b724e4f77, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BossContactDamageDirect
+  damage: 10
+  damageCooldown: 1
 --- !u!1 &6990406676971805814
 GameObject:
   m_ObjectHideFlags: 0
@@ -224,7 +317,6 @@ GameObject:
   - component: {fileID: 1696899433496092909}
   - component: {fileID: 4402449947661433169}
   - component: {fileID: 3227170301928925297}
-  - component: {fileID: 8602677684904692806}
   m_Layer: 0
   m_Name: Second Boss
   m_TagString: Untagged
@@ -250,6 +342,7 @@ Transform:
   - {fileID: 2247853412857028217}
   - {fileID: 7047007175695664940}
   - {fileID: 1299846619297689657}
+  - {fileID: 8802519611938001547}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &3756873615947043103
@@ -448,10 +541,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Boss2DiveDashAttack
   laneMovement: {fileID: 4402449947661433169}
   bossHealth: {fileID: 1387785219158675455}
-  player: {fileID: 5620709839950902988, guid: edbc9435233374953a2cfda9e3be10ef, type: 3}
+  playerHealth: {fileID: 8972633116243749291, guid: edbc9435233374953a2cfda9e3be10ef, type: 3}
+  bossCollider: {fileID: 413903358386942796}
+  playerTag: Player
   dashWarningPrefab: {fileID: 0}
   warningY: 0
-  horizontalPadding: 0.5
+  horizontalPadding: 0.2
   lockOnDuration: 0.6
   alignSpeed: 5
   telegraphDuration: 0.45
@@ -478,10 +573,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Boss2LaneMovement
   entryMovement: {fileID: 7449522470200702597}
   bossHealth: {fileID: 1387785219158675455}
+  bossCollider: {fileID: 413903358386942796}
   laneXPositions:
   - -2.2
   - 0
   - 2.2
+  clampInsideCamera: 1
+  horizontalPadding: 1
   moveSpeed: 2.5
   phase2MoveSpeed: 3.8
   minWaitTime: 0.7
@@ -511,21 +609,6 @@ MonoBehaviour:
   phase2AttackDuration: 2.4
   phase2SpawnInterval: 0.16
   phase2DropsPerWave: 2
---- !u!114 &8602677684904692806
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6990406676971805814}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e9358de725cab4eed8ce6d7b724e4f77, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::BossContactDamage
-  damage: 1
-  damageCooldown: 0.5
-  debugLogs: 1
 --- !u!1001 &2533299857801191646
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -8,18 +8,22 @@ public sealed class Boss2DiveDashAttack : MonoBehaviour
     [Header("References")]
     [SerializeField] private Boss2LaneMovement laneMovement;
     [SerializeField] private BossHealth bossHealth;
-    [SerializeField] private Transform player;
+    [SerializeField] private PlayerHealth playerHealth;
+    [SerializeField] private Collider2D bossCollider;
+
+    [Header("Player Find")]
+    [SerializeField] private string playerTag = "Player";
 
     [Header("Optional Warning")]
     [SerializeField] private GameObject dashWarningPrefab;
     [SerializeField] private float warningY = 0f;
 
     [Header("Camera Clamp")]
-    [SerializeField] private float horizontalPadding = 0.5f;
+    [SerializeField] private float horizontalPadding = 0.35f;
 
     [Header("Phase 1")]
     [SerializeField] private float lockOnDuration = 0.6f;
-    [SerializeField] private float alignSpeed = 5f;
+    [SerializeField] private float alignSpeed = 8f;
     [SerializeField] private float telegraphDuration = 0.45f;
     [SerializeField] private float dashSpeed = 12f;
     [SerializeField] private float returnSpeed = 7f;
@@ -27,7 +31,7 @@ public sealed class Boss2DiveDashAttack : MonoBehaviour
 
     [Header("Phase 2")]
     [SerializeField] private float phase2LockOnDuration = 0.45f;
-    [SerializeField] private float phase2AlignSpeed = 7f;
+    [SerializeField] private float phase2AlignSpeed = 10f;
     [SerializeField] private float phase2TelegraphDuration = 0.3f;
     [SerializeField] private float phase2DashSpeed = 16f;
     [SerializeField] private float phase2ReturnSpeed = 9f;
@@ -44,11 +48,13 @@ public sealed class Boss2DiveDashAttack : MonoBehaviour
     }
 
     private Rigidbody2D rb;
+    private Rigidbody2D playerRb;
     private Camera mainCamera;
     private Coroutine attackRoutine;
 
     private float minX;
     private float maxX;
+    private float lockedDashX;
 
     private bool isDashing;
 
@@ -67,15 +73,23 @@ public sealed class Boss2DiveDashAttack : MonoBehaviour
             bossHealth = GetComponent<BossHealth>();
         }
 
+        if (bossCollider == null)
+        {
+            bossCollider = GetComponent<Collider2D>();
+        }
+
         rb.gravityScale = 0f;
 
         CalculateCameraBounds();
+        FindPlayer();
     }
 
     public void BeginAttack(Action onComplete)
     {
         if (attackRoutine != null)
             return;
+
+        FindPlayer();
 
         attackRoutine = StartCoroutine(DiveDashRoutine(onComplete));
     }
@@ -118,18 +132,16 @@ public sealed class Boss2DiveDashAttack : MonoBehaviour
 
         while (Time.time < endTime)
         {
-            float targetX = GetPlayerX();
-            targetX = Mathf.Clamp(targetX, minX, maxX);
-
-            Vector2 currentPosition = rb.position;
+            float livePlayerX = GetLivePlayerX();
+            livePlayerX = GetClampedX(livePlayerX);
 
             Vector2 targetPosition = new Vector2(
-                targetX,
+                livePlayerX,
                 GetTopY()
             );
 
             Vector2 nextPosition = Vector2.MoveTowards(
-                currentPosition,
+                rb.position,
                 targetPosition,
                 speed * Time.fixedDeltaTime
             );
@@ -138,6 +150,15 @@ public sealed class Boss2DiveDashAttack : MonoBehaviour
 
             yield return new WaitForFixedUpdate();
         }
+
+        lockedDashX = GetClampedX(GetLivePlayerX());
+
+        Vector2 finalLockPosition = new Vector2(
+            lockedDashX,
+            GetTopY()
+        );
+
+        rb.MovePosition(finalLockPosition);
     }
 
     private IEnumerator Telegraph()
@@ -148,14 +169,12 @@ public sealed class Boss2DiveDashAttack : MonoBehaviour
         {
             warning = Instantiate(
                 dashWarningPrefab,
-                new Vector3(rb.position.x, warningY, 0f),
+                new Vector3(lockedDashX, warningY, 0f),
                 Quaternion.identity
             );
         }
 
-        float duration = GetTelegraphDuration();
-
-        yield return new WaitForSeconds(duration);
+        yield return new WaitForSeconds(GetTelegraphDuration());
 
         if (warning != null)
         {
@@ -167,12 +186,12 @@ public sealed class Boss2DiveDashAttack : MonoBehaviour
     {
         isDashing = true;
 
-        float speed = GetDashSpeed();
-
         Vector2 targetPosition = new Vector2(
-            rb.position.x,
+            lockedDashX,
             dashEndY
         );
+
+        float speed = GetDashSpeed();
 
         while (Vector2.Distance(rb.position, targetPosition) > 0.03f)
         {
@@ -182,24 +201,25 @@ public sealed class Boss2DiveDashAttack : MonoBehaviour
                 speed * Time.fixedDeltaTime
             );
 
+            nextPosition.x = lockedDashX;
+
             rb.MovePosition(nextPosition);
 
             yield return new WaitForFixedUpdate();
         }
 
         rb.MovePosition(targetPosition);
-
         isDashing = false;
     }
 
     private IEnumerator ReturnToTop()
     {
-        float speed = GetReturnSpeed();
-
         Vector2 targetPosition = new Vector2(
-            rb.position.x,
+            lockedDashX,
             GetTopY()
         );
+
+        float speed = GetReturnSpeed();
 
         while (Vector2.Distance(rb.position, targetPosition) > 0.03f)
         {
@@ -209,6 +229,8 @@ public sealed class Boss2DiveDashAttack : MonoBehaviour
                 speed * Time.fixedDeltaTime
             );
 
+            nextPosition.x = lockedDashX;
+
             rb.MovePosition(nextPosition);
 
             yield return new WaitForFixedUpdate();
@@ -217,12 +239,42 @@ public sealed class Boss2DiveDashAttack : MonoBehaviour
         rb.MovePosition(targetPosition);
     }
 
-    private float GetPlayerX()
+    private void FindPlayer()
     {
-        if (player == null)
-            return rb.position.x;
+        if (playerHealth == null)
+        {
+            GameObject playerObject = GameObject.FindGameObjectWithTag(playerTag);
 
-        return player.position.x;
+            if (playerObject != null)
+            {
+                playerHealth = playerObject.GetComponent<PlayerHealth>();
+            }
+        }
+
+        if (playerHealth != null)
+        {
+            playerRb = playerHealth.GetComponent<Rigidbody2D>();
+        }
+
+        if (playerHealth == null)
+        {
+            Debug.LogError("Boss2DiveDashAttack: PlayerHealth not found. Make sure Player has Tag = Player and PlayerHealth on root.");
+        }
+    }
+
+    private float GetLivePlayerX()
+    {
+        if (playerRb != null)
+        {
+            return playerRb.position.x;
+        }
+
+        if (playerHealth != null)
+        {
+            return playerHealth.transform.position.x;
+        }
+
+        return rb.position.x;
     }
 
     private float GetTopY()
@@ -236,6 +288,11 @@ public sealed class Boss2DiveDashAttack : MonoBehaviour
         }
 
         return rb.position.y;
+    }
+
+    private float GetClampedX(float xPosition)
+    {
+        return Mathf.Clamp(xPosition, minX, maxX);
     }
 
     private int GetDashCount()
@@ -297,8 +354,15 @@ public sealed class Boss2DiveDashAttack : MonoBehaviour
         float halfHeight = mainCamera.orthographicSize;
         float halfWidth = halfHeight * mainCamera.aspect;
 
-        minX = mainCamera.transform.position.x - halfWidth + horizontalPadding;
-        maxX = mainCamera.transform.position.x + halfWidth - horizontalPadding;
+        float bossHalfWidth = 0f;
+
+        if (bossCollider != null)
+        {
+            bossHalfWidth = bossCollider.bounds.extents.x;
+        }
+
+        minX = mainCamera.transform.position.x - halfWidth + horizontalPadding + bossHalfWidth;
+        maxX = mainCamera.transform.position.x + halfWidth - horizontalPadding - bossHalfWidth;
     }
 
     private bool IsPhase2()
