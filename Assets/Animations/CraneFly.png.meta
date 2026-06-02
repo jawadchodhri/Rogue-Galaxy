@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: d9a0750e4abba438dba1fe9a7cc250f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5578289346106444065
+    second: Big Fly_0
+  - first:
+      213: -7257324499861961852
+    second: Big Fly_1
+  - first:
+      213: 2227277740694836461
+    second: Big Fly_2
+  - first:
+      213: 8687177224269276528
+    second: Big Fly_3
+  - first:
+      213: 1760848362487092932
+    second: Big Fly_4
+  - first:
+      213: -6416000618919687263
+    second: Big Fly_5
+  - first:
+      213: -1605612164072781764
+    second: Big Fly_6
+  - first:
+      213: -8987105966370525006
+    second: Big Fly_7
+  - first:
+      213: 3544269645609075499
+    second: Big Fly_8
+  - first:
+      213: 8529283997982872555
+    second: Big Fly_9
+  - first:
+      213: -7889456572707144028
+    second: Big Fly_10
+  - first:
+      213: -5089143976053134974
+    second: Big Fly_11
+  - first:
+      213: -6984343897359805142
+    second: Big Fly_12
+  - first:
+      213: -4482965354608293099
+    second: Big Fly_13
+  - first:
+      213: -6063378722707484554
+    second: Big Fly_14
+  - first:
+      213: 463091385456529364
+    second: Big Fly_15
+  - first:
+      213: -278608499466856490
+    second: Big Fly_16
+  - first:
+      213: 4776263837903196987
+    second: Big Fly_17
+  - first:
+      213: 7939589301751598101
+    second: Big Fly_18
+  - first:
+      213: 2686737848426611877
+    second: Big Fly_19
+  - first:
+      213: -4588321617012162807
+    second: Big Fly_20
+  - first:
+      213: 1179853614193267395
+    second: Big Fly_21
+  - first:
+      213: 5899897893794047604
+    second: Big Fly_22
+  - first:
+      213: -1946723855665720365
+    second: Big Fly_23
+  - first:
+      213: 4983832132575116235
+    second: Big Fly_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Big Fly_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 973
+        width: 289
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6bafe056fe592b0800000000000000
+      internalID: -5578289346106444065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_1
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 974
+        width: 288
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4830dfd71ddc84b90800000000000000
+      internalID: -7257324499861961852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_2
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 973
+        width: 269
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de41046fd41e8ee10800000000000000
+      internalID: 2227277740694836461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_3
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 974
+        width: 284
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0752f69a8ad0f8870800000000000000
+      internalID: 8687177224269276528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_4
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 974
+        width: 265
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c61f5d914acf6810800000000000000
+      internalID: 1760848362487092932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 733
+        width: 289
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab0b963e69c5f6a0800000000000000
+      internalID: -6416000618919687263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_6
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 734
+        width: 276
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3845616e38b7b9e0800000000000000
+      internalID: -1605612164072781764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_7
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 733
+        width: 283
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0f0b34db2674380800000000000000
+      internalID: -8987105966370525006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_8
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 733
+        width: 270
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b238abed676cf2130800000000000000
+      internalID: 3544269645609075499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_9
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 733
+        width: 276
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be351382b9a1e5670800000000000000
+      internalID: 8529283997982872555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 494
+        width: 282
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae7be81c05038290800000000000000
+      internalID: -7889456572707144028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_11
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 493
+        width: 266
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289a888648abf59b0800000000000000
+      internalID: -5089143976053134974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_12
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 494
+        width: 288
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2593b0ea30a21f90800000000000000
+      internalID: -6984343897359805142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_13
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 493
+        width: 265
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b803203ce49c1c0800000000000000
+      internalID: -4482965354608293099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_14
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 493
+        width: 286
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670db564d2d8adba0800000000000000
+      internalID: -6063378722707484554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 253
+        width: 267
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df0ea8592b3d6600800000000000000
+      internalID: 463091385456529364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_16
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 253
+        width: 279
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d79fddbb0f222cf0800000000000000
+      internalID: -278608499466856490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_17
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 253
+        width: 276
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3393c3a7a2b84240800000000000000
+      internalID: 4776263837903196987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_18
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 253
+        width: 285
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c456977661f2e60800000000000000
+      internalID: 7939589301751598101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_19
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 253
+        width: 282
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4c01496d5394520800000000000000
+      internalID: 2686737848426611877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 13
+        width: 279
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f7ebe9cc10350c0800000000000000
+      internalID: -4588321617012162807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_21
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 14
+        width: 286
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c253f86c9eaf5010800000000000000
+      internalID: 1179853614193267395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_22
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 14
+        width: 274
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4766baa10e5a0e150800000000000000
+      internalID: 5899897893794047604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_23
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 14
+        width: 279
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3144ba7f8dbf4e0800000000000000
+      internalID: -1946723855665720365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Fly_24
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 13
+        width: 267
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb315a4be02a2540800000000000000
+      internalID: 4983832132575116235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Big Fly_0: -5578289346106444065
+      Big Fly_1: -7257324499861961852
+      Big Fly_10: -7889456572707144028
+      Big Fly_11: -5089143976053134974
+      Big Fly_12: -6984343897359805142
+      Big Fly_13: -4482965354608293099
+      Big Fly_14: -6063378722707484554
+      Big Fly_15: 463091385456529364
+      Big Fly_16: -278608499466856490
+      Big Fly_17: 4776263837903196987
+      Big Fly_18: 7939589301751598101
+      Big Fly_19: 2686737848426611877
+      Big Fly_2: 2227277740694836461
+      Big Fly_20: -4588321617012162807
+      Big Fly_21: 1179853614193267395
+      Big Fly_22: 5899897893794047604
+      Big Fly_23: -1946723855665720365
+      Big Fly_24: 4983832132575116235
+      Big Fly_3: 8687177224269276528
+      Big Fly_4: 1760848362487092932
+      Big Fly_5: -6416000618919687263
+      Big Fly_6: -1605612164072781764
+      Big Fly_7: -8987105966370525006
+      Big Fly_8: 3544269645609075499
+      Big Fly_9: 8529283997982872555
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

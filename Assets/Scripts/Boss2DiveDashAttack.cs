@@ -8,7 +8,6 @@ public sealed class Boss2DiveDashAttack : MonoBehaviour
     [Header("References")]
     [SerializeField] private Boss2LaneMovement laneMovement;
     [SerializeField] private BossHealth bossHealth;
-    [SerializeField] private PlayerHealth playerHealth;
     [SerializeField] private Collider2D bossCollider;
 
     [Header("Player Find")]
@@ -36,6 +35,8 @@ public sealed class Boss2DiveDashAttack : MonoBehaviour
     [SerializeField] private float phase2DashSpeed = 16f;
     [SerializeField] private float phase2ReturnSpeed = 9f;
     [SerializeField] private int phase2DashCount = 2;
+
+    private PlayerHealth playerHealth;
 
     public bool IsAttacking
     {
@@ -361,8 +362,8 @@ public sealed class Boss2DiveDashAttack : MonoBehaviour
             bossHalfWidth = bossCollider.bounds.extents.x;
         }
 
-        minX = mainCamera.transform.position.x - halfWidth + horizontalPadding + bossHalfWidth;
-        maxX = mainCamera.transform.position.x + halfWidth - horizontalPadding - bossHalfWidth;
+        minX = mainCamera.transform.position.x - halfWidth + horizontalPadding;
+        maxX = mainCamera.transform.position.x + halfWidth - horizontalPadding;
     }
 
     private bool IsPhase2()

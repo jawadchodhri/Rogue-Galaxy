@@ -16,12 +16,12 @@ public sealed class Boss2PoisonRainAttack : MonoBehaviour
     [Header("Phase 1")]
     [SerializeField] private float attackDuration = 2f;
     [SerializeField] private float spawnInterval = 0.25f;
-    [SerializeField] private int dropsPerWave = 1;
+    [SerializeField] private float dropsPerWave = 1;
 
     [Header("Phase 2")]
     [SerializeField] private float phase2AttackDuration = 2.4f;
     [SerializeField] private float phase2SpawnInterval = 0.16f;
-    [SerializeField] private int phase2DropsPerWave = 2;
+    [SerializeField] private float phase2DropsPerWave = 2;
 
     private Camera mainCamera;
     private Coroutine attackRoutine;
@@ -64,7 +64,7 @@ public sealed class Boss2PoisonRainAttack : MonoBehaviour
 
         float duration = GetAttackDuration();
         float interval = GetSpawnInterval();
-        int currentDropsPerWave = GetDropsPerWave();
+        float currentDropsPerWave = GetDropsPerWave();
 
         float endTime = Time.time + duration;
         float nextSpawnTime = Time.time;
@@ -73,7 +73,7 @@ public sealed class Boss2PoisonRainAttack : MonoBehaviour
         {
             if (Time.time >= nextSpawnTime)
             {
-                SpawnPoisonWave(currentDropsPerWave);
+                SpawnPoisonWave((int)currentDropsPerWave);
                 nextSpawnTime = Time.time + interval;
             }
 
@@ -148,7 +148,7 @@ public sealed class Boss2PoisonRainAttack : MonoBehaviour
         return spawnInterval;
     }
 
-    private int GetDropsPerWave()
+    private float GetDropsPerWave()
     {
         if (IsPhase2() == true)
             return phase2DropsPerWave;

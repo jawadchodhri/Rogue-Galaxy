@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class EnemyVisibilityGate : MonoBehaviour
 {
-    [SerializeField] private float topPadding = 0.4f;
+    private float topPadding = 0.8f;
 
     private Camera cam;
     private bool hasEnteredCamera;

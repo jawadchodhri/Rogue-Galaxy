@@ -541,12 +541,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Boss2DiveDashAttack
   laneMovement: {fileID: 4402449947661433169}
   bossHealth: {fileID: 1387785219158675455}
-  playerHealth: {fileID: 8972633116243749291, guid: edbc9435233374953a2cfda9e3be10ef, type: 3}
   bossCollider: {fileID: 413903358386942796}
   playerTag: Player
   dashWarningPrefab: {fileID: 0}
   warningY: 0
-  horizontalPadding: 0.2
+  horizontalPadding: 0.1
   lockOnDuration: 0.6
   alignSpeed: 5
   telegraphDuration: 0.45
@@ -608,7 +607,7 @@ MonoBehaviour:
   dropsPerWave: 1
   phase2AttackDuration: 2.4
   phase2SpawnInterval: 0.16
-  phase2DropsPerWave: 2
+  phase2DropsPerWave: 1.5
 --- !u!1001 &2533299857801191646
 PrefabInstance:
   m_ObjectHideFlags: 0
