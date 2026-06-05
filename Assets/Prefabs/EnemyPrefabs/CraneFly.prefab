@@ -156,7 +156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22af46a68f64a2546bd9a65d0a990c40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
-  maxHealth: 100
+  maxHealth: 5
   healthBar: {fileID: 948873046683349127}
 --- !u!114 &1767937411983047826
 MonoBehaviour:
@@ -183,20 +183,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CraneFlyEnemyMovement
   targetCamera: {fileID: 0}
-  repositionAboveCameraOnStart: 1
   horizontalPadding: 0.45
   topSpawnPadding: 1
-  bottomExitPadding: 1
-  downSpeed: 1.4
-  swayAmplitude: 1.2
-  swaySpeed: 2
-  verticalFlutterAmplitude: 0.12
-  verticalFlutterSpeed: 4
-  useRandomPauses: 1
-  minPauseInterval: 1.5
-  maxPauseInterval: 3
+  hoverMinYNormalized: 0.45
+  hoverMaxYNormalized: 0.82
+  enterSpeed: 2.4
+  moveSpeed: 1.8
+  arriveDistance: 0.08
   minPauseDuration: 0.15
   maxPauseDuration: 0.35
+  useFlutter: 1
+  flutterChangeInterval: 0.18
+  flutterStrength: 0.18
 --- !u!114 &8527670569157981867
 MonoBehaviour:
   m_ObjectHideFlags: 0
