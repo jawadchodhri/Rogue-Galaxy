@@ -163,25 +163,25 @@ public sealed class Boss2DiveDashAttack : MonoBehaviour
     }
 
     private IEnumerator Telegraph()
+{
+    GameObject warning = null;
+
+    if (dashWarningPrefab != null)
     {
-        GameObject warning = null;
-
-        if (dashWarningPrefab != null)
-        {
-            warning = Instantiate(
-                dashWarningPrefab,
-                new Vector3(lockedDashX, warningY, 0f),
-                Quaternion.identity
-            );
-        }
-
-        yield return new WaitForSeconds(GetTelegraphDuration());
-
-        if (warning != null)
-        {
-            Destroy(warning);
-        }
+        warning = Instantiate(
+            dashWarningPrefab,
+            new Vector3(lockedDashX, warningY, 0f),
+            Quaternion.identity
+        );
     }
+
+    yield return new WaitForSeconds(GetTelegraphDuration());
+
+    if (warning != null)
+    {
+        Destroy(warning);
+    }
+}
 
     private IEnumerator DashDown()
     {

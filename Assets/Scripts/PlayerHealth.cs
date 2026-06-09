@@ -7,6 +7,7 @@ public class PlayerHealth : MonoBehaviour
     [SerializeField] private float maxHealth = 100f;
     [SerializeField] private float collisionDamage = 20f;
     [SerializeField] private float damageCooldown = 0.5f;
+    [SerializeField] private PlayerDamageImmunity damageImmunity;
     private float nextDamageTime;
 
     [Header("UI")]
@@ -16,12 +17,25 @@ public class PlayerHealth : MonoBehaviour
 
     private void Awake()
     {
+        if (damageImmunity == null)
+        {
+            damageImmunity = GetComponent<PlayerDamageImmunity>();
+        }
+
         currentHealth = maxHealth;
         UpdateHealthUI();
     }
 
     public void TakeDamage(float damage)
     {
+        if (damage <= 0f)
+        return;
+
+        if (damageImmunity != null)
+        {
+            if (damageImmunity.IsImmune == true)
+                return;
+        }
         currentHealth -= damage;
 
         currentHealth = Mathf.Clamp(currentHealth, 0f, maxHealth);
@@ -31,6 +45,11 @@ public class PlayerHealth : MonoBehaviour
         if (currentHealth <= 0f)
         {
             Die();
+        }
+
+        if (damageImmunity != null)
+        {
+            damageImmunity.StartImmunity();
         }
     }
 

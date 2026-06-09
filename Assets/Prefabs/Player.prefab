@@ -414,6 +414,7 @@ GameObject:
   - component: {fileID: 8972633116243749291}
   - component: {fileID: 6852425092236227566}
   - component: {fileID: 393137758445917569}
+  - component: {fileID: 4137227046691630698}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -557,6 +558,7 @@ MonoBehaviour:
   maxHealth: 100
   collisionDamage: 20
   damageCooldown: 0.5
+  damageImmunity: {fileID: 0}
   healthFill: {fileID: 5070493584672779411}
 --- !u!114 &6852425092236227566
 MonoBehaviour:
@@ -587,3 +589,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   smoothSpeed: 15
   mainCamera: {fileID: 0}
+--- !u!114 &4137227046691630698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8997211786580063035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44549b1c8ea64457b8783168572f781a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerDamageImmunity
+  immunityDuration: 1.2
+  flashInterval: 0.08
+  visibleAlpha: 1
+  fadedAlpha: 0.35
+  spriteRenderers: []

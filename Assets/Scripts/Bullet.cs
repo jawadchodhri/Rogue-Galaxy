@@ -30,6 +30,14 @@ public class Bullet : MonoBehaviour
     {
         hasHit = true;
         boss.TakeDamage(damage);
+
+        Vector3 hitPosition = other.ClosestPoint(transform.position);
+
+        if (HitImpactVFXPool.Instance != null)
+        {
+            HitImpactVFXPool.Instance.Play(hitPosition, boss.transform);
+        }
+
         Destroy(gameObject);
         return;
     }
@@ -40,6 +48,14 @@ public class Bullet : MonoBehaviour
     {
         hasHit = true;
         enemy.TakeDamage(damage);
+
+        Vector3 hitPosition = other.ClosestPoint(transform.position);
+
+        if (HitImpactVFXPool.Instance != null)
+        {
+            HitImpactVFXPool.Instance.Play(hitPosition, enemy.transform);
+        }
+
         Destroy(gameObject);
     }
 }

@@ -543,7 +543,7 @@ MonoBehaviour:
   bossHealth: {fileID: 1387785219158675455}
   bossCollider: {fileID: 413903358386942796}
   playerTag: Player
-  dashWarningPrefab: {fileID: 0}
+  dashWarningPrefab: {fileID: 8375350742916367895, guid: 6c8fd548165604cabacdcba731e871db, type: 3}
   warningY: 0
   horizontalPadding: 0.1
   lockOnDuration: 0.6

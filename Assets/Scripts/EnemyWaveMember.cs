@@ -23,6 +23,11 @@ public class EnemyWaveMember : MonoBehaviour
 
     public void DieByPlayer()
     {
+        if (EnemyDeathVFXPool.Instance != null)
+        {
+            EnemyDeathVFXPool.Instance.Play(transform.position);
+        }
+
         if (spawner != null)
             spawner.OnEnemyKilled();
 
