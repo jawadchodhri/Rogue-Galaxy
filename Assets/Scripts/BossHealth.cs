@@ -4,6 +4,7 @@ using System;
 
 public class BossHealth : MonoBehaviour
 {
+    [SerializeField] private int bossScoreValue = 500;
     public event Action OnBossKilled;
     [Header("Health")]
     [SerializeField] private float maxHealth = 100f;
@@ -50,6 +51,10 @@ public class BossHealth : MonoBehaviour
 
     private void Die()
     {
+        if (GameStatsManager.Instance != null)
+        {
+            GameStatsManager.Instance.AddScore(bossScoreValue);
+        }
         OnBossKilled?.Invoke();
         Debug.Log("Boss defeated");
         Destroy(gameObject);

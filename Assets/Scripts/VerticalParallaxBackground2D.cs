@@ -62,11 +62,12 @@ public sealed class VerticalParallaxBackground2D : MonoBehaviour
             farGround.position.y + height - overlapOffset,
             farGround.position.z
         );
+
+        ResetBackground();
     }
 
     private void Start()
     {
-        ResetBackground();
     }
 
     private void Update()

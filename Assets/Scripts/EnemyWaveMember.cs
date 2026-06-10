@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class EnemyWaveMember : MonoBehaviour
 {
+    [SerializeField] private int scoreValue = 10;
     private EnemyWaveSpawner spawner;
 
     public void Initialize(EnemyWaveSpawner owner)
@@ -23,6 +24,11 @@ public class EnemyWaveMember : MonoBehaviour
 
     public void DieByPlayer()
     {
+
+        if (GameStatsManager.Instance != null)
+        {
+            GameStatsManager.Instance.AddScore(scoreValue);
+        }
         if (EnemyDeathVFXPool.Instance != null)
         {
             EnemyDeathVFXPool.Instance.Play(transform.position);

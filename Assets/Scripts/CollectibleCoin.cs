@@ -29,6 +29,12 @@ public class CoinCollectible : MonoBehaviour
 
         if (player == null) return;
 
+        if (GameStatsManager.Instance != null)
+        {
+            GameStatsManager.Instance.AddCoin(1);
+            GameStatsManager.Instance.AddScore(5);
+        }
+
         RemoveCoin();
     }
 
