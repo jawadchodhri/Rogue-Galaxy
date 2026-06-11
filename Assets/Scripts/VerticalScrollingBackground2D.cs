@@ -40,7 +40,7 @@ public sealed class VerticalScrollingBackground2D : MonoBehaviour
             return;
         }
 
-        FitToCamera();
+        FitToCamera();  
         ResetBackgrounds();
     }
 
@@ -95,10 +95,7 @@ public sealed class VerticalScrollingBackground2D : MonoBehaviour
         if (spriteSize.x <= 0f || spriteSize.y <= 0f)
             return;
 
-        float scale = Mathf.Max(
-            cameraWidth / spriteSize.x,
-            cameraHeight / spriteSize.y
-        ) * extraScale;
+        float scale = Mathf.Max(cameraWidth / spriteSize.x, cameraHeight / spriteSize.y) * extraScale;
 
         Vector3 finalScale = new Vector3(scale, scale, 1f);
 
