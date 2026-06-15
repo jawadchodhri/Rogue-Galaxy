@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.EventSystems;
 
 public class PlayerController : MonoBehaviour
 {
@@ -20,6 +21,11 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
+        if (PauseManager.IsPaused)
+            return;
+
+        if (IsTouchOverUI())
+            return;
         // Check if the touch is being pressed
         if (Touchscreen.current != null && Touchscreen.current.primaryTouch.press.isPressed)
         {
@@ -35,5 +41,18 @@ public class PlayerController : MonoBehaviour
 
         // Smooth movement to the touch position
         transform.position = Vector3.Lerp(transform.position, worldPos, smoothSpeed * Time.deltaTime);
+    }
+
+    private bool IsTouchOverUI()
+    {
+        if (EventSystem.current == null)
+            return false;
+
+        if (Input.touchCount > 0)
+        {
+            return EventSystem.current.IsPointerOverGameObject(Input.GetTouch(0).fingerId);
+        }
+
+        return EventSystem.current.IsPointerOverGameObject();
     }
 }

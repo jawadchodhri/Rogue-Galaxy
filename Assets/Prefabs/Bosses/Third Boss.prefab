@@ -1,36 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &2408043001964801183
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 7047007175695664940}
-  m_Layer: 0
-  m_Name: FirePointLeft
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &7047007175695664940
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2408043001964801183}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.4, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 8170534675708495429}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &3221636586122251728
 GameObject:
   m_ObjectHideFlags: 0
@@ -56,38 +25,7 @@ Transform:
   m_GameObject: {fileID: 3221636586122251728}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 8170534675708495429}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &3506479668471487699
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1299846619297689657}
-  m_Layer: 0
-  m_Name: FirePointRight
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1299846619297689657
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3506479668471487699}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.4, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.8, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -219,7 +157,8 @@ GameObject:
   - component: {fileID: 3756873615947043103}
   - component: {fileID: 7778333457251962202}
   - component: {fileID: 1387785219158675455}
-  - component: {fileID: 7449522470200702597}
+  - component: {fileID: 7702735573792175673}
+  - component: {fileID: 5767817127766935457}
   m_Layer: 0
   m_Name: Third Boss
   m_TagString: Untagged
@@ -243,8 +182,6 @@ Transform:
   - {fileID: 8906232769785121750}
   - {fileID: 1624772618578762999}
   - {fileID: 2247853412857028217}
-  - {fileID: 7047007175695664940}
-  - {fileID: 1299846619297689657}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &3756873615947043103
@@ -358,10 +295,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cfe195a8357ac472e93cdfb7bd3ee944, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BossHealth
+  bossScoreValue: 500
   maxHealth: 30
   phase2HealthPercent: 0.5
   healthFill: {fileID: 6556770153712694162}
---- !u!114 &7449522470200702597
+--- !u!114 &7702735573792175673
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -370,11 +308,43 @@ MonoBehaviour:
   m_GameObject: {fileID: 6990406676971805814}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 870e3c5c4ac434efc8c7ad2e0500c308, type: 3}
+  m_Script: {fileID: 11500000, guid: 9924c19e82a42497e8a36cd080e74671, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::BossEntryMovement
-  entrySpeed: 0.8
-  topScreenOffset: 2
+  m_EditorClassIdentifier: Assembly-CSharp::Boss3VerticalMovement
+  bossHealth: {fileID: 1387785219158675455}
+  spreadAttack: {fileID: 5767817127766935457}
+  targetCamera: {fileID: 0}
+  startAboveCamera: 1
+  spawnAbovePadding: 1.5
+  xOffset: 0
+  topStopY: 3.2
+  centerStopY: 0.6
+  moveSpeed: 2.5
+  phase2MoveSpeed: 3.8
+  arriveDistance: 0.03
+  pauseBeforeAttack: 0.25
+  pauseAfterAttack: 0.6
+  phase2PauseAfterAttack: 0.35
+--- !u!114 &5767817127766935457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6990406676971805814}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89410697a5ae44b47bc73263b7093f4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Boss3SpreadAttack
+  bossHealth: {fileID: 1387785219158675455}
+  projectilePrefab: {fileID: 1755330696692501097, guid: a6cc33bcb9c314457a00f70d5a0ce096, type: 3}
+  firePoints:
+  - {fileID: 2247853412857028217}
+  spreadBulletCount: 5
+  phase2SpreadBulletCount: 7
+  spreadAngle: 65
+  phase2SpreadAngle: 85
 --- !u!1001 &2533299857801191646
 PrefabInstance:
   m_ObjectHideFlags: 0

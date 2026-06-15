@@ -62,7 +62,7 @@ public sealed class VerticalScrollingBackground2D : MonoBehaviour
         if (backgroundB != null)
             return;
 
-        backgroundB = Instantiate(backgroundA, backgroundA.parent);
+        // backgroundB = Instantiate(backgroundA, backgroundA.parent);
         backgroundB.name = backgroundA.name + "_Loop";
     }
 
