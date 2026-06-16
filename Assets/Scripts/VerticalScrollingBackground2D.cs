@@ -25,10 +25,10 @@ public sealed class VerticalScrollingBackground2D : MonoBehaviour
 
     private void Awake()
     {
-        if (targetCamera == null)
-        {
-            targetCamera = Camera.main;
-        }
+        // if (targetCamera == null)
+        // {
+        //     targetCamera = Camera.main;
+        // }
 
         EnsureSecondBackground();
         CacheRenderers();

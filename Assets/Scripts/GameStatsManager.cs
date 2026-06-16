@@ -5,43 +5,33 @@ public sealed class GameStatsManager : MonoBehaviour
 {
     public static GameStatsManager Instance { get; private set; }
 
-    public event Action<int> OnCoinsChanged;
+    public event Action<int> OnRunCoinsChanged;
     public event Action<int> OnScoreChanged;
 
-    [Header("Starting Values")]
-    [SerializeField] private int startingCoins;
-    [SerializeField] private int startingScore;
-
-    public int Coins { get; private set; }
+    public int RunCoins { get; private set; }
     public int Score { get; private set; }
 
     private void Awake()
     {
-        if (Instance != null && Instance != this)
-        {
-            Destroy(gameObject);
-            return;
-        }
-
         Instance = this;
 
-        Coins = startingCoins;
-        Score = startingScore;
+        RunCoins = 0;
+        Score = 0;
     }
 
     private void Start()
     {
-        OnCoinsChanged?.Invoke(Coins);
+        OnRunCoinsChanged?.Invoke(RunCoins);
         OnScoreChanged?.Invoke(Score);
     }
 
-    public void AddCoin(int amount)
+    public void AddRunCoin(int amount)
     {
         if (amount <= 0)
             return;
 
-        Coins += amount;
-        OnCoinsChanged?.Invoke(Coins);
+        RunCoins += amount;
+        OnRunCoinsChanged?.Invoke(RunCoins);
     }
 
     public void AddScore(int amount)
@@ -50,15 +40,6 @@ public sealed class GameStatsManager : MonoBehaviour
             return;
 
         Score += amount;
-        OnScoreChanged?.Invoke(Score);
-    }
-
-    public void ResetStats()
-    {
-        Coins = startingCoins;
-        Score = startingScore;
-
-        OnCoinsChanged?.Invoke(Coins);
         OnScoreChanged?.Invoke(Score);
     }
 }

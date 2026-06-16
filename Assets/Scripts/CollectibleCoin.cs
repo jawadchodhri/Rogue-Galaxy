@@ -29,9 +29,14 @@ public class CoinCollectible : MonoBehaviour
 
         if (player == null) return;
 
+        if (CoinWallet.Instance != null)
+        {
+            CoinWallet.Instance.AddCoins(1);
+        }
+
         if (GameStatsManager.Instance != null)
         {
-            GameStatsManager.Instance.AddCoin(1);
+            GameStatsManager.Instance.AddRunCoin(1);
             GameStatsManager.Instance.AddScore(5);
         }
 

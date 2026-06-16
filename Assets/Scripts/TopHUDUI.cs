@@ -3,23 +3,19 @@ using UnityEngine;
 
 public sealed class TopHUDUI : MonoBehaviour
 {
-    [Header("Text References")]
-    [SerializeField] private TMP_Text coinText;
+    [Header("Texts")]
+    [SerializeField] private TMP_Text runCoinText;
     [SerializeField] private TMP_Text scoreText;
-
-    //[Header("Labels")]
-    //[SerializeField] private string coinPrefix = "";
-    //[SerializeField] private string scorePrefix = "";
 
     private void OnEnable()
     {
         if (GameStatsManager.Instance == null)
             return;
 
-        GameStatsManager.Instance.OnCoinsChanged += UpdateCoins;
+        GameStatsManager.Instance.OnRunCoinsChanged += UpdateRunCoins;
         GameStatsManager.Instance.OnScoreChanged += UpdateScore;
 
-        UpdateCoins(GameStatsManager.Instance.Coins);
+        UpdateRunCoins(GameStatsManager.Instance.RunCoins);
         UpdateScore(GameStatsManager.Instance.Score);
     }
 
@@ -28,23 +24,23 @@ public sealed class TopHUDUI : MonoBehaviour
         if (GameStatsManager.Instance == null)
             return;
 
-        GameStatsManager.Instance.OnCoinsChanged -= UpdateCoins;
+        GameStatsManager.Instance.OnRunCoinsChanged -= UpdateRunCoins;
         GameStatsManager.Instance.OnScoreChanged -= UpdateScore;
     }
 
-    private void UpdateCoins(int coins)
+    private void UpdateRunCoins(int coins)
     {
-        if (coinText == null)
-            return;
-
-        coinText.text = coins.ToString();
+        if (runCoinText != null)
+        {
+            runCoinText.text = coins.ToString();
+        }
     }
 
     private void UpdateScore(int score)
     {
-        if (scoreText == null)
-            return;
-
-        scoreText.text = score.ToString();
+        if (scoreText != null)
+        {
+            scoreText.text = score.ToString();
+        }
     }
 }

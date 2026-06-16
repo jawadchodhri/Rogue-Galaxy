@@ -11,7 +11,10 @@ public class PlayerHealth : MonoBehaviour
     private float nextDamageTime;
 
     [Header("UI")]
+    [SerializeField] private GameOverManager gameOverManager;
     [SerializeField] private Image healthFill;
+    [SerializeField] private RespawnOfferManager respawnOfferManager;
+    // [SerializeField] private PlayerDamageImmunity damageImmunity;
 
     private float currentHealth;
 
@@ -60,11 +63,31 @@ public class PlayerHealth : MonoBehaviour
         healthFill.fillAmount = currentHealth / maxHealth;
     }
 
+    public void RespawnFromDeath()
+    {
+        currentHealth = maxHealth;
+        UpdateHealthUI();
+
+        if (damageImmunity != null)
+        {
+            damageImmunity.StartImmunity();
+        }
+    }
+
     private void Die()
     {
-        Debug.Log("Player Died");
+        if (respawnOfferManager != null)
+        {
+            respawnOfferManager.ShowRespawnOffer(this);
+            return;
+        }
 
-        gameObject.SetActive(false);
+        if (gameOverManager != null)
+        {
+            gameOverManager.ShowGameOver();
+        }
+
+        //gameObject.SetActive(false);
     }
 
     private void OnTriggerEnter2D(Collider2D other)
