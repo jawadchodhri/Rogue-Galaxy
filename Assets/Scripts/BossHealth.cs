@@ -4,7 +4,7 @@ using System;
 
 public class BossHealth : MonoBehaviour
 {
-    [SerializeField] private int bossScoreValue = 500;
+    [SerializeField] private int bossScoreValue = 100;
     public event Action OnBossKilled;
     [Header("Health")]
     [SerializeField] private float maxHealth = 100f;
