@@ -4412,7 +4412,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8972633116243749291, guid: edbc9435233374953a2cfda9e3be10ef, type: 3}
       propertyPath: maxHealth
-      value: 10
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 8972633116243749291, guid: edbc9435233374953a2cfda9e3be10ef, type: 3}
       propertyPath: damageImmunity

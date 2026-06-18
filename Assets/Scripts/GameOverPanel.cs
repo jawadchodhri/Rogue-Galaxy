@@ -75,8 +75,8 @@ public sealed class GameOverManager : MonoBehaviour
         Time.timeScale = 1f;
         Application.Quit();
 
-#if UNITY_EDITOR
+        #if UNITY_EDITOR
         Debug.Log("Quit only works in build.");
-#endif
+        #endif
     }
 }

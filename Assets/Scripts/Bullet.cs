@@ -5,6 +5,9 @@ public class Bullet : MonoBehaviour
     [SerializeField] private float speed = 10f;
     [SerializeField] private float lifeTime = 3f;
     [SerializeField] private float damage;
+    [Header("Score")]
+    [SerializeField] private int enemyHitScore = 5;
+    [SerializeField] private int bossHitScore = 10;
 
     private bool hasHit;
 
@@ -31,6 +34,11 @@ public class Bullet : MonoBehaviour
         hasHit = true;
         boss.TakeDamage(damage);
 
+        if (GameStatsManager.Instance != null)
+        {
+            GameStatsManager.Instance.AddScore(bossHitScore);
+        }
+
         Vector3 hitPosition = other.ClosestPoint(transform.position);
 
         if (HitImpactVFXPool.Instance != null)
@@ -48,6 +56,10 @@ public class Bullet : MonoBehaviour
     {
         hasHit = true;
         enemy.TakeDamage(damage);
+        if (GameStatsManager.Instance != null)
+        {
+            GameStatsManager.Instance.AddScore(enemyHitScore);
+        }
 
         Vector3 hitPosition = other.ClosestPoint(transform.position);
 
